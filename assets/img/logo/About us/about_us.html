@@ -1,0 +1,1277 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<style>
+    * {
+  font-family: sans-serif;
+}
+
+.text-blk {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  line-height: 25px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+
+.responsive-cell-block {
+  min-height: 75px;
+}
+
+.responsive-container-block {
+  min-height: 75px;
+  height: fit-content;
+  width: 100%;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  justify-content: flex-start;
+}
+
+.responsive-container-block.bigContainer {
+  padding-top: 0px;
+  padding-right: 50px;
+  padding-bottom: 0px;
+  padding-left: 50px;
+  margin-top: 50px;
+  margin-right: 0px;
+  margin-bottom: 50px;
+  margin-left: 0px;
+}
+
+.responsive-container-block.Container {
+  max-width: 1320px;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+}
+
+.mainImg {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+  border-radius: 15px 50px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.blueDots {
+  position: absolute;
+  top: 150px;
+  right: 15%;
+  z-index: -1;
+  left: auto;
+  width: 80%;
+  height: 500px;
+  object-fit: cover;
+}
+
+.imgContainer {
+  position: relative;
+  width: 48%;
+}
+
+.responsive-container-block.textSide {
+  width: 48%;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  z-index: 100;
+}
+
+.text-blk.heading {
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 700;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+}
+
+.text-blk.subHeading {
+  font-size: 14px;
+  line-height: 24px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  text-align: justify;
+}
+
+.cardImg {
+  width: 31px;
+  height: 31px;
+}
+
+.cardImgContainer {
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: rgb(229, 229, 229);
+  border-right-color: rgb(229, 229, 229);
+  border-bottom-color: rgb(229, 229, 229);
+  border-left-color: rgb(229, 229, 229);
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  margin-top: 0px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+.responsive-cell-block.wk-desk-6.wk-ipadp-6.wk-tab-12.wk-mobile-12 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+}
+
+.text-blk.cardHeading {
+  font-size: 15px;
+  line-height: 28px;
+  font-weight: 700;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+}
+
+.text-blk.cardSubHeading {
+  color: rgb(153, 153, 153);
+  line-height: 22px;
+}
+
+.explore {
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 700;
+  color: white;
+  background-color: rgb(30 27 42);
+  box-shadow: rgba(244, 152, 146, 0.25) 0px 10px 20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  cursor: pointer;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-style: initial;
+  border-right-style: initial;
+  border-bottom-style: initial;
+  border-left-style: initial;
+  border-top-color: initial;
+  border-right-color: initial;
+  border-bottom-color: initial;
+  border-left-color: initial;
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+  padding-top: 17px;
+  padding-right: 40px;
+  padding-bottom: 17px;
+  padding-left: 40px;
+}
+
+.explore:hover {
+  background-image: initial;
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: #efe5e6;
+  border: 1px solid rgb(30 27 42);
+  color: black;
+}
+
+#ixvck {
+  margin-top: 60px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+.redDots {
+  position: absolute;
+  bottom: -350px;
+  right: -100px;
+  height: 500px;
+  width: 400px;
+  object-fit: cover;
+  top: auto;
+}
+
+@media (max-width: 1024px) {
+  .responsive-container-block.Container {
+    position: relative;
+    align-items: flex-start;
+    justify-content: center;
+  }
+
+  .mainImg {
+    bottom: 0px;
+  }
+
+  .imgContainer {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: auto;
+    width: 60%;
+  }
+
+  .responsive-container-block.textSide {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 70%;
+  }
+
+  .responsive-container-block.Container {
+    flex-direction: column-reverse;
+  }
+
+  .imgContainer {
+    position: relative;
+    width: auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+  }
+
+  .responsive-container-block.textSide {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    width: 100%;
+  }
+
+  .responsive-container-block.Container {
+    flex-direction: row-reverse;
+  }
+
+  .responsive-container-block.Container {
+    flex-direction: column-reverse;
+  }
+}
+
+@media (max-width: 768px) {
+  .responsive-container-block.textSide {
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .text-blk.subHeading {
+    text-align: center;
+    font-size: 17px;
+    max-width: 520px;
+  }
+
+  .text-blk.heading {
+    text-align: center;
+  }
+
+  .imgContainer {
+    opacity: 0.8;
+  }
+
+  .imgContainer {
+    height: 500px;
+  }
+
+  .imgContainer {
+    width: 30px;
+  }
+
+  .responsive-container-block.Container {
+    flex-direction: column-reverse;
+  }
+
+  .responsive-container-block.Container {
+    flex-wrap: nowrap;
+  }
+
+  .responsive-container-block.textSide {
+    width: 100%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+  }
+
+  .imgContainer {
+    width: 90%;
+  }
+
+  .imgContainer {
+    height: 450px;
+    margin-top: 5px;
+    margin-right: 33.9062px;
+    margin-bottom: 0px;
+    margin-left: 33.9062px;
+  }
+
+  .redDots {
+    display: none;
+  }
+
+  .explore {
+    font-size: 16px;
+    line-height: 14px;
+  }
+}
+
+@media (max-width: 500px) {
+  .imgContainer {
+    position: static;
+    height: 450px;
+  }
+
+  .mainImg {
+    height: 100%;
+  }
+
+  .blueDots {
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    bottom: auto;
+    right: auto;
+  }
+
+  .imgContainer {
+    width: 100%;
+  }
+
+  .responsive-container-block.textSide {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+  }
+
+  .responsive-container-block.Container {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    overflow-x: visible;
+    overflow-y: visible;
+  }
+
+  .responsive-container-block.bigContainer {
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding: 0 30px 0 30px;
+  }
+
+  .redDots {
+    display: none;
+  }
+
+  .text-blk.subHeading {
+    font-size: 16px;
+    line-height: 23px;
+  }
+
+  .text-blk.heading {
+    font-size: 28px;
+    line-height: 28px;
+  }
+
+  .responsive-container-block.textSide {
+    margin-top: 40px;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+  }
+
+  .imgContainer {
+    margin-top: 5px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 100%;
+    position: relative;
+  }
+
+  .explore {
+    padding-top: 17px;
+    padding-right: 0px;
+    padding-bottom: 17px;
+    padding-left: 0px;
+    width: 100%;
+  }
+
+  #ixvck {
+    width: 90%;
+    margin-top: 40px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-size: 15px;
+  }
+
+  .blueDots {
+    bottom: 0px;
+    width: 100%;
+    height: 80%;
+    top: 10%;
+  }
+
+  .text-blk.cardHeading {
+    font-size: 16px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 8px;
+    margin-left: 0px;
+    line-height: 25px;
+  }
+
+  .responsive-cell-block.wk-desk-6.wk-ipadp-6.wk-tab-12.wk-mobile-12 {
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+  }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800&amp;display=swap');
+
+*,
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.wk-desk-1 {
+  width: 8.333333%;
+}
+
+.wk-desk-2 {
+  width: 16.666667%;
+}
+
+.wk-desk-3 {
+  width: 25%;
+}
+
+.wk-desk-4 {
+  width: 33.333333%;
+}
+
+.wk-desk-5 {
+  width: 41.666667%;
+}
+
+.wk-desk-6 {
+  width: 50%;
+}
+
+.wk-desk-7 {
+  width: 58.333333%;
+}
+
+.wk-desk-8 {
+  width: 66.666667%;
+}
+
+.wk-desk-9 {
+  width: 75%;
+}
+
+.wk-desk-10 {
+  width: 83.333333%;
+}
+
+.wk-desk-11 {
+  width: 91.666667%;
+}
+
+.wk-desk-12 {
+  width: 100%;
+}
+
+@media (max-width: 1024px) {
+  .wk-ipadp-1 {
+    width: 8.333333%;
+  }
+
+  .wk-ipadp-2 {
+    width: 16.666667%;
+  }
+
+  .wk-ipadp-3 {
+    width: 25%;
+  }
+
+  .wk-ipadp-4 {
+    width: 33.333333%;
+  }
+
+  .wk-ipadp-5 {
+    width: 41.666667%;
+  }
+
+  .wk-ipadp-6 {
+    width: 50%;
+  }
+
+  .wk-ipadp-7 {
+    width: 58.333333%;
+  }
+
+  .wk-ipadp-8 {
+    width: 66.666667%;
+  }
+
+  .wk-ipadp-9 {
+    width: 75%;
+  }
+
+  .wk-ipadp-10 {
+    width: 83.333333%;
+  }
+
+  .wk-ipadp-11 {
+    width: 91.666667%;
+  }
+
+  .wk-ipadp-12 {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .wk-tab-1 {
+    width: 8.333333%;
+  }
+
+  .wk-tab-2 {
+    width: 16.666667%;
+  }
+
+  .wk-tab-3 {
+    width: 25%;
+  }
+
+  .wk-tab-4 {
+    width: 33.333333%;
+  }
+
+  .wk-tab-5 {
+    width: 41.666667%;
+  }
+
+  .wk-tab-6 {
+    width: 50%;
+  }
+
+  .wk-tab-7 {
+    width: 58.333333%;
+  }
+
+  .wk-tab-8 {
+    width: 66.666667%;
+  }
+
+  .wk-tab-9 {
+    width: 75%;
+  }
+
+  .wk-tab-10 {
+    width: 83.333333%;
+  }
+
+  .wk-tab-11 {
+    width: 91.666667%;
+  }
+
+  .wk-tab-12 {
+    width: 100%;
+  }
+}
+
+@media (max-width: 500px) {
+  .wk-mobile-1 {
+    width: 8.333333%;
+  }
+
+  .wk-mobile-2 {
+    width: 16.666667%;
+  }
+
+  .wk-mobile-3 {
+    width: 25%;
+  }
+
+  .wk-mobile-4 {
+    width: 33.333333%;
+  }
+
+  .wk-mobile-5 {
+    width: 41.666667%;
+  }
+
+  .wk-mobile-6 {
+    width: 50%;
+  }
+
+  .wk-mobile-7 {
+    width: 58.333333%;
+  }
+
+  .wk-mobile-8 {
+    width: 66.666667%;
+  }
+
+  .wk-mobile-9 {
+    width: 75%;
+  }
+
+  .wk-mobile-10 {
+    width: 83.333333%;
+  }
+
+  .wk-mobile-11 {
+    width: 91.666667%;
+  }
+
+  .wk-mobile-12 {
+    width: 100%;
+  }
+}
+
+/* mission vission css code */
+
+
+
+/* explore our services arrow css */
+
+
+
+  .explore i {
+    margin-left: 8px;
+    transition: transform 0.3s;
+  }
+
+  .explore:hover i {
+    transform: translateX(5px);
+  }
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+/* *{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+} 
+body{
+    font-family: 'Playfair Display', serif;
+    display: grid;
+    background-color: #f4f4f4;
+    align-content: center;
+    min-height: 100vh;
+}  */
+section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    min-height: 90vh;
+    width: 85vw;
+    margin: 0 auto;
+}
+.image{
+    background: url("/Images/about.avif") center/cover no-repeat;
+}
+.content{
+    background: #C5D3E8;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    padding-top: 15px;
+}
+.content h2{
+    text-transform: uppercase;
+    font-size: 36px;
+    letter-spacing: 6px;
+    opacity: 0.9;
+}
+.content span{
+    height: 0.5px;
+    width: 80px;
+    background: #777;
+    margin: 30px 0;
+}
+.content p{
+    padding-bottom: 15px;
+    font-weight: 300;
+    opacity: 0.7;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 1.7;
+}
+.links{
+    margin: 15px 0;
+}
+.links li{
+    border: 0.5px solid #777;
+    list-style: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    width: 160px;
+    text-align: center;
+}
+.links li a{
+    text-transform: uppercase;
+    color: #777;
+    text-decoration: none;
+}
+.links li:hover{
+    border-color: #06d6a0;
+}
+.links li:hover a{
+    color :#06d6a0;
+}
+.vertical-line{
+    height: 30px;
+    width: 0.5px;
+    background: #777;
+    margin: 0 auto;
+}
+.icons{
+    display: flex;
+    padding: 15px 0;
+}
+.icons li{
+    display: block;
+    padding: 5px;
+    margin: 5px;
+}
+.icons li i{
+    font-size: 26px;
+    opacity: 0.8;
+}
+.icons li i:hover{
+    color: #06d6a0;
+}
+
+
+/*****************/
+
+@media(max-width: 992px){
+    section{
+        grid-template-columns: 1fr;
+        width: 100%;
+    }
+    .image{
+        height: 100vh;
+    }
+    .content{
+        height: 100vh;
+    }
+    .content h2{
+        font-size: 20px;
+        margin-top: 50px;
+    }
+    .content span{
+        margin: 20px 0;
+    }
+    .content p{
+        font-size: 14px;
+    }
+    .links li a{
+        font-size: 14px;
+    }
+    .links{
+        margin: 5px 0;
+    }
+    .links li{
+        padding: 6px 10px;
+    }
+    .icons li i{
+        font-size: 15px;
+    }
+}
+
+
+
+
+
+/* mission vission css code  */
+
+
+.vision-mission {
+  padding: 50px 20px;
+  position: relative;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  max-width: 1200px;
+  margin: auto;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.text-content {
+  flex: 1;
+  min-width: 300px;
+  z-index: 2; 
+}
+
+.text-content h4 {
+  color: #230943;
+  text-transform: uppercase;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.text-content h1 {
+  font-size: 16px;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+.vision,
+.mission {
+  margin-bottom: 30px;
+}
+
+.vision h3,
+.mission h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.vision hr {
+  width: 100px;
+  border: 1px solid #00bcd4;
+  margin: 10px 0;
+}
+
+.vision p {
+  color: #c7c7c7;
+  line-height: 1.6;
+}
+
+.mission-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.mission-item i {
+  font-size: 24px;
+  color: #00bcd4;
+}
+
+.mission-item h4 {
+  margin: 0 0 5px;
+}
+
+.mission-item p {
+  color: #c7c7c7;
+  margin: 0;
+}
+
+.image-content {
+  flex: 1;
+  min-width: 300px;
+  position: relative;
+  z-index: 1; 
+}
+
+.image-content img {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+  transform: translateX(-100px); 
+}
+
+@media (max-width: 768px) {
+  .image-content img {
+    transform: translateX(0); 
+  }
+}
+
+
+/* directior css start */
+
+
+/* Container */
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+/* Section Padding */
+.py-5 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+/* Row Layout */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; 
+}
+/* Card Styling */
+.card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.3s ease;
+  margin-bottom: 20px; 
+}
+
+
+.card:hover {
+  transform: translateY(-10px);
+}
+
+
+.icon {
+  font-size: 40px;
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 1.75rem;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+
+p {
+  font-size: 1rem;
+  color: black;
+  margin-bottom: 20px;
+}
+
+
+.learn-more {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.learn-more:hover {
+  color: #0056b3;
+}
+
+@media (max-width: 991px) {
+  .col-lg-4 {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+
+
+@media (max-width: 767px) {
+  .col-md-6 {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+
+</style>
+
+
+</head>
+
+<body>
+
+    <div class="responsive-container-block bigContainer">
+        <div class="responsive-container-block Container">
+          <div class="imgContainer">
+            <img class="mainImg" src="/Images/about.avif">
+            <!-- <img class="mainImg" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/aw2.svg"> -->
+          </div>
+          <div class="responsive-container-block textSide">
+            <p class="text-blk heading">
+              About Us
+            </p>
+            <p class="text-blk subHeading">
+                Welcome to CukNuk, where innovation meets tradition in the world of frozen foods. Founded in 2020 as a family-owned business, CukNuk has grown into a global leader in frozen food manufacturing, proudly crafting exceptional products in India and delivering them to customers worldwide.
+                <br>Our passion lies in redefining frozen foods by creating healthy, flavorful, and convenient meal solutions. At the heart of our operations is a commitment to sustainability, quality, and health. We produce a diverse range of products that are free from chemicals, artificial colors, and additives, ensuring that every bite is wholesome and nourishing.
+                <br>Our passion lies in redefining frozen foods by creating healthy, flavorful, and convenient meal solutions. At the heart of our operations is a commitment to sustainability, quality, and health. We produce a diverse range of products that are free from chemicals, artificial colors, and additives, ensuring that every bite is wholesome and nourishing.
+            </p>
+            <div class="responsive-cell-block wk-desk-6 wk-ipadp-6 wk-tab-12 wk-mobile-12">
+              <div class="cardImgContainer">
+                <img class="cardImg" src="/Images/high-quality.png">
+              </div>
+              <div class="cardText">
+                <p class="text-blk cardHeading">
+                    Quality Assurance
+                </p>
+                <p class="text-blk cardSubHeading" style="font-size: 13px; text-align: justify;">
+                    We guarantee excellence in every product, delivering taste and nutrition you can trust.
+                </p>
+              </div>
+            </div>
+            <div class="responsive-cell-block wk-desk-6 wk-ipadp-6 wk-tab-12 wk-mobile-12">
+              <div class="cardImgContainer">
+                <img class="cardImg" src="/Images/gear.png">
+              </div>
+              <div class="cardText">
+                <p class="text-blk cardHeading">
+                    Sustainability
+                </p>
+                <p class="text-blk cardSubHeading" style="font-size: 13px; text-align: justify;">
+                    We prioritize eco-friendly practices, from raw material sourcing to sustainable packaging, contributing to a healthier planet.
+                </p>
+              </div>
+            </div>
+            <div class="responsive-cell-block wk-desk-6 wk-ipadp-6 wk-tab-12 wk-mobile-12">
+              <div class="cardImgContainer">
+                <img class="cardImg" src="/Images/healthcare.png">
+              </div>
+              <div class="cardText">
+                <p class="text-blk cardHeading" style="font-size: 13px; text-align: justify;">
+                    Health & Wellness
+                </p>
+                <p class="text-blk cardSubHeading" style="font-size: 13px; text-align: justify;">
+                    Our products are designed to be wholesome and nutritious, ensuring a balance of flavor and health.
+                </p>
+              </div>
+            </div>
+            <div class="responsive-cell-block wk-desk-6 wk-ipadp-6 wk-tab-12 wk-mobile-12">
+              <div class="cardImgContainer">
+                <img class="cardImg" src="/Images/idea.png">
+              </div>
+              <div class="cardText">
+                <p class="text-blk cardHeading">
+                	Innovation
+                </p>
+                <p class="text-blk cardSubHeading" style="font-size: 13px; text-align: justify;">
+                    We continually push boundaries to bring fresh ideas to the frozen food industry, focusing on healthier, more sustainable solutions.
+                </p>
+              </div>
+            </div>
+            <a>
+              <button class="explore">
+                Explore our Services <i class="fa-solid fa-arrow-right"></i>
+              </button>
+            </a>
+          </div>
+          <img class="redDots" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/cw3.svg">
+        </div>
+      </div>
+
+     
+
+    <!-- mission vission code start -->
+
+    <section class="responsive-container-block bigContainer">
+    
+       <div class="Container">
+        <div class="row" >
+          <!-- Content Section -->
+          <div class="imgContainer">
+            <h4>Vision & Mission</h4>
+            <h1>Shaping the Future with Develop sustainable packaging solutions</h1>
+            <div class="vision">
+              <h3>Our Vision</h3>
+              <hr />
+              <p style="color: black; text-align: justify; font-size: 14px;">
+                To redefine the frozen food experience, becoming a global beacon of healthy, sustainable, and convenient meal solutions.
+We envision a future where frozen food is not just about convenience but also about health, sustainability, and culinary delight. Our goal is to inspire confidence in every customer by delivering products that balance natural ingredients, innovative packaging, and exceptional taste.
+
+              </p>
+            </div>
+            <div class="mission">
+              <h3>Our Mission</h3>
+              <p style="color: black; text-align: justify; font-size: 14px;">To craft healthy, flavorful, and sustainable frozen food options that simplify mealtime, enhance lives, and contribute to a better world.</p>
+              <div class="mission-item">
+                <i class="fas fa-cogs"></i>
+                <div>
+                  <h4>Develop Cutting-Edge Solutions</h4>
+                  <p style="color: black; text-align: justify; font-size: 14px;">
+                    Empowering consumers with accessible, nutritious meal options that make life easier without compromising on quality or flavor.
+                  </p>
+                </div>
+              </div>
+              <div class="mission-item">
+                <i class="fas fa-robot"></i>
+                <div>
+                  <h4>Enable Efficiency</h4>
+                  <p style="color: black; text-align: justify; font-size: 14px;">
+                    	Empowering consumers with accessible, nutritious meal options that make life easier without compromising on quality or flavor.
+                  </p>
+                </div>
+              </div>
+              <div class="mission-item">
+                <i class="fas fa-shield-alt"></i>
+                <div>
+                  <h4>Integrity & Family Spirit</h4>
+                  <p style="color: black; text-align: justify; font-size: 14px;">
+                    Using natural ingredients to produce frozen foods free from harmful chemicals, artificial colors, and additives.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- Image Section -->
+          <div class="imgContainer">
+            <img src="/Images/about.avif" alt="Robot" />
+          </div>
+        </div>
+        </div>
+      </section>
+
+      <!-- Healthy Frozen Food, Redefined start -->
+
+
+      <!-- director content -->
+     
+      <section class="container py-5">
+        <div class="row g-4">
+          <!-- Card 1 -->
+          <div class="col-lg-4 col-md-6">
+            <div class="card">
+              <div class="icon">
+                <i class="fas fa-shield-alt"></i>
+              </div>
+              <h4>Director: Pretti Dubbal</h4>
+              <p style="font-weight: bold;">Education: MSC, MBA (Sales)</p>
+              <p style="text-align: justify; color: black;">
+                Since 2004, serving as Managing Director at Savvy Pure Aqua Pvt. Ltd. in the PDW industry, 
+                with previous roles encompassing Production and QA departments. Overseeing operations within mineral water/PDW plants,
+                 I have been deeply involved in troubleshooting and meticulously monitoring the production processes. 
+                 Since 2008, I have been entrusted with representing the master franchise for renowned brands such as McDowell’s No. 1, Signature, Bagpiper, etc., in Maharashtra. In this capacity, my responsibilities extend to managing sales and customer care departments, catering to a diverse clientele of over 1000 valuable customers. I actively supervise supply chains to corporate clients, 
+                 adept at converting leads into potential customers while fostering enduring relationships with existing clients.
+              </p>
+              
+            </div>
+          </div>
+    
+          <!-- Card 2 -->
+          <div class="col-lg-4 col-md-6">
+            <div class="card">
+              <div class="icon">
+                <i class="fas fa-bolt"></i>
+              </div>
+              <h4>Joint Managing Director: Vijaysinh Dubbal</h4>
+              <p style="font-weight: bold;">Education: B.Com, MBA (Marketing)</p>
+              <p style="text-align: justify; color: black;">
+                Since 2004, I have served as the Managing Director for Savvy Pure Aqua Pvt. Ltd. in the PDW industry, with a
+                 focus on overseeing licensing and finance operations within the company. Since 2008, I have been entrusted with representing
+                  the master franchise for prestigious brands such as McDowell’s No. 1, Signature, Red Label, etc., in Maharashtra. In this capacity, my responsibilities extend to managing the sales and finance departments, catering to a diverse clientele of over 1000 valuable customers. I diligently monitor supply chains to corporate clients,
+                 adept at converting leads into potential customers while nurturing enduring relationships with existing clients.
+              </p>
+              
+            </div>
+          </div>
+    
+          <!-- Card 3 -->
+          <div class="col-lg-4 col-md-6">
+            <div class="card">
+              <div class="icon">
+                <i class="fas fa-cogs"></i>
+              </div>
+              <h4>Director: Ar. Shreeya Dubal</h4>
+              <p style="font-weight: bold;">Education: B.Arch., MBA (Global)</p>
+              <p style="color: black; text-align: justify;">
+                Ar. Shreeya Dubal, a visionary leader with a background in architecture and an MBA (Global) from a prestigious UK university, is the face of CukNuk in the United Kingdom and Europe. As Director, she oversees sales, logistics, and business development, ensuring the seamless delivery of CukNuk’s high-quality frozen products across these regions.
+                Shreeya plays a key role in strengthening relationships with buyers, tailoring products to meet local market needs, and driving sustainable growth. She leads marketing and brand representation efforts, enhancing CukNuk’s visibility through innovative strategies and digital assets. Her operational expertise extends to managing supply chains and ensuring raw materials meet strict quality standards, often working closely with farmers to optimize crop yields.
+                Her leadership is rooted in a commitment to health and sustainability, championing frozen products free from chemicals, artificial colors, and additives, packaged using environmentally friendly materials. Shreeya’s dedication to innovation and customer satisfaction has solidified CukNuk’s position as a trusted name in frozen foods, driving its success in the UK, Europe, and beyond.
+                
+              </p>
+         
+            </div>
+          </div>
+        </div>
+      </section>
+    
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+   
+  
+
+</body>
+
+</html>
