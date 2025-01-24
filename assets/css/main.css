@@ -342,7 +342,7 @@ table {
 p,
 li,
 span {
-  color: #727885;
+  color: #000000;
   margin-bottom: 0;
 }
 
@@ -5652,7 +5652,7 @@ h6 {
   margin-bottom: 15px;
 }
 .stocox-support-box a {
-  color: #727885;
+  color: #0b0b0b;
   display: block;
 }
 .stocox-support-box:hover .icon {
@@ -7399,7 +7399,7 @@ blockquote code {
 }
 .sotcox-backtotop button {
   text-transform: capitalize;
-  color: #727885;
+  color: #0a0a0a;
 }
 .sotcox-backtotop button i {
   margin-right: 5px;
@@ -7496,7 +7496,7 @@ blockquote code {
 .sotcox-footer-widgets ul li a {
   position: relative;
   padding-left: 20px;
-  color: #727885;
+  color: #000000;
 }
 .sotcox-footer-widgets ul li a::after {
   position: absolute;
