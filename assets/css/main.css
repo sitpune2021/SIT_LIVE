@@ -586,7 +586,7 @@ span.border-effect:hover {
   z-index: 2;
 }
 .sotcox-section-heading .sub-heading {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 700;
   text-transform: uppercase;
   color: #266FF2;
@@ -609,8 +609,8 @@ span.border-effect:hover {
   bottom: -2px;
 }
 .sotcox-section-heading .heading {
-  font-size: 12px;
-  line-height: 20px;
+  font-size: 48px;
+  line-height: 60px;
   letter-spacing: -0.01em;
 }
 @media (max-width: 767px) {
@@ -5083,7 +5083,7 @@ h6 {
 }
 
 .sotcox-getquote-form-wrapper {
-  background: #266FF2;
+  background: #71c7e3;
   padding: 60px;
   padding-top: 50px;
   border-radius: 0px 10px 10px 0px;
@@ -5112,9 +5112,10 @@ h6 {
 }
 .sotcox-getquote-form-wrapper .sotcox-input-field input,
 .sotcox-getquote-form-wrapper .sotcox-input-field textarea {
-  background: #2377f3;
+  background: #71c7e3;
   padding: 10px 20px;
-  color: #baeeff;
+  color: #fff;
+  border: 1px solid white;
 }
 .sotcox-getquote-form-wrapper .sotcox-input-field input::placeholder,
 .sotcox-getquote-form-wrapper .sotcox-input-field textarea::placeholder {
@@ -5124,7 +5125,7 @@ h6 {
   min-height: 100px;
 }
 .sotcox-getquote-form-wrapper .sotcox-btn {
-  background: #09C3FF;
+  background: #f37c04;
 }
 .sotcox-getquote-form-wrapper .sotcox-btn span {
   background: #1B2E59;
