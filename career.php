@@ -256,7 +256,7 @@
    
 
     <!--====== BREADCRUMB SECTION START ======-->
-    <section class="breadcrumb-area fix theme-dark-bg  bg_img">
+    <!-- <section class="breadcrumb-area fix theme-dark-bg  bg_img">
         <div class="small-shape small-shape__1"><img src="assets/img/shapes/small-shape-5.png" alt=""></div>
         <div class="small-shape small-shape__2"><img src="assets/img/shapes/small-shape-6.png" alt=""></div>
         <div class="small-shape small-shape__3"><img src="assets/img/shapes/small-shape-2.png" alt=""></div>
@@ -283,7 +283,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--====== BREADCRUMB SECTION END ======-->
 
 
@@ -422,7 +422,7 @@
                                 <p class="mb-1">
                                     <i class="fa fa-map-marker-alt text-primary me-2"></i>Pune
                                     <i class="far fa-clock text-primary mx-2"></i>Full Time
-                                    <i class="far fa-money-bill-alt text-primary mx-2"></i><i class="fa-solid fa-rupee-sign"></i>123 - <i class="fa-solid fa-rupee-sign"></i>456
+                                    <i class="far fa-money-bill-alt text-primary mx-2"></i><i class="fa-solid fa-indian-rupee-sign"></i>123 - <i class="fa-solid fa-indian-rupee-sign"></i>456
                                 </p>
                                 <small><i class="far fa-calendar-alt text-primary me-2"></i>Date Line: 01 Jan, 2025</small>
                             </div>
