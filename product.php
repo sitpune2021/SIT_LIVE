@@ -1,8 +1,12 @@
+
+
+
+
 <!doctype html>
 <html class="no-js" lang="zxx">
 
 
-<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:52 GMT -->
+<!-- Mirrored from techsometimes.com/products/html/sotcox/blog.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:54 GMT -->
 <head>
 
     <!--========= Required meta tags =========-->
@@ -12,7 +16,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!--====== Title ======-->
-    <title>SIT - Technology & IT Solutions Service </title>
+    <title>SIT - Technology & IT Solutions Service</title>
 
     <!--====== Favicon ======-->
     <link rel="shortcut icon" href="assets/img/logo/logo.png" type="images/x-icon">
@@ -48,50 +52,50 @@
     <!--====== HEADER END ======-->
 
     <!--====== HEADER START ======-->
-         <header class="sotcox-header pt-3 pb-50" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
+       <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
         <div class="container-fluid sotcox-container__fluid">
             <div class="row">
                 <div class="col-xl-10 col-lg-4 col-sm-6 col-7 align-self-center">
                     <div class="sotcox-logo-menu-wrapper">
-                        <a href="index.html" class="sotcox-logo">
+                        <a href="index.php" class="sotcox-logo">
                             <img src="assets/img/logo/logo.png" alt="LOGO">
                         </a>
                         <div class="sotcox-menu-wrapper">
                             <div class="sotcox-main-menu">
                                 <nav id="sotcox-navbar">
                                     <ul>
-                                        <li><a href="index.html">Home</a>
+                                        <li><a href="index.php">Home</a>
                                            
                                         </li>
-                                        <li><a href="about.html">About Us</a></li>
-                                         <li ><a href="services.html">Services</a>
-                                          <!--  <ul class="sub-menu" >
-                                                <li><a href="app.html">Web Development</a>
+                                        <li><a href="about.php">About Us</a></li>
+                                         <li ><a href="services.php">Services</a>
+                                      <!--     <ul class="sub-menu" >
+                                                <li><a href="web-development.php">Web Development</a>
                                                 <ul class="sub-menu" style="width: 300px;">
-                                                <li ><a href="php.html">PHP Development</a></li>
-                                                <li><a href="angularjs.html">AngularJS Development</a></li>
-                                                <li><a href="uiux.html">UI & UX Design Development</a></li>
+                                                <li ><a href="php-development.php">PHP Development</a></li>
+                                                <li><a href="angularjs-development.php">AngularJS Development</a></li>
+                                                <li><a href="uiux-development.php">UI & UX Design Development</a></li>
                                                 
-                                                <li><a href="laravel.html">Laravel Development</a></li>
-                                                 <li><a href="codeigniter.html">Codeigniter Development</a></li>
-                                                <li><a href="research.html">Content Management System</a></li>
+                                                <li><a href="laravel-development.php">Laravel Development</a></li>
+                                                 <li><a href="codeigniter-development.php">Codeigniter Development</a></li>
+                                                <li><a href="content-management-system.php">Content Management System</a></li>
                                                
                                             </ul></li>
-                                                <li><a href="software.html">Software Development</a></li>
-                                                <li><a href="marketing.html">Digital Marketing</a></li>
-                                                <li><a href="mobile.html">App Development</a></li>
+                                                <li><a href="software-development.php">Software Development</a></li>
+                                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                                <li><a href="mobile-development.php">App Development</a></li>
                                                
-                                            </ul>
-                                        </li> -->
-                                        <li><a href="product.html">Products</a>
-                                        <li><a href="portfolio.html">Portfolio</a>
+                                            </ul> -->
+                                        </li>
+                                        <li><a href="product.php">Products</a>
+                                        <li><a href="portfolio.php">Portfolio</a>
                                         
                                         </li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
-                            <!-- <a href="contact.html" class="sotcox-btn">free quote <span></span></a> -->
+                            <!-- <a href="contact.php" class="sotcox-btn">free quote <span></span></a> -->
                         </div>
                     </div>
                 </div>
@@ -117,7 +121,6 @@
             </div>
         </div>
     </header>
-
     <!--====== HEADER END ======-->
 
     <!--====== OVERLAY START ======-->
@@ -128,7 +131,7 @@
     <div class="search-popup">
         <div class="color-layer"></div>
         <button class="close-search"><span class="far fa-arrow-up"></span></button>
-        <form method="post" action="https://techsometimes.com/products/html/sotcox/blog.html">
+        <form method="post" action="https://techsometimes.com/products/html/sotcox/blog.php">
             <div class="form-group">
                 <input type="search" name="search-field" value="" placeholder="Search Here" required="">
                 <button type="submit"><i class="far fa-search"></i></button>
@@ -150,7 +153,7 @@
         </nav>
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
             <div class="side-info__logo">
-                <a href="index-2.html">
+                <a href="index-2.php">
                     <img src="assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
@@ -162,7 +165,7 @@
             <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel"
                 aria-labelledby="menu-tab-1-tab">
                 <div class="search-box">
-                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.html" method="get">
+                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
                         <div>
                             <input type="search" value="" required="" name="s" placeholder="Search...">
                             <button type="submit"><i class="far fa-search"></i></button>
@@ -177,7 +180,7 @@
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-10">About us</h4>
                         <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
-                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.html">Contact us <span></span></a>
+                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
                         <h4 class="title mb-15">Contact us</h4>
@@ -197,10 +200,10 @@
                         </ul>
                     </div>
                     <div class="sotcox-social-links mt-30">
-                        <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#0"><i class="fab fa-twitter"></i></a>
-                        <a href="#0"><i class="fab fa-google-plus-g"></i></a>
-                        <a href="#0"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
+                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
@@ -208,10 +211,13 @@
     </aside>
     <!--====== SIDE INFO FOR MOBILE END ======-->
 
-  <aside class="side-info-wrapper show-all">
-        <div class="side-info__wrapper d-flex align-items-center justify-content-between pb-0">
+
+
+    <!--====== SIDE INFO FOR DESKTOP START ======-->
+    <aside class="side-info-wrapper show-all">
+        <div class="side-info__wrapper d-flex align-items-center justify-content-between">
             <div class="side-info__logo">
-                <a href="index.html">
+                <a href="index.php">
                     <img src="assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
@@ -222,23 +228,25 @@
         <div class="side-info">
             <div class="side-info__content mb-35">
                 <h4 class="title mb-10">About us</h4>
-                <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
-                <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.html">Contact us <span></span></a>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
+                    et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud nisi ut aliquip ex ea commodo
+                    consequat.</p>
+                <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
             </div>
             <div class="contact__info--wrapper mt-15">
                 <h4 class="title mb-15">Contact us</h4>
                 <ul class="contact__info list-unstyled">
                     <li>
                         <span><i class="fas fa-map-marker-alt"></i></span>
-                        <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road , Hadapsar 411028</p>
+                        <p>Bowery St., New York, NY 10013, USA</p>
                     </li>
                     <li>
                         <span><i class="fas fa-phone"></i></span>
-                        <p> +91-9325993982</p>
+                        <p>+1255-568-6523</p>
                     </li>
                     <li>
                         <span><i class="fas fa-envelope-open-text"></i></span>
-                        <p>info@sitsolutions.co.in</p>
+                        <p>information@gmail.com</p>
                     </li>
                 </ul>
             </div>
@@ -250,239 +258,110 @@
             </div>
         </div>
     </aside>
+    <!--====== SIDE INFO FOR DESKTOP END ======-->
 
-
-
-    <div class="container py-2 pb-0">
-    <div class="row align-items-center">
-        <!-- Image Section -->
-        <div class="col-12 col-md-6 text-center">
-            <img src="assets/img/about/code.png" alt="Our Story" class="img-fluid"
-                >
-        </div>
-
-        <!-- Content Section -->
-        <div class="col-12 col-md-6">
-            <h3 class="mb-3" style="font-weight:bold; text-align:center; font-size: 40px; padding-top: 25px;">Codeigniter Development 
-            </h3>
-            <p class="text-dark" style="font-size: 17px; color:black; text-align: justify;line-height:25px;">
-             
-
- Codeigniter it has been known as a lightweight framework for developing web applications. For you as a developer in order to make a decision on which framework to be used in your project it depends on various factors. You need to research on factors like framework stability, documentation, support, features, and even examples of projects using such framework.
-            </p>
-        </div>
-    </div>
-</div>
-
-
-   <div class="container py-0 pb-0">
-    <div class="row align-items-center">
-        <!-- Image Section -->
-      
-        <!-- Content Section -->
-        <div class="col-12 col-md-6">
-            
-            <p class="text-dark" style="font-size: 17px; color:black; text-align: justify;line-height:25px;">
-  
- Codeigniter it has been known as a lightweight framework for developing web applications. For you as a developer in order to make a decision on which framework to be used in your project it depends on various factors. You need to research on factors like framework stability, documentation, support, features, and even examples of projects using such framework.  
- 
-            </p>
-        </div>
-
-          <div class="col-12 col-md-6 text-center">
-            <img src="assets/img/about/code-1.png" alt="Our Story" class="img-fluid"
-                >
-        </div>
-
-    </div>
-</div>
-
- <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-0 pb-5">
+    <!--====== BREADCRUMB SECTION START ======-->
+    <!-- <section class="breadcrumb-area fix theme-dark-bg  bg_img">
+        <div class="small-shape small-shape__1"><img src="assets/img/shapes/small-shape-5.png" alt=""></div>
+        <div class="small-shape small-shape__2"><img src="assets/img/shapes/small-shape-6.png" alt=""></div>
+        <div class="small-shape small-shape__3"><img src="assets/img/shapes/small-shape-2.png" alt=""></div>
+        <div class="small-shape small-shape__4"><img src="assets/img/shapes/small-shape-8.png" alt=""></div>
         <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-xl-10">
-                    <div class="sotcox-section-heading text-center mb-0">
-                       
-                        <h2 class="heading" style="font-size: 35px;">
-                            We provide
-                            solutions
-                            for your business!</h2>
-                    </div>
-                </div>
-            </div>
- <div class="row mt-20">
-                
-                <div class="col-xl-12 col-lg-12 pb-5">
-                    <div class="row">
-                       
-                          <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-2.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles"><h4 class="titles">MVC Architecture
-</h4>
-    <p>
-
-
-All our programmers are proficient in comprehending and handling the Model-View-Controller architecture, which ultimately provides easy management and flexibility.
-
-
-</p>
-                                </div>
-                            </div>
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="sotcox-breadcrumb-wrapper position-relative pt-190 pb-190">
+                        <h2 class="page-title">
+                    Products</h2>
+                        <div class="sotcox-breadcrumb breadcrumbs">
+                            <ul class="list-unstyled d-flex align-items-center">
+                                <li class="sotcox-item duxinbcrumb-begin">
+                                    <a href="index.php"><span>Home</span></a>
+                                </li>
+                                <li class="sotcox-item duxinbcrumb-end">
+                                    <span>Products</span>
+                                </li>
+                            </ul>
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-2.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Integration With  APIs</h4>
-                                    <p>
-
-Our team seamlessly integrates third-party services such as payment gateway solutions, email services, social media, analytics in order to make scalable and reliable applications.</p>
-                                </div>
-                            </div>
+                        <div class="right-img">
+                            <img src="assets/img/bg/breadcrumb-bg.png" alt="">
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Multiple Platform Support</h4>
-                                    <p>
-
-This framework provides support to different data platforms (Linux, Mac OS, Windows). We work on all these platforms to implement CodeIgniter and attain better solutions.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                         <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Framework  Solutions</h4>
-                                    <p>
-
-
-
-We have extensive experience in working with various PHP frameworks with each functionality parameter and unparalleled customization skills.
-
-
-
-
-.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                         <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Error-Free Coding</h4>
-                                    <p>
-
-Our developers are updated with all the latest versions of PHP language and its configurations. Being abreast with all the industry trends, they can offer error-free and genuine implementation of CodeIgniter..</p>
-                                </div>
-                            </div>
-                        </div>
-
-                         <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Extensive Back-End Support</h4>
-                                    <p>
-
-We provide you a powerful & secure back-end support to ensure the security of your data. Comprehensive and extremely flexible solutions promise the cutting edge web application for your business needs.</p>
-                                </div>
-                            </div>
-                        </div>
-
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </section> -->
+    <!--====== BREADCRUMB SECTION END ======-->
 
-   
+    <!--====== BLOG SECTION END ======-->
+    <div class="sotcox-blog-area pt-3 pb-5">
+    <div class="container">
+    <div class="row justify-content-center">
+                <div class="col-xl-8">
+                    <div class="sotcox-section-heading sotcox-section-heading__style-2 text-center mb-60">
+                        <!-- <span class="sub-heading">get free quote</span> -->
+                        <h2 class="heading">Our Products</h2>
+                    </div>
+                </div>
+            </div>
+        <div class="row">
+            <!-- Main content column (left side) -->
+            <div class="col-xl-6">
+                <div class="blog__wrapper mt-none-75 pr-25">
+                    <article class="sotcox-post-box sotcox-onhover-zoom format format-image mt-70">
+                        <div class="thumb mb-40">
+                            <img src="assets/img/blog/blog-3-1.jpg" alt="img">
+                        </div>
+                        <div class="content">
+                            <ul class="meta-info list-unstyled d-flex align-items-center">
+                                <li><a href="#"><i class="far fa-user"></i> Sotcox</a></li>
+                                <li><a href="#"><i class="far fa-calendar-alt"></i> october 28,2024</a></li>
+                                <li><a href="#"><i class="far fa-comment"></i> 05</a></li>
+                                <li><a href="#"><i class="far fa-eye"></i> 1,526 views</a></li>
+                            </ul>
+                            <h2 class="title border-effect">
+                                <a href="#">What’s holding the IT solution industry?</a>
+                            </h2>
+                            <div class="post-excerpt mt-25">
+                                <p>Along with the deep knowledge of software architecting and coding principles, we have accumulated vast domain experience and understanding of the context, in which software operates. We develop web, mobile, desktop, and cloud applications as well as SaaS products for the following use cases.</p>
+                            </div>
+                           
+                        </div>
+                    </article>
+                    <!-- Repeat for other articles as needed -->
+                </div>
+            </div>
 
-
-  <div class="container py-2 pb-5" style="text-align: center;">
-    <div class="row align-items-center">
-        <!-- Image Section -->
-        <h1>Codeigniter Framework Development Services</h1>
-        <!-- Content Section -->
-        <div class="col-12 col-md-12">
-            
-            <p class="text-dark pt-3" style="font-size: 17px; color:black; text-align: center;line-height:25px;">
-  
- Codeigniter it has been known as a lightweight framework for developing web applications. For you as a developer in order to make a decision on which framework to be used in your project it depends on various factors. You need to research on factors like framework stability, documentation, support, features, and even examples of projects using such framework.  
- 
-            </p>
+            <!-- Sidebar column (right side) -->
+            <div class="col-xl-6">
+                 <div class="blog__wrapper mt-none-75 pr-25">
+                    <article class="sotcox-post-box sotcox-onhover-zoom format format-image mt-70">
+                        <div class="thumb mb-40">
+                            <img src="assets/img/blog/blog-3-1.jpg" alt="img">
+                        </div>
+                        <div class="content">
+                            <ul class="meta-info list-unstyled d-flex align-items-center">
+                                <li><a href="#"><i class="far fa-user"></i> Sotcox</a></li>
+                                <li><a href="#"><i class="far fa-calendar-alt"></i> october 28,2024</a></li>
+                                <li><a href="#"><i class="far fa-comment"></i> 05</a></li>
+                                <li><a href="#"><i class="far fa-eye"></i> 1,526 views</a></li>
+                            </ul>
+                            <h2 class="title border-effect">
+                                <a href="#">What’s holding the IT solution industry?</a>
+                            </h2>
+                            <div class="post-excerpt mt-25">
+                                <p>Along with the deep knowledge of software architecting and coding principles, we have accumulated vast domain experience and understanding of the context, in which software operates. We develop web, mobile, desktop, and cloud applications as well as SaaS products for the following use cases.</p>
+                            </div>
+                            
+                        </div>
+                    </article>
+                    <!-- Repeat for other articles as needed -->
+                </div>
+            </div>
         </div>
-
-          <br>
-          <div class="row pt-5">
-          
-         
-          <div class="col-lg-4 ">
-            
-            <ul><li class="text-start">Customization &amp; integration services</li>
-
-<li class="text-start">CodeIgnitor Consulting service</li>
-
-<li class="text-start">Custom development maintenance &amp; support</li>
-<li class="text-start">CodeIgniter Integration Services</li></ul>
-
-          </div> 
-
-           <div class="col-lg-4 ">
-         
-       <ul ><li class="text-start">CodeIgniter website development
-</li>
-
-<li class="text-start"> Web based CMS Development
-</li>
-<li class="text-start">CodeIgniter Migration Solution
-</li>
-
-<li class="text-start">Portal development</li><ul>
-
-          </ul></ul></div>
-           <div class="col-lg-4 ">
-         
-       <ul><li class="text-start" >eCommerce development application migration
-
-</li>
-
-<li class="text-start">CodeIgniter Extension Development
-
-</li>
-<li class="text-start">CI Ajax Based Shopping cart
-</li>
-
-<li class="text-start">
-CodeIgniter application development</li><ul>
-
-          </ul></ul></div>
-          
-        </div>
-
     </div>
 </div>
-</div>
 
+    <!--====== BLOG SECTION END ======-->
 
     <!--====== NEWSLETTER SECTION START ======-->
    <!--  <div class="sotcox-newsletter-section">
@@ -519,7 +398,7 @@ CodeIgniter application development</li><ul>
     <!--====== NEWSLETTER SECTION END ======-->
 
     <!--====== CONTACT INFO SECTION START ======-->
-   <!--  <div class="sotcox-contact-info theme-light-bg pt-130">
+    <div class="sotcox-contact-info theme-light-bg pt-5 pb-5">
         <div class="container">
             <div class="row mt-none-30">
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
@@ -531,7 +410,7 @@ CodeIgniter application development</li><ul>
                         <div class="content">
                             <span>free consultation</span>
                             <p>Schedule a Free <br> Consultation With Our <br> Specialist</p>
-                            <a href="contact.html" class="sotcox-btn">schedule now <span></span></a>
+                            <a href="contact.php" class="sotcox-btn">schedule now <span></span></a>
                         </div>
                     </div>
                 </div>
@@ -544,7 +423,7 @@ CodeIgniter application development</li><ul>
                         <div class="content">
                             <span>request</span>
                             <p>Begin Your Adventure <br> With Experienced <br> Professionals</p>
-                            <a href="contact.html" class="sotcox-btn">send request <span></span></a>
+                            <a href="contact.php" class="sotcox-btn">send request <span></span></a>
                         </div>
                     </div>
                 </div>
@@ -557,27 +436,37 @@ CodeIgniter application development</li><ul>
                         <div class="content">
                             <span>hellp desk</span>
                             <p>Do You Have Questions or <br> Want More Information? <br> Call Now.</p>
-                            <div class="info-call">
-                                <span class="icon"><img src="assets/img/icons/phone-2.png" alt=""></span>
-                                <span class="number">865-588-4687</span>
+                        
+                                
+                                <div class="info-call">
+                                    <span class="icon">
+                                      <img src="assets/img/icons/phone-2.png" alt="">
+                                    </span>
+                                    <span class="number" style="font-size: 20px;">
+                                      <a href="tel:+919325993982" style="text-decoration: none; color: inherit;">
+                                        +91-9325993982
+                                      </a>
+                                    </span>
+                              
+                                  
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
     <!--====== CONTACT INFO SECTION END ======-->
 
-  <!--====== FOOTER START ======-->
-  <footer class="sotcox-footer theme-light-bg pt-0" >
+   <!--====== FOOTER START ======-->
+   <footer class="sotcox-footer theme-light-bg pt-0" >
     <div class="sotcox-footer-widgets" >
         <div class="container">
             <div class="row mt-none-30">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
                     <div class="widget">
                         <div class="about-widget">
-                            <a href="index.html" class="sotcox-footer-logo mb-20">
+                            <a href="index.php" class="sotcox-footer-logo mb-20">
                                 <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
                             </a>
                           <div class="container mt-0">
@@ -612,11 +501,11 @@ CodeIgniter application development</li><ul>
                     <div class="widget">
                         <h3 class="widget-title" >Services</h3>
                         <ul >
-                            <li ><a href="mobile.html" >App Development</a></li>
-                            <li><a href="software.html" >Software Development</a></li>
-                            <li><a href="app.html" >Web Development</a></li>
-                            <li><a href="marketing.html" >Digital Marketing</a></li>
-                            <li><a href="portfolio.html" >Portfolio</a></li>
+                            <li ><a href="mobile-development.php" >App Development</a></li>
+                            <li><a href="software-development.php" >Software Development</a></li>
+                            <li><a href="web-development.php" >Web Development</a></li>
+                            <li><a href="digital-marketing.php" >Digital Marketing</a></li>
+                            <li><a href="portfolio.php" >Portfolio</a></li>
                         </ul>
                     </div>
                     <div class="sotcox-social-links mt-40">
@@ -630,11 +519,11 @@ CodeIgniter application development</li><ul>
                     <div class="widget">
                         <h3 class="widget-title">Information</h3>
                          <ul>
-                            <li><a href="career.html">Career</a></li>
-                            <li><a href="about.html">Our Team</a></li>
-                            <li><a href="contact.html">Contact us</a></li>
-                            <li><a href="services.html">Services</a></li>
-                            <li><a href="product.html">Our Products
+                            <li><a href="career.php">Career</a></li>
+                            <li><a href="about.php">Our Team</a></li>
+                            <li><a href="contact.php">Contact us</a></li>
+                            <li><a href="services.php">Services</a></li>
+                            <li><a href="product.php">Our Products
                             </a></li>
                         </ul> 
                        
@@ -680,5 +569,5 @@ CodeIgniter application development</li><ul>
 </body>
 
 
-<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
 </html>

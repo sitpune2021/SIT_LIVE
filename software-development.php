@@ -3,7 +3,7 @@
 <html class="no-js" lang="zxx">
 
 
-<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:52 GMT -->
+<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:52 GMT -->
 <head>
 
     <!--========= Required meta tags =========-->
@@ -49,50 +49,50 @@
     <!--====== HEADER END ======-->
 
     <!--====== HEADER START ======-->
-     <header class="sotcox-header pt-3 pb-50" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
+     <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
         <div class="container-fluid sotcox-container__fluid">
             <div class="row">
                 <div class="col-xl-10 col-lg-4 col-sm-6 col-7 align-self-center">
                     <div class="sotcox-logo-menu-wrapper">
-                        <a href="index.html" class="sotcox-logo">
+                        <a href="index.php" class="sotcox-logo">
                             <img src="assets/img/logo/logo.png" alt="LOGO">
                         </a>
                         <div class="sotcox-menu-wrapper">
                             <div class="sotcox-main-menu">
                                 <nav id="sotcox-navbar">
                                     <ul>
-                                        <li><a href="index.html">Home</a>
+                                        <li><a href="index.php">Home</a>
                                            
                                         </li>
-                                        <li><a href="about.html">About Us</a></li>
-                                         <li ><a href="services.html">Services</a>
+                                        <li><a href="about.php">About Us</a></li>
+                                         <li ><a href="services.php">Services</a>
                                       <!--     <ul class="sub-menu" >
-                                                <li><a href="app.html">Web Development</a>
+                                                <li><a href="web-development.php">Web Development</a>
                                                 <ul class="sub-menu" style="width: 300px;">
-                                                <li ><a href="php.html">PHP Development</a></li>
-                                                <li><a href="angularjs.html">AngularJS Development</a></li>
-                                                <li><a href="uiux.html">UI & UX Design Development</a></li>
+                                                <li ><a href="php-development.php">PHP Development</a></li>
+                                                <li><a href="angularjs-development.php">AngularJS Development</a></li>
+                                                <li><a href="uiux-development.php">UI & UX Design Development</a></li>
                                                 
-                                                <li><a href="laravel.html">Laravel Development</a></li>
-                                                 <li><a href="codeigniter.html">Codeigniter Development</a></li>
-                                                <li><a href="research.html">Content Management System</a></li>
+                                                <li><a href="laravel-development.php">Laravel Development</a></li>
+                                                 <li><a href="codeigniter-development.php">Codeigniter Development</a></li>
+                                                <li><a href="content-management-system.php">Content Management System</a></li>
                                                
                                             </ul></li>
-                                                <li><a href="software.html">Software Development</a></li>
-                                                <li><a href="marketing.html">Digital Marketing</a></li>
-                                                <li><a href="mobile.html">App Development</a></li>
+                                                <li><a href="software-development.php">Software Development</a></li>
+                                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                                <li><a href="mobile-development.php">App Development</a></li>
                                                
                                             </ul> -->
                                         </li>
-                                        <li><a href="product.html">Products</a>
-                                        <li><a href="portfolio.html">Portfolio</a>
+                                        <li><a href="product.php">Products</a>
+                                        <li><a href="portfolio.php">Portfolio</a>
                                         
                                         </li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
-                            <!-- <a href="contact.html" class="sotcox-btn">free quote <span></span></a> -->
+                            <!-- <a href="contact.php" class="sotcox-btn">free quote <span></span></a> -->
                         </div>
                     </div>
                 </div>
@@ -129,7 +129,7 @@
     <div class="search-popup">
         <div class="color-layer"></div>
         <button class="close-search"><span class="far fa-arrow-up"></span></button>
-        <form method="post" action="https://techsometimes.com/products/html/sotcox/blog.html">
+        <form method="post" action="https://techsometimes.com/products/html/sotcox/blog.php">
             <div class="form-group">
                 <input type="search" name="search-field" value="" placeholder="Search Here" required="">
                 <button type="submit"><i class="far fa-search"></i></button>
@@ -151,7 +151,7 @@
         </nav>
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
             <div class="side-info__logo">
-                <a href="index-2.html">
+                <a href="index-2.php">
                     <img src="assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
@@ -163,7 +163,7 @@
             <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel"
                 aria-labelledby="menu-tab-1-tab">
                 <div class="search-box">
-                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.html" method="get">
+                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
                         <div>
                             <input type="search" value="" required="" name="s" placeholder="Search...">
                             <button type="submit"><i class="far fa-search"></i></button>
@@ -178,7 +178,7 @@
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-10">About us</h4>
                         <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
-                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.html">Contact us <span></span></a>
+                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
                         <h4 class="title mb-15">Contact us</h4>
@@ -213,7 +213,7 @@
     <aside class="side-info-wrapper show-all">
         <div class="side-info__wrapper d-flex align-items-center justify-content-between pb-0">
             <div class="side-info__logo">
-                <a href="index.html">
+                <a href="index.php">
                     <img src="assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
@@ -225,7 +225,7 @@
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-10">About us</h4>
                         <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth.</p>
-                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.html">Contact us <span></span></a>
+                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
                         <h4 class="title mb-15">Contact us</h4>
@@ -270,7 +270,7 @@
                         <div class="sotcox-breadcrumb breadcrumbs">
                             <ul class="list-unstyled d-flex align-items-center">
                                 <li class="sotcox-item duxinbcrumb-begin">
-                                    <a href="index.html"><span>Home Page</span></a>
+                                    <a href="index.php"><span>Home Page</span></a>
                                 </li>
                                 <li class="sotcox-item duxinbcrumb-end">
                                     <span>Portfolio details </span>
@@ -287,6 +287,38 @@
     </section> -->
     <!--====== BREADCRUMB SECTION END ======-->
 
+    <!--====== BREADCRUMB SECTION START ======-->
+    <section class="breadcrumb-area fix theme-dark-bg  bg_img">
+        <div class="small-shape small-shape__1"><img src="assets/img/shapes/small-shape-5.png" alt=""></div>
+        <div class="small-shape small-shape__2"><img src="assets/img/shapes/small-shape-6.png" alt=""></div>
+        <div class="small-shape small-shape__3"><img src="assets/img/shapes/small-shape-2.png" alt=""></div>
+        <div class="small-shape small-shape__4"><img src="assets/img/shapes/small-shape-8.png" alt=""></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="sotcox-breadcrumb-wrapper position-relative pt-190 pb-190">
+                        <h2 class="page-title">Software Development​</h2>
+                        <div class="sotcox-breadcrumb breadcrumbs">
+                            <ul class="list-unstyled d-flex align-items-center">
+                                <li class="sotcox-item duxinbcrumb-begin">
+                                    <a href="index.php"><span>Home</span></a>
+                                </li>
+                                <li class="sotcox-item duxinbcrumb-end">
+                                    <span>Software
+                                     Development​</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="right-img">
+                            <img src="assets/img/bg/breadcrumb-bg.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--====== BREADCRUMB SECTION END ======-->
+
     <!--====== PORTFOLIO-DETAILS SECTION START ======-->
     <div class="sotcox-details-page pt-2 pb-5">
         <div class="container">
@@ -295,8 +327,8 @@
                     
                     <div class="details-content">
                         <h2 class="sotcox-title mb-25">Software Development</h2>
-                        <p>Enterprise Resource Planning by SIT Solutions is performed in a very sophisticated manner. We believe in personalised ERP instead of SAAS based solution. Custom ERP gives you an upper hand to customise the ERP features according to your requirement. </p>
-                        <p>SIT Solutions customises renowned ERPs in the market to best suite your business. We also build custom ERP from scratch as per business demand.</p>
+                        <p style="text-align:justify;">Enterprise Resource Planning by SIT Solutions is performed in a very sophisticated manner. We believe in personalised ERP instead of SAAS based solution. Custom ERP gives you an upper hand to customise the ERP features according to your requirement. </p>
+                        <p style="text-align:justify;">SIT Solutions customises renowned ERPs in the market to best suite your business. We also build custom ERP from scratch as per business demand.</p>
                         <div class="navigation-border pb-25"></div>
                        <!--  <ul class="list-unstyled portfolio-meta">
                             <li><span class="label">Client :</span> <span class="text">Sotcox</span></li>
@@ -366,9 +398,9 @@
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="tagcloud">
-                                    <a href="blog-details.html" rel="tag">Design</a>
-                                    <a href="blog-details.html" rel="tag">technology</a>
-                                    <a href="blog-details.html" rel="tag">UX</a>
+                                    <a href="blog-details.php" rel="tag">Design</a>
+                                    <a href="blog-details.php" rel="tag">technology</a>
+                                    <a href="blog-details.php" rel="tag">UX</a>
                                 </div>
                             </div>
                             <div class="col-md-6 social-share-wrapper text-left text-md-end">
@@ -384,11 +416,11 @@
                     </div>
                     <div class="navigation-border mt-50"></div>
                     <div class="sotcox-next-prev-wrapper mt-50">
-                        <a href="blog-details.html" class="sotcox-next-prev sotcox-next-prev__prev">
+                        <a href="blog-details.php" class="sotcox-next-prev sotcox-next-prev__prev">
                             <span class="icon"><i class="far fa-arrow-left"></i></span><span
                                 class="text">Previous</span>
                         </a>
-                        <a href="blog-details.html" class="sotcox-next-prev sotcox-next-prev__next">
+                        <a href="blog-details.php" class="sotcox-next-prev sotcox-next-prev__next">
                             <span class="text">Next</span><span class="icon"><i class="far fa-arrow-right"></i></span>
                         </a>
                     </div>
@@ -399,8 +431,8 @@
                         data-project-carousel>
                         <div class="sotcox-project-item sotcox-project-item__style-2">
                             <div class="content">
-                                <h4 class="title"><a href="project-details.html">Backup Blockchain & Crypto</a></h4>
-                                <a href="project-details.html" class="inline-btn">
+                                <h4 class="title"><a href="project-details.php">Backup Blockchain & Crypto</a></h4>
+                                <a href="project-details.php" class="inline-btn">
                                     <i class="far fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -410,8 +442,8 @@
                         </div>
                         <div class="sotcox-project-item sotcox-project-item__style-2">
                             <div class="content">
-                                <h4 class="title"><a href="project-details.html">App Design For Local Agency</a></h4>
-                                <a href="project-details.html" class="inline-btn">
+                                <h4 class="title"><a href="project-details.php">App Design For Local Agency</a></h4>
+                                <a href="project-details.php" class="inline-btn">
                                     <i class="far fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -421,8 +453,8 @@
                         </div>
                         <div class="sotcox-project-item sotcox-project-item__style-2">
                             <div class="content">
-                                <h4 class="title"><a href="project-details.html">Backup Blockchain & Crypto</a></h4>
-                                <a href="project-details.html" class="inline-btn">
+                                <h4 class="title"><a href="project-details.php">Backup Blockchain & Crypto</a></h4>
+                                <a href="project-details.php" class="inline-btn">
                                     <i class="far fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -487,7 +519,7 @@
                         <div class="content">
                             <span>free consultation</span>
                             <p>Schedule a Free <br> Consultation With Our <br> Specialist</p>
-                            <a href="contact.html" class="sotcox-btn">schedule now <span></span></a>
+                            <a href="contact.php" class="sotcox-btn">schedule now <span></span></a>
                         </div>
                     </div>
                 </div>
@@ -500,7 +532,7 @@
                         <div class="content">
                             <span>request</span>
                             <p>Begin Your Adventure <br> With Experienced <br> Professionals</p>
-                            <a href="contact.html" class="sotcox-btn">send request <span></span></a>
+                            <a href="contact.php" class="sotcox-btn">send request <span></span></a>
                         </div>
                     </div>
                 </div>
@@ -533,7 +565,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
                     <div class="widget">
                         <div class="about-widget">
-                            <a href="index.html" class="sotcox-footer-logo mb-20">
+                            <a href="index.php" class="sotcox-footer-logo mb-20">
                                 <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
                             </a>
                           <div class="container mt-0">
@@ -568,11 +600,11 @@
                     <div class="widget">
                         <h3 class="widget-title" >Services</h3>
                         <ul >
-                            <li ><a href="mobile.html" >App Development</a></li>
-                            <li><a href="software.html" >Software Development</a></li>
-                            <li><a href="app.html" >Web Development</a></li>
-                            <li><a href="marketing.html" >Digital Marketing</a></li>
-                            <li><a href="portfolio.html" >Portfolio</a></li>
+                            <li ><a href="mobile-development.php" >App Development</a></li>
+                            <li><a href="software-development.php" >Software Development</a></li>
+                            <li><a href="web-development.php" >Web Development</a></li>
+                            <li><a href="digital-marketing.php" >Digital Marketing</a></li>
+                            <li><a href="portfolio.php" >Portfolio</a></li>
                         </ul>
                     </div>
                     <div class="sotcox-social-links mt-40">
@@ -586,11 +618,11 @@
                     <div class="widget">
                         <h3 class="widget-title">Information</h3>
                          <ul>
-                            <li><a href="career.html">Career</a></li>
-                            <li><a href="about.html">Our Team</a></li>
-                            <li><a href="contact.html">Contact us</a></li>
-                            <li><a href="services.html">Services</a></li>
-                            <li><a href="product.html">Our Products
+                            <li><a href="career.php">Career</a></li>
+                            <li><a href="about.php">Our Team</a></li>
+                            <li><a href="contact.php">Contact us</a></li>
+                            <li><a href="services.php">Services</a></li>
+                            <li><a href="product.php">Our Products
                             </a></li>
                         </ul> 
                        
@@ -636,5 +668,5 @@
 </body>
 
 
-<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
 </html>

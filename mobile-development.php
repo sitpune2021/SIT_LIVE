@@ -2,7 +2,7 @@
 <html class="no-js" lang="zxx">
 
 
-<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:52 GMT -->
+<!-- Mirrored from techsometimes.com/products/html/sotcox/service-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:48 GMT -->
 <head>
 
     <!--========= Required meta tags =========-->
@@ -12,7 +12,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!--====== Title ======-->
-    <title>SIT - Technology & IT Solutions Service </title>
+    <title>SIT- Technology & IT Solutions Service 
+    </title>
 
     <!--====== Favicon ======-->
     <link rel="shortcut icon" href="assets/img/logo/logo.png" type="images/x-icon">
@@ -40,58 +41,58 @@
     <!--====== HEADER START ======-->
     <div id="sotcox-loadding" class="sotcox-loader">
         <div class="sotcox-spinner">
-            <div class="bounce1"></div>
-            <div class="bounce2"></div>
-            <div class="bounce3"></div>
+          <div class="bounce1"></div>
+          <div class="bounce2"></div>
+          <div class="bounce3"></div>
         </div>
-    </div>
-    <!--====== HEADER END ======-->
+      </div>
+     <!--====== HEADER END ======-->
 
     <!--====== HEADER START ======-->
-           <header class="sotcox-header pt-3 pb-50" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
+       <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
         <div class="container-fluid sotcox-container__fluid">
             <div class="row">
                 <div class="col-xl-10 col-lg-4 col-sm-6 col-7 align-self-center">
                     <div class="sotcox-logo-menu-wrapper">
-                        <a href="index.html" class="sotcox-logo">
+                        <a href="index.php" class="sotcox-logo">
                             <img src="assets/img/logo/logo.png" alt="LOGO">
                         </a>
                         <div class="sotcox-menu-wrapper">
                             <div class="sotcox-main-menu">
                                 <nav id="sotcox-navbar">
                                     <ul>
-                                        <li><a href="index.html">Home</a>
+                                        <li><a href="index.php">Home</a>
                                            
                                         </li>
-                                        <li><a href="about.html">About Us</a></li>
-                                         <li ><a href="services.html">Services</a>
+                                        <li><a href="about.php">About Us</a></li>
+                                         <li ><a href="services.php">Services</a>
                                       <!--     <ul class="sub-menu" >
-                                                <li><a href="app.html">Web Development</a>
+                                                <li><a href="web-development.php">Web Development</a>
                                                 <ul class="sub-menu" style="width: 300px;">
-                                                <li ><a href="php.html">PHP Development</a></li>
-                                                <li><a href="angularjs.html">AngularJS Development</a></li>
-                                                <li><a href="uiux.html">UI & UX Design Development</a></li>
+                                                <li ><a href="php-development.php">PHP Development</a></li>
+                                                <li><a href="angularjs-development.php">AngularJS Development</a></li>
+                                                <li><a href="uiux-development.php">UI & UX Design Development</a></li>
                                                 
-                                                <li><a href="laravel.html">Laravel Development</a></li>
-                                                 <li><a href="codeigniter.html">Codeigniter Development</a></li>
-                                                <li><a href="research.html">Content Management System</a></li>
+                                                <li><a href="laravel-development.php">Laravel Development</a></li>
+                                                 <li><a href="codeigniter-development.php">Codeigniter Development</a></li>
+                                                <li><a href="content-management-system.php">Content Management System</a></li>
                                                
                                             </ul></li>
-                                                <li><a href="software.html">Software Development</a></li>
-                                                <li><a href="marketing.html">Digital Marketing</a></li>
-                                                <li><a href="mobile.html">App Development</a></li>
+                                                <li><a href="software-development.php">Software Development</a></li>
+                                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                                <li><a href="mobile-development.php">App Development</a></li>
                                                
                                             </ul> -->
                                         </li>
-                                        <li><a href="product.html">Products</a>
-                                        <li><a href="portfolio.html">Portfolio</a>
+                                        <li><a href="product.php">Products</a>
+                                        <li><a href="portfolio.php">Portfolio</a>
                                         
                                         </li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
-                            <!-- <a href="contact.html" class="sotcox-btn">free quote <span></span></a> -->
+                            <!-- <a href="contact.php" class="sotcox-btn">free quote <span></span></a> -->
                         </div>
                     </div>
                 </div>
@@ -117,7 +118,6 @@
             </div>
         </div>
     </header>
-
     <!--====== HEADER END ======-->
 
     <!--====== OVERLAY START ======-->
@@ -128,7 +128,7 @@
     <div class="search-popup">
         <div class="color-layer"></div>
         <button class="close-search"><span class="far fa-arrow-up"></span></button>
-        <form method="post" action="https://techsometimes.com/products/html/sotcox/blog.html">
+        <form method="post" action="https://techsometimes.com/products/html/sotcox/blog.php">
             <div class="form-group">
                 <input type="search" name="search-field" value="" placeholder="Search Here" required="">
                 <button type="submit"><i class="far fa-search"></i></button>
@@ -150,7 +150,7 @@
         </nav>
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
             <div class="side-info__logo">
-                <a href="index-2.html">
+                <a href="index-2.php">
                     <img src="assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
@@ -162,7 +162,7 @@
             <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel"
                 aria-labelledby="menu-tab-1-tab">
                 <div class="search-box">
-                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.html" method="get">
+                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
                         <div>
                             <input type="search" value="" required="" name="s" placeholder="Search...">
                             <button type="submit"><i class="far fa-search"></i></button>
@@ -177,7 +177,7 @@
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-10">About us</h4>
                         <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
-                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.html">Contact us <span></span></a>
+                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
                         <h4 class="title mb-15">Contact us</h4>
@@ -208,10 +208,11 @@
     </aside>
     <!--====== SIDE INFO FOR MOBILE END ======-->
 
-  <aside class="side-info-wrapper show-all">
+    <!--====== SIDE INFO FOR MOBILE START ======-->
+    <aside class="side-info-wrapper show-all">
         <div class="side-info__wrapper d-flex align-items-center justify-content-between pb-0">
             <div class="side-info__logo">
-                <a href="index.html">
+                <a href="index.php">
                     <img src="assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
@@ -223,7 +224,7 @@
             <div class="side-info__content mb-35">
                 <h4 class="title mb-10">About us</h4>
                 <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
-                <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.html">Contact us <span></span></a>
+                <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
             </div>
             <div class="contact__info--wrapper mt-15">
                 <h4 class="title mb-15">Contact us</h4>
@@ -250,8 +251,9 @@
             </div>
         </div>
     </aside>
+    <!--====== SIDE INFO FOR MOBILE END ======-->
 
-
+   
 
     <!--====== BREADCRUMB SECTION START ======-->
     <section class="breadcrumb-area fix theme-dark-bg  bg_img">
@@ -263,14 +265,14 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="sotcox-breadcrumb-wrapper position-relative pt-190 pb-190">
-                        <h2 class="page-title" style="font-size: 25px;">Your Brand, Our Expertise, Unmatched Results</h2>
+                        <h2 class="page-title" style="font-size: 25px;">Mobile Application Developement Services​</h2>
                         <div class="sotcox-breadcrumb breadcrumbs">
                             <ul class="list-unstyled d-flex align-items-center">
                                 <li class="sotcox-item duxinbcrumb-begin">
-                                    <a href="index.html"><span>Home</span></a>
+                                    <a href="index.php"><span>Home</span></a>
                                 </li>
                                 <li class="sotcox-item duxinbcrumb-end">
-                                    <span>Digital Marketing </span>
+                                    <span>Mobile Application​</span>
                                 </li>
                             </ul>
                         </div>
@@ -284,329 +286,223 @@
     </section>
     <!--====== BREADCRUMB SECTION END ======-->
 
-    <div class="container py-5 pb-5">
-    <div class="row align-items-center">
-        <!-- Image Section -->
-        <div class="col-12 col-md-6 text-center">
-            <img src="assets/img/about/dm.jpeg" alt="Our Story" class="img-fluid" style="height: 300px; width: 500px;" 
-               >
-        </div>
-
-        <!-- Content Section -->
-        <div class="col-12 col-md-6">
-            <h3 class="mb-3" style="font-weight:bold; text-align:center; font-size: 48px; padding-top: 25px;">Digital Marketing
-            </h3>
-            <p class="text-dark" style="font-size: 17px; color:black; text-align: justify;line-height:25px;">
-                In the event that you are searching for a digital marketing company in Pune-India which encourages you with your SEO (search engine optimization), SEM (search engine marketing), SMM (Social Media Marketing), SMO(social media optimization) at that point you are at an ideal spot. We are a standout amongst the best digital marketing company in Pune which gives benefits all around .
-            </p>
-        </div>
-    </div>
-</div>
-
-
- <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-2 pb-5">
+    <!--====== SERVICE SECTION END ======-->
+    <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-2 pb-5">
         <div class="container">
             <div class="row">
- <div class="row mt-20">
-                
+                <div class="col-xl-12">
+                    <div class="details-wrapper pr-25">
+                        <!-- <div class="details-thumb">
+                            <img src="assets/img/bg/service-details-1.jpg" alt="img">
+                        </div> -->
+                        <div class="details-content mt-60">
+                            <h2 class="sotcox-title mb-25">Take Your Business to Your Next Level</h2>
+                            <p style="text-align: justify;">From idea to up-and-running mobile application, SIT SOLUTIONS help businesses to develop a perfect mobile app. We ensure that our customers get the best app irrespective of its diversity and complexity.  Our diverse clientele includes successful start-ups like Yarn Bazar, Pop food to our enterprise clients such as Lorea'l, Disney, and Vivino. We understand every business is unique and so should its technological requirements.  We provide strategically designed and creatively crafted mobile application development services that take your business to the next level. Our solutions streamline workflow, integrate functions, boost, and increase business productivity.
+            </p>
+                            <h2 class="sotcox-title mt-5 mb-3">Mobile Application Types </h2>
+                       
+                            <p>We build native apps based on your specific business requirements for the platforms of your choice, such as android and iOS. This will help you reach your target audience and accomplish your revenue goals. </p>
+                            <ul class="list-unstyled blog-list-item">
+                                <li>
+                                    <img src="assets/img/icons/star.png" alt="">
+                                 Native app development
+                                </li>
+                                <li><img src="assets/img/icons/star.png" alt="">
+                                   Progressive web app development
+                                </li>
+                                <li><img src="assets/img/icons/star.png" alt="">
+                                    Wearables and embedded software
+                                </li>
+                                <li><img src="assets/img/icons/star.png" alt="">
+                                   Cross-platform development
+                                </li>
+                                <li><img src="assets/img/icons/star.png" alt="">
+                                    Streaming data ingeston.
+                                </li>
+                                <li><img src="assets/img/icons/star.png" alt="">
+                                    Full and incremental data extraction/load.
+                                </li>
+                                <li><img src="assets/img/icons/star.png" alt="">
+                                    Data transformation of varying complexity.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="col-xl-4">
+                    <div class="blog_sidebar service-sidebar mt-none-60">
+                        <div class="blog_widget widget mt-60 widget_categories">
+                            <h2 class="blog-widget-title">Our Offering</h2>
+                            <h4>Mobile App Developement Solutions</h4>
+                            <ul class="list-unstyled">
+                                <li class="cat-item"><a href="#0">Data Analytics</a><span class="count">01</span></li>
+                                <li class="cat-item"><a href="#0">Cyber Security </a><span class="count">02</span></li>
+                                <li class="cat-item"><a href="#0">Product Engineering </a><span class="count">03</span></li>
+                                <li class="cat-item"><a href="#0">IT Management </a><span class="count">04</span></li>
+                                <li class="cat-item"><a href="#0">Machine Learning </a><span class="count">05</span></li>
+                                <li class="cat-item"><a href="#0">Web Development </a><span class="count">06</span></li>
+                                <li class="cat-item"><a href="#0">SEO Optimization </a><span class="count">07</span></li>
+                            </ul>
+                        </div>
+                        <div class="blog_widget widget mt-40">
+                            <h2 class="blog-widget-title">Get a Quote</h2>
+                            <div class="sotcox-input-field">
+                                <form action="https://techsometimes.com/products/html/sotcox/index.php" method="get">
+                                    <input type="text" name="name" id="name" placeholder="Enter name*">
+                                    <input type="email" name="mail" id="mail" placeholder="Enter your mail*">
+                                    <textarea name="message" id="message" placeholder="Massage*"></textarea>
+                                    <button type="submit" class="sotcox-btn mt-30">submit now <span></span></button>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="blog_widget widget mt-40">
+                            <h2 class="blog-widget-title">Company Profile</h2>
+                            <div class="widget-btns">
+                                <a href="contact.php" class="sotcox-btn">Download PDF <i class="far fa-file-pdf"></i> <span></span></a>
+                                <a href="contact.php" class="sotcox-btn">download word file <i class="far fa-file-word"></i> <span></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+            </div>
+            <div class="row mt-20">
+                <div class="col-xl-12"><h2 class="sotcox-title mt-5 mb-0">Our Offerings </h2>
+                </div>
                 <div class="col-xl-12 col-lg-12">
                     <div class="row">
-                       
                         <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
+                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="00ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; background-color: #E8F9FF; height: 330px;">
                                 <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-2.png" alt="">
+                                    <img src="assets/img/icons/service-details-icon-1.png" alt="">
                                 </div>
                                 <div class="content mt-25">
-                                    <h4 class="titles">Search Engine Optimization</h4>
-                                    <p>SIT will give a full SEO keyword rankings report, a link building profile report and indexed page data. Our client-centered group will improve your traffic flow and increment deals for your electronic tasks.</p>
+                                    <h4 class="titles">Agile Development</h4>
+                                    <p>We use agile development processes that help us to deliver the client’s project on time with top-notch quality. </p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
+                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; background-color: #E5D9F2; height: 330px;">
                                 <div class="icon">
                                     <img src="assets/img/icons/service-details-icon-2.png" alt="">
                                 </div>
                                 <div class="content mt-25">
-                                    <h4 class="titles">Social Media Marketing</h4>
-                                    <p>Are You Looking For Social media marketing Agency? SIT Pune is an Expert in it. Social media is one of the largest platforms for business execution.</p>
+                                    <h4 class="titles">Dedicated Development team</h4>
+                                    <p>Our highly qualified professionals understand and utilize the best technologies to develop result-oriented mobile apps. </p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
+                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; background-color: #D0DDD0; height: 330px;">
                                 <div class="icon">
                                     <img src="assets/img/icons/service-details-icon-3.png" alt="">
                                 </div>
                                 <div class="content mt-25">
-                                    <h4 class="titles">Search Engine Marketing</h4>
-                                    <p>SEM stands for Search Engine Marketing. This may seem very broad. But the term has actually come to mean a very specific type of marketing on search engines. That’s Paid Search The most commonly known as Google AdWords.</p>
+                                    <h4 class="titles">Customer Centric </h4>
+                                    <p>We understand our client’s specific requirements and demands and tailor solutions to help enhance their business growth. </p>
                                 </div>
                             </div>
                         </div>
-
+                        <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
+                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; background-color: #F2F9FF; height: 330px;">
+                                <div class="icon">
+                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
+                                </div>
+                                <div class="content mt-25">
+                                    <h4 class="titles">Quality Assurance </h4>
+                                    <p>We believe in offering our clients the utmost quality solutions by integrating all their specifications into the project.</p>
+                                </div>
+                            </div>
+                        </div>
+                         <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
+                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; background-color: #FFE2E2; height: 330px;">
+                                <div class="icon">
+                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
+                                </div>
+                                <div class="content mt-25">
+                                    <h4 class="titles">Data Security </h4>
+                                    <p>By signing our NDA, you can be assured of the privacy of your data. We provide the best solutions, along with maintaining confidentiality.</p>
+                                </div>
+                            </div>
+                        </div>
+                         <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
+                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; background-color: #F5EFFF; height: 330px;">
+                                <div class="icon">
+                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
+                                </div>
+                                <div class="content mt-25">
+                                    <h4 class="titles">24*7 Support </h4>
+                                    <p>We provide assistance and support to our clients 24/7 for their mobile app development to take recommendations and feedback.</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
-    <!--====== PORTFOLIO-DETAILS SECTION START ======-->
-    <div class="sotcox-details-page pt-5 pb-5">
+    <!--====== SERVICE SECTION END ======-->
+ <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-0 pb-5">
         <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    
-                    <div class="details-content">
-                        <h2 class="sotcox-title mb-25">Paid Search</h2>
-                        <p>
-On the major search engines, Google, Yahoo, and Bing Pay per click (PPC) or cost per click is the best solution to promote your company and get traffic towards the company in a savvy path in restricted time, which is used to focus on your clients and getting traffic to your destinations. </p>
-                        <p>It is seen as the simplest way to deal with explicitly center around your clients online wherein you have to pay just when somebody clicks on your advertisements webpage owner or merchant when the advancement is clicked.</p>
-                        <div class="navigation-border pb-25"></div>
-                       <!--  <ul class="list-unstyled portfolio-meta">
-                            <li><span class="label">Client :</span> <span class="text">Sotcox</span></li>
-                            <li><span class="label">Date :</span> <span class="text">September 27,2024</span></li>
-                            <li><span class="label">Website :</span> <span class="text">Sotcox.com</span></li>
-                            <li><span class="label">Category :</span> <span class="text">Design</span></li>
-                        </ul> -->
-                    </div>
+      <div class="row mt-20">
+                <div class="col-xl-12"><h2 class="sotcox-title mt-85 mb-25">Mobile App Developement Solutions </h2>
                 </div>
-
-            </div>
-
-                        <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-2 pb-5">
-                              <div class="container">
-                                     <div class="row">
-                                      <div class="row mt-20">
-            
                 <div class="col-xl-12 col-lg-12">
                     <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-md-6 mt-30">
+                        <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
                             <div class="stocox-support-box wow fadeInUp" data-wow-delay="00ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 300px;">
                                 <div class="icon">
                                     <img src="assets/img/icons/service-details-icon-1.png" alt="">
                                 </div>
                                 <div class="content mt-25">
-                                    <h4 class="titles">Social Media</h4>
-                                    <p>
-
-Social media is one of the biggest stages of business execution. Social media helps to make brand awareness, promote your image and in particular assistance for notoriety the board as well.</p>
+                                    <h4 class="titles">Understand Idea</h4>
+                                    <p>We first listen to and understand your idea and business objectives and create a project plan accordingly.  </p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;  height: 300px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-2.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Ad Campaigns</h4>
-                                    <p>
-Reaching your audience on social is no longer organic. We are experts at amplifying ROI, achieving the precise people wanted with the most up to date and consistently changing social media and tools.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;  height: 300px;">
+                       
+                        <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
+                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 300px;">
                                 <div class="icon">
                                     <img src="assets/img/icons/service-details-icon-3.png" alt="">
                                 </div>
                                 <div class="content mt-25">
-                                    <h4 class="titles">Social Strategy</h4>
-                                    <p>
-Social strategy isn’t just about posting and submissions. It’s tied in with making a dream first, at that point understanding that vision through key media and substance that changes over and drives new chance..</p>
+                                    <h4 class="titles">Business Proposal</h4>
+                                    <p>Our expert team analyzes your plan specifications and requirements and proposes the best mobile app development cost estimate. </p>
                                 </div>
                             </div>
                         </div>
-                       <div class="col-xl-6 col-lg-6 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;  height: 300px;">
+                         <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
+                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 300px;">
                                 <div class="icon">
                                     <img src="assets/img/icons/service-details-icon-3.png" alt="">
                                 </div>
                                 <div class="content mt-25">
-                                    <h4 class="titles">Data Reports and Analysis</h4>
-                                    <p>
-
-How imperative to burn through cash on the correct speculation and time to making achievement except if there is the capacity to gauge that achievement?</p>
+                                    <h4 class="titles">App development</h4>
+                                    <p>Once the deal is done and the business plan is finalized, our professionals start working on your app development. </p>
                                 </div>
                             </div>
                         </div>
+                        
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-    
-               <!--  <div class="col-xl-12 mt-90">
-                    <h2 class="sotcox-title mb-25">Project requirement</h2>
-                    <div class="row mt-none-15">
-                        <div class="col-xl-6 mt-15">
-                            <ul class="list-unstyled blog-list-item">
-                                <li>
-                                    <img src="assets/img/icons/double-arrow.png" alt="">
-                                    Existing user experience research–user personas, journeys
-                                </li>
-                                <li><img src="assets/img/icons/double-arrow.png" alt="">
-                                    Usability testing existing products
-                                </li>
-                                <li><img src="assets/img/icons/double-arrow.png" alt="">
-                                    Focus groups
-                                </li>
-                                <li><img src="assets/img/icons/double-arrow.png" alt="">
-                                    Storyboards
-                       
-
-                                </li>
-                                <li><img src="assets/img/icons/double-arrow.png" alt="">
-                                    Systems reviews
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-xl-6 mt-15">
-                            <ul class="list-unstyled blog-list-item">
-                                <li>
-                                    <img src="assets/img/icons/double-arrow.png" alt="">
-                                    User interviews
-                                </li>
-                                <li><img src="assets/img/icons/double-arrow.png" alt="">
-                                    Usability testing existing products
-                                </li>
-                                <li><img src="assets/img/icons/double-arrow.png" alt="">
-                                    Technical stakeholder interviews
-                                </li>
-                                <li><img src="assets/img/icons/double-arrow.png" alt="">
-                                    Diary studies
-                                </li>
-                                <li><img src="assets/img/icons/double-arrow.png" alt="">
-                                    Surveys
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <h2 class="sotcox-title mt-85 mb-25">Results</h2>
-                    <p>This gathering process occurs before designers begin working on a project to guide early research
-                        and set goals and expectations. They must understand user needs, business goals, technical
-                        specifications/limitations before starting the project.For example, how do UX researchers begin
-                        researching users if they don’t know who they are? The UX gathering process tells designers
-                        where to start and what metrics determine a successful project completion.</p>
-                    <div class="tag-social-wrapper mt-60">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="tagcloud">
-                                    <a href="blog-details.html" rel="tag">Design</a>
-                                    <a href="blog-details.html" rel="tag">technology</a>
-                                    <a href="blog-details.html" rel="tag">UX</a>
-                                </div>
-                            </div>
-                            <div class="col-md-6 social-share-wrapper text-left text-md-end">
-                                <div class="sotcox-social-links justify-content-end">
-                                    <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#0"><i class="fab fa-twitter"></i></a>
-                                    <a href="#0"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="#0"><i class="fab fa-instagram"></i></a>
-                                    <a class="active" href="#0"><i class="far fa-share-alt"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="navigation-border mt-50"></div>
-                    <div class="sotcox-next-prev-wrapper mt-50">
-                        <a href="blog-details.html" class="sotcox-next-prev sotcox-next-prev__prev">
-                            <span class="icon"><i class="far fa-arrow-left"></i></span><span
-                                class="text">Previous</span>
-                        </a>
-                        <a href="blog-details.html" class="sotcox-next-prev sotcox-next-prev__next">
-                            <span class="text">Next</span><span class="icon"><i class="far fa-arrow-right"></i></span>
-                        </a>
-                    </div>
-                </div> -->
-               <!--  <div class="col-xl-12 mt-90">
-                    <h2 class="sotcox-title mb-40">Our similar projects</h2>
-                    <div class="sotcox-project-carousel owl-carousel sotcox-slide-nav sotcox-slide-nav__style-3"
-                        data-project-carousel>
-                        <div class="sotcox-project-item sotcox-project-item__style-2">
-                            <div class="content">
-                                <h4 class="title"><a href="project-details.html">Backup Blockchain & Crypto</a></h4>
-                                <a href="project-details.html" class="inline-btn">
-                                    <i class="far fa-arrow-right"></i>
-                                </a>
-                            </div>
-                            <div class="thumb">
-                                <img src="assets/img/project/project-2-1.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="sotcox-project-item sotcox-project-item__style-2">
-                            <div class="content">
-                                <h4 class="title"><a href="project-details.html">App Design For Local Agency</a></h4>
-                                <a href="project-details.html" class="inline-btn">
-                                    <i class="far fa-arrow-right"></i>
-                                </a>
-                            </div>
-                            <div class="thumb">
-                                <img src="assets/img/project/project-2-2.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="sotcox-project-item sotcox-project-item__style-2">
-                            <div class="content">
-                                <h4 class="title"><a href="project-details.html">Backup Blockchain & Crypto</a></h4>
-                                <a href="project-details.html" class="inline-btn">
-                                    <i class="far fa-arrow-right"></i>
-                                </a>
-                            </div>
-                            <div class="thumb">
-                                <img src="assets/img/project/project-2-1.jpg" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-            </div>
-        </div>
-    </div>
-    <!--====== PORTFOLIO-DETAILS SECTION END ======-->
-
-<div class="container py-2 pb-5">
-    <div class="row align-items-center">
-        <!-- Image Section -->
-        <div class="col-12 col-md-6 text-center">
-            <img src="assets/img/about/dm-1.jpg" alt="Our Story" class="img-fluid"
-                style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; border-radius: 20px; height: 300px; width: 500px;">
-        </div>
-
-        <!-- Content Section -->
-        <div class="col-12 col-md-6">
-            <h3 class="mb-3" style="font-weight:bold; text-align:center; font-size: 48px; padding-top: 25px;">Consulting
-            </h3>
-            <p class="text-dark" style="font-size: 17px; color:black; text-align: justify;line-height:25px;">
-                we have a group of a specialist having hands-on experience in the digital marketing field.As being a standout amongst the best digital marketing companies in Pune, it is our obligation to give an upgraded answer for your digital marketing queries. The best possible optimization strategies and techniques are required to guarantee greater visibility, more conversion, top positioning, and above all, more income or profit generation. Focusing on more traffic, expanding sales, site conversions and substantially more on social stages can be accomplished with our assistance. You can hire us as a consultant or let us work with you on everything.
-            </p>
-        </div>
-    </div>
-</div>
-
-
-
-
-
-
 
     <!--====== NEWSLETTER SECTION START ======-->
-   <!--  <div class="sotcox-newsletter-section">
+    <!-- <div class="sotcox-newsletter-section">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
                     <div class="sotcox-newsletter-wrapper">
-                        <div class="shape shape__1 position-absolute"><img
-                                src="assets/img/shapes/newsletter-shape-1.png" alt=""></div>
-                        <div class="shape shape__2 position-absolute"><img
-                                src="assets/img/shapes/newsletter-shape-2.png" alt=""></div>
+                        <div class="shape shape__1 position-absolute"><img src="assets/img/shapes/newsletter-shape-1.png" alt=""></div>
+                        <div class="shape shape__2 position-absolute"><img src="assets/img/shapes/newsletter-shape-2.png" alt=""></div>
                         <div class="row align-items-center">
                             <div class="col-xl-5">
                                 <div class="sotcox-section-heading sotcox-section-heading__light">
                                     <span class="sub-heading">newsletter</span>
-                                    <h2 class="heading">Subscribe to The Free Newsletter to Receive The Latest News
-                                    </h2>
+                                    <h2 class="heading">Subscribe to The Free Newsletter to Receive The Latest News </h2>
                                 </div>
                             </div>
                             <div class="col-xl-7">
@@ -626,7 +522,7 @@ How imperative to burn through cash on the correct speculation and time to makin
     <!--====== NEWSLETTER SECTION END ======-->
 
     <!--====== CONTACT INFO SECTION START ======-->
-   <!--  <div class="sotcox-contact-info theme-light-bg pt-130">
+   <div class="sotcox-contact-info theme-light-bg pt-0">
         <div class="container">
             <div class="row mt-none-30">
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
@@ -638,7 +534,7 @@ How imperative to burn through cash on the correct speculation and time to makin
                         <div class="content">
                             <span>free consultation</span>
                             <p>Schedule a Free <br> Consultation With Our <br> Specialist</p>
-                            <a href="contact.html" class="sotcox-btn">schedule now <span></span></a>
+                            <a href="contact.php" class="sotcox-btn">schedule now <span></span></a>
                         </div>
                     </div>
                 </div>
@@ -651,7 +547,7 @@ How imperative to burn through cash on the correct speculation and time to makin
                         <div class="content">
                             <span>request</span>
                             <p>Begin Your Adventure <br> With Experienced <br> Professionals</p>
-                            <a href="contact.html" class="sotcox-btn">send request <span></span></a>
+                            <a href="contact.php" class="sotcox-btn">send request <span></span></a>
                         </div>
                     </div>
                 </div>
@@ -664,27 +560,36 @@ How imperative to burn through cash on the correct speculation and time to makin
                         <div class="content">
                             <span>hellp desk</span>
                             <p>Do You Have Questions or <br> Want More Information? <br> Call Now.</p>
-                            <div class="info-call">
-                                <span class="icon"><img src="assets/img/icons/phone-2.png" alt=""></span>
-                                <span class="number">865-588-4687</span>
-                            </div>
+                           
+                                <div class="info-call">
+                                    <span class="icon">
+                                      <img src="assets/img/icons/phone-2.png" alt="">
+                                    </span>
+                                    <span class="number" style="font-size: 20px;">
+                                      <a href="tel:+919325993982" style="text-decoration: none; color: inherit;">
+                                        +91-9325993982
+                                      </a>
+                                    </span>
+                                  </div>
+                                  
+                          
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
     <!--====== CONTACT INFO SECTION END ======-->
 
-   <!--====== FOOTER START ======-->
-   <footer class="sotcox-footer theme-light-bg pt-0" >
+  <!--====== FOOTER START ======-->
+  <footer class="sotcox-footer theme-light-bg pt-4" >
     <div class="sotcox-footer-widgets" >
         <div class="container">
             <div class="row mt-none-30">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
                     <div class="widget">
                         <div class="about-widget">
-                            <a href="index.html" class="sotcox-footer-logo mb-20">
+                            <a href="index.php" class="sotcox-footer-logo mb-20">
                                 <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
                             </a>
                           <div class="container mt-0">
@@ -719,11 +624,11 @@ How imperative to burn through cash on the correct speculation and time to makin
                     <div class="widget">
                         <h3 class="widget-title" >Services</h3>
                         <ul >
-                            <li ><a href="mobile.html" >App Development</a></li>
-                            <li><a href="software.html" >Software Development</a></li>
-                            <li><a href="app.html" >Web Development</a></li>
-                            <li><a href="marketing.html" >Digital Marketing</a></li>
-                            <li><a href="portfolio.html" >Portfolio</a></li>
+                            <li ><a href="mobile-development.php" >App Development</a></li>
+                            <li><a href="software-development.php" >Software Development</a></li>
+                            <li><a href="web-development.php" >Web Development</a></li>
+                            <li><a href="digital-marketing.php" >Digital Marketing</a></li>
+                            <li><a href="portfolio.php" >Portfolio</a></li>
                         </ul>
                     </div>
                     <div class="sotcox-social-links mt-40">
@@ -737,11 +642,11 @@ How imperative to burn through cash on the correct speculation and time to makin
                     <div class="widget">
                         <h3 class="widget-title">Information</h3>
                          <ul>
-                            <li><a href="career.html">Career</a></li>
-                            <li><a href="about.html">Our Team</a></li>
-                            <li><a href="contact.html">Contact us</a></li>
-                            <li><a href="services.html">Services</a></li>
-                            <li><a href="product.html">Our Products
+                            <li><a href="career.php">Career</a></li>
+                            <li><a href="about.php">Our Team</a></li>
+                            <li><a href="contact.php">Contact us</a></li>
+                            <li><a href="services.php">Services</a></li>
+                            <li><a href="product.php">Our Products
                             </a></li>
                         </ul> 
                        
@@ -787,5 +692,5 @@ How imperative to burn through cash on the correct speculation and time to makin
 </body>
 
 
-<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
 </html>

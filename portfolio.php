@@ -2,7 +2,7 @@
 <html class="no-js" lang="zxx">
 
 
-<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:52 GMT -->
+<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:52 GMT -->
 <head>
 
     <!--========= Required meta tags =========-->
@@ -48,50 +48,50 @@
     <!--====== HEADER END ======-->
 
     <!--====== HEADER START ======-->
-          <header class="sotcox-header pt-3 pb-50" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
+         <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
         <div class="container-fluid sotcox-container__fluid">
             <div class="row">
                 <div class="col-xl-10 col-lg-4 col-sm-6 col-7 align-self-center">
                     <div class="sotcox-logo-menu-wrapper">
-                        <a href="index.html" class="sotcox-logo">
+                        <a href="index.php" class="sotcox-logo">
                             <img src="assets/img/logo/logo.png" alt="LOGO">
                         </a>
                         <div class="sotcox-menu-wrapper">
                             <div class="sotcox-main-menu">
                                 <nav id="sotcox-navbar">
                                     <ul>
-                                        <li><a href="index.html">Home</a>
+                                        <li><a href="index.php">Home</a>
                                            
                                         </li>
-                                        <li><a href="about.html">About Us</a></li>
-                                         <li ><a href="services.html">Services</a>
+                                        <li><a href="about.php">About Us</a></li>
+                                         <li ><a href="services.php">Services</a>
                                       <!--     <ul class="sub-menu" >
-                                                <li><a href="app.html">Web Development</a>
+                                                <li><a href="web-development.php">Web Development</a>
                                                 <ul class="sub-menu" style="width: 300px;">
-                                                <li ><a href="php.html">PHP Development</a></li>
-                                                <li><a href="angularjs.html">AngularJS Development</a></li>
-                                                <li><a href="uiux.html">UI & UX Design Development</a></li>
+                                                <li ><a href="php-development.php">PHP Development</a></li>
+                                                <li><a href="angularjs-development.php">AngularJS Development</a></li>
+                                                <li><a href="uiux-development.php">UI & UX Design Development</a></li>
                                                 
-                                                <li><a href="laravel.html">Laravel Development</a></li>
-                                                 <li><a href="codeigniter.html">Codeigniter Development</a></li>
-                                                <li><a href="research.html">Content Management System</a></li>
+                                                <li><a href="laravel-development.php">Laravel Development</a></li>
+                                                 <li><a href="codeigniter-development.php">Codeigniter Development</a></li>
+                                                <li><a href="content-management-system.php">Content Management System</a></li>
                                                
                                             </ul></li>
-                                                <li><a href="software.html">Software Development</a></li>
-                                                <li><a href="marketing.html">Digital Marketing</a></li>
-                                                <li><a href="mobile.html">App Development</a></li>
+                                                <li><a href="software-development.php">Software Development</a></li>
+                                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                                <li><a href="mobile-development.php">App Development</a></li>
                                                
                                             </ul> -->
                                         </li>
-                                        <li><a href="product.html">Products</a>
-                                        <li><a href="portfolio.html">Portfolio</a>
+                                        <li><a href="product.php">Products</a>
+                                        <li><a href="portfolio.php">Portfolio</a>
                                         
                                         </li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
-                            <!-- <a href="contact.html" class="sotcox-btn">free quote <span></span></a> -->
+                            <!-- <a href="contact.php" class="sotcox-btn">free quote <span></span></a> -->
                         </div>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
     <div class="search-popup">
         <div class="color-layer"></div>
         <button class="close-search"><span class="far fa-arrow-up"></span></button>
-        <form method="post" action="https://techsometimes.com/products/html/sotcox/blog.html">
+        <form method="post" action="https://techsometimes.com/products/html/sotcox/blog.php">
             <div class="form-group">
                 <input type="search" name="search-field" value="" placeholder="Search Here" required="">
                 <button type="submit"><i class="far fa-search"></i></button>
@@ -137,7 +137,7 @@
     </div>
     <!--====== SEARCH POPUP END ======-->
 
-     <!--====== SIDE INFO FOR MOBILE START ======-->
+    <!--====== SIDE INFO FOR MOBILE START ======-->
     <aside class="side-info-wrapper mm-only">
         <nav>
             <div class="nav" id="nav-tab" role="tablist">
@@ -150,7 +150,7 @@
         </nav>
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
             <div class="side-info__logo">
-                <a href="index-2.html">
+                <a href="index-2.php">
                     <img src="assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
@@ -162,7 +162,7 @@
             <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel"
                 aria-labelledby="menu-tab-1-tab">
                 <div class="search-box">
-                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.html" method="get">
+                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
                         <div>
                             <input type="search" value="" required="" name="s" placeholder="Search...">
                             <button type="submit"><i class="far fa-search"></i></button>
@@ -177,7 +177,7 @@
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-10">About us</h4>
                         <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
-                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.html">Contact us <span></span></a>
+                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
                         <h4 class="title mb-15">Contact us</h4>
@@ -211,7 +211,7 @@
   <aside class="side-info-wrapper show-all">
         <div class="side-info__wrapper d-flex align-items-center justify-content-between pb-0">
             <div class="side-info__logo">
-                <a href="index.html">
+                <a href="index.php">
                     <img src="assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
@@ -223,7 +223,7 @@
             <div class="side-info__content mb-35">
                 <h4 class="title mb-10">About us</h4>
                 <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
-                <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.html">Contact us <span></span></a>
+                <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
             </div>
             <div class="contact__info--wrapper mt-15">
                 <h4 class="title mb-15">Contact us</h4>
@@ -251,138 +251,164 @@
         </div>
     </aside>
 
-
-
-    <div class="container py-2 pb-5">
-    <div class="row align-items-center">
-        <!-- Image Section -->
-        <div class="col-12 col-md-6 text-center">
-            <img src="assets/img/about/cms.avif" alt="Our Story" class="img-fluid"
-                style="height:350px; width: 450px" >
-        </div>
-
-        <!-- Content Section -->
-        <div class="col-12 col-md-6">
-            <h3 class="mb-3" style="font-weight:bold; text-align:center; font-size: 40px; padding-top: 25px;">Content Management System 
-            </h3>
-            <p class="text-dark" style="font-size: 17px; color:black; text-align: justify;line-height:25px;">
-             
- 
-We are having Content management system (CMS) Website Development experts which make the theme customization using WordPress, Magento, Drupal, Joomla HTML5, PHP, MySql, CSS, JavaScript, and custom cms framework.Content Management System (CMS) website Development gives you a chance to deal with your website.
-            </p>
-        </div>
-    </div>
-</div>
-
-
-
-
- <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-2 pb-5">
+    <!--====== BREADCRUMB SECTION START ======-->
+    <!-- <section class="breadcrumb-area fix theme-dark-bg  bg_img">
+        <div class="small-shape small-shape__1"><img src="assets/img/shapes/small-shape-5.png" alt=""></div>
+        <div class="small-shape small-shape__2"><img src="assets/img/shapes/small-shape-6.png" alt=""></div>
+        <div class="small-shape small-shape__3"><img src="assets/img/shapes/small-shape-2.png" alt=""></div>
+        <div class="small-shape small-shape__4"><img src="assets/img/shapes/small-shape-8.png" alt=""></div>
         <div class="container">
             <div class="row">
- <div class="row mt-20">
-                
-                <div class="col-xl-12 col-lg-12 pb-5">
-                    <div class="row">
-                       
-                          <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-2.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles"><h4 class="titles">WordPress Development
-</h4>
-    <p>
-
-
-
-            
-We have excellent experience in website design and development using PHP, WordPress, PSD to WordPress, Theme, Plugin Customization, Big-Commerce...
-
-</p>
-                                </div>
-                            </div>
+                <div class="col-xl-12">
+                    <div class="sotcox-breadcrumb-wrapper position-relative pt-190 pb-190">
+                        <h2 class="page-title">Portfolio</h2>
+                        <div class="sotcox-breadcrumb breadcrumbs">
+                            <ul class="list-unstyled d-flex align-items-center">
+                                <li class="sotcox-item duxinbcrumb-begin">
+                                    <a href="index.php"><span>Home</span></a>
+                                </li>
+                                <li class="sotcox-item duxinbcrumb-end">
+                                    <span>Portfolio</span>
+                                </li>
+                            </ul>
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-2.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles"> Magento Development</h4>
-                                    <p>         
-Magento gives your ecommerce platform the creative control it needs in order to heighten your user experience while increasing conversions for your business.</p>
-                                </div>
-                            </div>
+                        <div class="right-img">
+                           <img src="assets/img/bg/breadcrumb-bg.png" alt="">
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles"> Joomla Development </h4>
-                                    <p>
-
-
-           
-Joomla’s advanced capabilities provide you with diverse options to build and customize a unique online platform to fit your business...
-            </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        
-                         
-
-                        
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </section> -->
+    <!--====== BREADCRUMB SECTION END ======-->
 
-   
-
-
-  <div class="container py-2 pb-5" style="text-align: center;">
-    <div class="row align-items-center">
-        <!-- Image Section -->
-        <h1>CMS WEBSITE DEVELOPMENT</h1>
-        <!-- Content Section -->
-        <div class="col-12 col-md-12">
-            
-            <p class="text-dark pt-3" style="font-size: 17px; color:black; text-align: center;line-height:25px;">
-  
-you can manage the content in which you need to deal with your customer interest. The content of your site is something which causes you to enhance your search engine rankings and furthermore, the look feel of the website. Through the inconvenience-free content management given by Content Management System (CMS) website development gives you a chance to deal with the content with no specialized help that is the reason website using CMS development is getting more respect these days. Brisk changes, better, simple and basic control board prompts enhanced profitability. We are a CMS development Company in India which clearly understands the needs of a website owner. We know WordPress, Plugin customization and Theme customization using WordPress, Magento, Drupal, Joomla HTML5, PHP, MySql, CSS, JavaScript, and XSLT. We know that in an information-driven economy the success relies totally on the ability to provide information to the users quickly. Hence, we provide you with a very sophisticated content management system where you have supreme control over the content of your website. We have expert WordPress developer, Magento developer, expert joomla developer and expert drupal developer.
- 
-            </p>
+    <!--====== PROJECT SECTION START ======-->
+    <div class="sotcox-project-section sotcox-project-section__style-2 pt-3 pb-5">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-6">
+                    <div class="sotcox-section-heading sotcox-section-heading__style-2 text-center mb-50">
+                        <span class="sub-heading">portfolio</span>
+                        <h2 class="heading">Our recent case studies</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="content-left-wrapper">
+                        <ul class="sotcox-project-filter sotcox-project-filter__style-2 list-unstyled d-flex align-items-center">
+                            <li class="active" data-filter=".cat-1">All</li>
+                            <li data-filter=".cat-2">Web</li>
+                            <li data-filter=".cat-3">App</li>
+                            <li data-filter=".cat-4">Software</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xl-12">
+                    <div class="sotcox-project-wrapper mt-50">
+                        <div class="row sotcox-project-grid mt-none-30">
+                            <div class="col-xl-6 col-lg-4 cat-1 cat-4 cat-3 mt-30 grid">
+                                <div class="sotcox-project-item sotcox-project-item__style-2">
+                                    <div class="content">
+                                        <h4 class="title"><a href="#">Backup Blockchain & Crypto..</a></h4>
+                                        <a href="#" class="inline-btn">
+                                            <i class="far fa-arrow-right"></i>
+                                        </a>
+                                    </div>
+                                    <div class="thumb">
+                                        <img src="assets/img/project/project-2-1.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-4 cat-2 cat-4 cat-2 mt-30 grid">
+                                <div class="sotcox-project-item sotcox-project-item__style-2">
+                                    <div class="content">
+                                        <h4 class="title"><a href="#">App Design For Local Agency ..</a></h4>
+                                        <a href="#" class="inline-btn">
+                                            <i class="far fa-arrow-right"></i>
+                                        </a>
+                                    </div>
+                                    <div class="thumb">
+                                        <img src="assets/img/project/project-2-2.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-4 cat-4 cat-1 cat-3 mt-30 grid">
+                                <div class="sotcox-project-item sotcox-project-item__style-2">
+                                    <div class="content">
+                                        <h4 class="title"><a href="#">The New In Upcoming Design Think?</a></h4>
+                                        <a href="#" class="inline-btn">
+                                            <i class="far fa-arrow-right"></i>
+                                        </a>
+                                    </div>
+                                    <div class="thumb">
+                                        <img src="assets/img/project/project-2-3.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-4 cat-4 cat-3 mt-30 grid">
+                                <div class="sotcox-project-item sotcox-project-item__style-2">
+                                    <div class="content">
+                                        <h4 class="title"><a href="#">Branding For American IT..</a></h4>
+                                        <a href="#" class="inline-btn">
+                                            <i class="far fa-arrow-right"></i>
+                                        </a>
+                                    </div>
+                                    <div class="thumb">
+                                        <img src="assets/img/project/project-2-4.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-4 cat-2 cat-3 mt-30 grid">
+                                <div class="sotcox-project-item sotcox-project-item__style-2">
+                                    <div class="content">
+                                        <h4 class="title"><a href="#">World Best Available Scope..</a></h4>
+                                        <a href="#" class="inline-btn">
+                                            <i class="far fa-arrow-right"></i>
+                                        </a>
+                                    </div>
+                                    <div class="thumb">
+                                        <img src="assets/img/project/project-2-5.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6 col-lg-4 cat-5 cat-4 cat-3 mt-30 grid">
+                                <div class="sotcox-project-item sotcox-project-item__style-2">
+                                    <div class="content">
+                                        <h4 class="title"><a href="#">Software License Management..</a></h4>
+                                        <a href="#" class="inline-btn">
+                                            <i class="far fa-arrow-right"></i>
+                                        </a>
+                                    </div>
+                                    <div class="thumb">
+                                        <img src="assets/img/project/project-2-6.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-12 text-center mt-60">
+                    <a href="index.php" class="sotcox-btn">discover more projects <span></span></a>
+                </div>
+            </div>
         </div>
-
-        
-        </div>
-
     </div>
-</div>
-
+    <!--====== PROJECT SECTION END ======-->
 
     <!--====== NEWSLETTER SECTION START ======-->
-   <!--  <div class="sotcox-newsletter-section">
+ <!--    <div class="sotcox-newsletter-section">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
                     <div class="sotcox-newsletter-wrapper">
-                        <div class="shape shape__1 position-absolute"><img
-                                src="assets/img/shapes/newsletter-shape-1.png" alt=""></div>
-                        <div class="shape shape__2 position-absolute"><img
-                                src="assets/img/shapes/newsletter-shape-2.png" alt=""></div>
+                        <div class="shape shape__1 position-absolute"><img src="assets/img/shapes/newsletter-shape-1.png" alt=""></div>
+                        <div class="shape shape__2 position-absolute"><img src="assets/img/shapes/newsletter-shape-2.png" alt=""></div>
                         <div class="row align-items-center">
                             <div class="col-xl-5">
                                 <div class="sotcox-section-heading sotcox-section-heading__light">
                                     <span class="sub-heading">newsletter</span>
-                                    <h2 class="heading">Subscribe to The Free Newsletter to Receive The Latest News
-                                    </h2>
+                                    <h2 class="heading">Subscribe to The Free Newsletter to Receive The Latest News </h2>
                                 </div>
                             </div>
                             <div class="col-xl-7">
@@ -406,44 +432,41 @@ you can manage the content in which you need to deal with your customer interest
         <div class="container">
             <div class="row mt-none-30">
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <div class="sotcox-contact-info-box sotcox-contact-info-box__1 wow fadeInUp" data-wow-delay="0ms"
-                        data-wow-duration="800ms">
+                    <div class="sotcox-contact-info-box sotcox-contact-info-box__1 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="800ms">
                         <div class="icon">
                             <img src="assets/img/icons/phone.png" alt="">
                         </div>
                         <div class="content">
                             <span>free consultation</span>
-                            <p>Schedule a Free <br> Consultation With Our <br> Specialist</p>
-                            <a href="contact.html" class="sotcox-btn">schedule now <span></span></a>
+                           <p>Schedule a Free <br> Consultation With Our <br> Specialist</p>
+                           <a href="contact.php" class="sotcox-btn">schedule now <span></span></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <div class="sotcox-contact-info-box sotcox-contact-info-box__2 wow fadeInUp" data-wow-delay="200ms"
-                        data-wow-duration="800ms">
+                    <div class="sotcox-contact-info-box sotcox-contact-info-box__2 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms">
                         <div class="icon">
                             <img src="assets/img/icons/envelope.png" alt="">
                         </div>
                         <div class="content">
                             <span>request</span>
-                            <p>Begin Your Adventure <br> With Experienced <br> Professionals</p>
-                            <a href="contact.html" class="sotcox-btn">send request <span></span></a>
+                           <p>Begin Your Adventure <br> With Experienced <br> Professionals</p>
+                           <a href="contact.php" class="sotcox-btn">send request <span></span></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <div class="sotcox-contact-info-box sotcox-contact-info-box__3 wow fadeInUp" data-wow-delay="200ms"
-                        data-wow-duration="800ms">
+                    <div class="sotcox-contact-info-box sotcox-contact-info-box__3 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms">
                         <div class="icon">
                             <img src="assets/img/icons/desk.png" alt="">
                         </div>
                         <div class="content">
                             <span>hellp desk</span>
-                            <p>Do You Have Questions or <br> Want More Information? <br> Call Now.</p>
-                            <div class="info-call">
+                           <p>Do You Have Questions or <br> Want More Information? <br> Call Now.</p>
+                           <div class="info-call">
                                 <span class="icon"><img src="assets/img/icons/phone-2.png" alt=""></span>
                                 <span class="number">865-588-4687</span>
-                            </div>
+                           </div>
                         </div>
                     </div>
                 </div>
@@ -452,15 +475,15 @@ you can manage the content in which you need to deal with your customer interest
     </div> -->
     <!--====== CONTACT INFO SECTION END ======-->
 
-    <!--====== FOOTER START ======-->
-    <footer class="sotcox-footer theme-light-bg pt-0" >
+     <!--====== FOOTER START ======-->
+     <footer class="sotcox-footer theme-light-bg pt-0" >
         <div class="sotcox-footer-widgets" >
             <div class="container">
                 <div class="row mt-none-30">
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
                         <div class="widget">
                             <div class="about-widget">
-                                <a href="index.html" class="sotcox-footer-logo mb-20">
+                                <a href="index.php" class="sotcox-footer-logo mb-20">
                                     <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
                                 </a>
                               <div class="container mt-0">
@@ -495,11 +518,11 @@ you can manage the content in which you need to deal with your customer interest
                         <div class="widget">
                             <h3 class="widget-title" >Services</h3>
                             <ul >
-                                <li ><a href="mobile.html" >App Development</a></li>
-                                <li><a href="software.html" >Software Development</a></li>
-                                <li><a href="app.html" >Web Development</a></li>
-                                <li><a href="marketing.html" >Digital Marketing</a></li>
-                                <li><a href="portfolio.html" >Portfolio</a></li>
+                                <li ><a href="mobile-development.php" >App Development</a></li>
+                                <li><a href="software-development.php" >Software Development</a></li>
+                                <li><a href="web-development.php" >Web Development</a></li>
+                                <li><a href="digital-marketing.php" >Digital Marketing</a></li>
+                                <li><a href="portfolio.php" >Portfolio</a></li>
                             </ul>
                         </div>
                         <div class="sotcox-social-links mt-40">
@@ -513,11 +536,11 @@ you can manage the content in which you need to deal with your customer interest
                         <div class="widget">
                             <h3 class="widget-title">Information</h3>
                              <ul>
-                                <li><a href="career.html">Career</a></li>
-                                <li><a href="about.html">Our Team</a></li>
-                                <li><a href="contact.html">Contact us</a></li>
-                                <li><a href="services.html">Services</a></li>
-                                <li><a href="product.html">Our Products
+                                <li><a href="career.php">Career</a></li>
+                                <li><a href="about.php">Our Team</a></li>
+                                <li><a href="contact.php">Contact us</a></li>
+                                <li><a href="services.php">Services</a></li>
+                                <li><a href="product.php">Our Products
                                 </a></li>
                             </ul> 
                            
@@ -563,5 +586,5 @@ you can manage the content in which you need to deal with your customer interest
 </body>
 
 
-<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
 </html>

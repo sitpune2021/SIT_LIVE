@@ -2,7 +2,7 @@
 <html class="no-js" lang="zxx">
 
 
-<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:52 GMT -->
+<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:52 GMT -->
 <head>
 
     <!--========= Required meta tags =========-->
@@ -48,50 +48,50 @@
     <!--====== HEADER END ======-->
 
     <!--====== HEADER START ======-->
-         <header class="sotcox-header pt-3 pb-50" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
+          <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
         <div class="container-fluid sotcox-container__fluid">
             <div class="row">
                 <div class="col-xl-10 col-lg-4 col-sm-6 col-7 align-self-center">
                     <div class="sotcox-logo-menu-wrapper">
-                        <a href="index.html" class="sotcox-logo">
+                        <a href="index.php" class="sotcox-logo">
                             <img src="assets/img/logo/logo.png" alt="LOGO">
                         </a>
                         <div class="sotcox-menu-wrapper">
                             <div class="sotcox-main-menu">
                                 <nav id="sotcox-navbar">
                                     <ul>
-                                        <li><a href="index.html">Home</a>
+                                        <li><a href="index.php">Home</a>
                                            
                                         </li>
-                                        <li><a href="about.html">About Us</a></li>
-                                         <li ><a href="services.html">Services</a>
-                                           <!--  <ul class="sub-menu" >
-                                                <li><a href="app.html">Web Development</a>
+                                        <li><a href="about.php">About Us</a></li>
+                                         <li ><a href="services.php">Services</a>
+                                      <!--     <ul class="sub-menu" >
+                                                <li><a href="web-development.php">Web Development</a>
                                                 <ul class="sub-menu" style="width: 300px;">
-                                                <li ><a href="php.html">PHP Development</a></li>
-                                                <li><a href="angularjs.html">AngularJS Development</a></li>
-                                                <li><a href="uiux.html">UI & UX Design Development</a></li>
+                                                <li ><a href="php-development.php">PHP Development</a></li>
+                                                <li><a href="angularjs-development.php">AngularJS Development</a></li>
+                                                <li><a href="uiux-development.php">UI & UX Design Development</a></li>
                                                 
-                                                <li><a href="laravel.html">Laravel Development</a></li>
-                                                 <li><a href="codeigniter.html">Codeigniter Development</a></li>
-                                                <li><a href="research.html">Content Management System</a></li>
+                                                <li><a href="laravel-development.php">Laravel Development</a></li>
+                                                 <li><a href="codeigniter-development.php">Codeigniter Development</a></li>
+                                                <li><a href="content-management-system.php">Content Management System</a></li>
                                                
-                                            </ul> </li>
-                                                <li><a href="software.html">Software Development</a></li>
-                                                <li><a href="marketing.html">Digital Marketing</a></li>
-                                                <li><a href="mobile.html">App Development</a></li>
+                                            </ul></li>
+                                                <li><a href="software-development.php">Software Development</a></li>
+                                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                                <li><a href="mobile-development.php">App Development</a></li>
                                                
-                                            </ul>
-                                        </li> -->
-                                        <li><a href="product.html">Products</a>
-                                        <li><a href="portfolio.html">Portfolio</a>
+                                            </ul> -->
+                                        </li>
+                                        <li><a href="product.php">Products</a>
+                                        <li><a href="portfolio.php">Portfolio</a>
                                         
                                         </li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
-                            <!-- <a href="contact.html" class="sotcox-btn">free quote <span></span></a> -->
+                            <!-- <a href="contact.php" class="sotcox-btn">free quote <span></span></a> -->
                         </div>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
     <div class="search-popup">
         <div class="color-layer"></div>
         <button class="close-search"><span class="far fa-arrow-up"></span></button>
-        <form method="post" action="https://techsometimes.com/products/html/sotcox/blog.html">
+        <form method="post" action="https://techsometimes.com/products/html/sotcox/blog.php">
             <div class="form-group">
                 <input type="search" name="search-field" value="" placeholder="Search Here" required="">
                 <button type="submit"><i class="far fa-search"></i></button>
@@ -150,7 +150,7 @@
         </nav>
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
             <div class="side-info__logo">
-                <a href="index-2.html">
+                <a href="index-2.php">
                     <img src="assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
@@ -162,7 +162,7 @@
             <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel"
                 aria-labelledby="menu-tab-1-tab">
                 <div class="search-box">
-                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.html" method="get">
+                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
                         <div>
                             <input type="search" value="" required="" name="s" placeholder="Search...">
                             <button type="submit"><i class="far fa-search"></i></button>
@@ -177,7 +177,7 @@
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-10">About us</h4>
                         <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
-                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.html">Contact us <span></span></a>
+                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
                         <h4 class="title mb-15">Contact us</h4>
@@ -197,10 +197,10 @@
                         </ul>
                     </div>
                     <div class="sotcox-social-links mt-30">
-                        <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#0"><i class="fab fa-twitter"></i></a>
-                        <a href="#0"><i class="fab fa-google-plus-g"></i></a>
-                        <a href="#0"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
+                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
@@ -211,7 +211,7 @@
   <aside class="side-info-wrapper show-all">
         <div class="side-info__wrapper d-flex align-items-center justify-content-between pb-0">
             <div class="side-info__logo">
-                <a href="index.html">
+                <a href="index.php">
                     <img src="assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
@@ -223,7 +223,7 @@
             <div class="side-info__content mb-35">
                 <h4 class="title mb-10">About us</h4>
                 <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
-                <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.html">Contact us <span></span></a>
+                <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
             </div>
             <div class="contact__info--wrapper mt-15">
                 <h4 class="title mb-15">Contact us</h4>
@@ -243,10 +243,10 @@
                 </ul>
             </div>
             <div class="sotcox-social-links mt-30">
-                <a href="#0"><i class="fab fa-facebook-f"></i></a>
-                <a href="#0"><i class="fab fa-twitter"></i></a>
-                <a href="#0"><i class="fab fa-google-plus-g"></i></a>
-                <a href="#0"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
+                <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
     </aside>
@@ -254,14 +254,14 @@
 
 <!-- content start form here -->
 
-    <div class="sotcox-details-page pt-0 pb-0">
+    <div class="sotcox-details-page pt-5 pb-5">
         <div class="container">
             <div class="row">
     <div class="col-xl-12" style="text-align: center;">
         <div class="details-content">
-            <h2 class="sotcox-title mb-25">AngularJS  Development </h2>
+            <h2 class="sotcox-title mb-25">OUR SERVICES</h2>
             <p>
-               Angular JS Web Application Development Company in India. Are you looking for reliable AngularJS web Application development companies in Maharashtra, Pune, Mumbai, Delhi, India-Bangalore, in the INDIA ? Reach us at  info@sitsolutions.co.in
+                SIT builds, and promotes, offering end-to-end solutions, agility in execution, and depth of specialization.
             </p>
             
             <!-- 
@@ -276,57 +276,85 @@
     </div>
 </div>
 </div>
- 
+</div>
 
-                        <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-2 pb-5">
-                              <div class="container">
-                                     <div class="row">
-                                      <div class="row mt-20">
-            
-                <div class="col-xl-12 col-lg-12">
-                    <div class="row">
-                        <div class="col-xl-3 col-lg-6 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="00ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; ">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-1.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Social Media</h4>
-                                   
-                                </div>
+                          <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-0 pb-5">
+    <div class="container">
+        <div class="row mt-20">
+            <div class="col-xl-12 col-lg-12">
+                <div class="row">
+                    <!-- Website Development Box -->
+                    <div class="col-xl-6 col-lg-6 col-md-6 mt-30">
+                        <div class="stocox-support-box wow fadeInUp" data-wow-delay="00ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+                            <div class="icon" style="text-align: center; margin-bottom: 15px;">
+                                <img src="assets/img/about/service-1.jpeg" alt="" style="max-width: 280px; height: 250px; border-radius: 10px;">
+                            </div>
+                            <div class="content mt-25" style="padding: 0 15px;">
+                                <h4 class="titles" style="font-size: 22px; font-weight: bold; text-align: center; color: #333;">WEBSITE DEVELOPMENT</h4>
+                                <ul style="padding-left: 20px; margin-top: 15px;">
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">.Net Development</li>
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Content Management Development</li>
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Laravel Development</li>
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Website Design</li>
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Design Centric UI/UX</li>
+                                </ul>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-6 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; ">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-2.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Ad Campaigns</h4>
-                                 
-                                </div>
+                    </div>
+
+                    <!-- Digital Marketing Box -->
+                    <div class="col-xl-6 col-lg-6 col-md-6 mt-30">
+                        <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+                            <div class="icon" style="text-align: center; margin-bottom: 15px;">
+                                <img src="assets/img/about/service-2.jpeg" alt="" style="max-width: 280px; height: 250px; border-radius: 10px;">
+                            </div>
+                            <div class="content mt-25" style="padding: 0 15px;">
+                                <h4 class="titles" style="font-size: 22px; font-weight: bold; text-align: center; color: #333;">DIGITAL MARKETING</h4>
+                                <ul style="padding-left: 20px; margin-top: 15px;">
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Search Engine Optimization SEO</li>
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Social Media Marketing SMM</li>
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Search Engine Marketing SEM</li>
+                                      <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Email Marketing</li>
+                                       <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">PPC (Pay-Per-Click) Advertising</li>
+                                </ul>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-6 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; ">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Social Strategy</h4>
-                                  
-                                </div>
+                    </div>
+
+                    <!-- E-Commerce Box -->
+                    <div class="col-xl-6 col-lg-6 col-md-6 mt-30">
+                        <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+                            <div class="icon" style="text-align: center; margin-bottom: 15px;">
+                                <img src="assets/img/about/service-3.jpeg" alt="" style="max-width: 280px; height: 250px; border-radius: 10px;">
+                            </div>
+                            <div class="content mt-25" style="padding: 0 15px;">
+                                <h4 class="titles" style="font-size: 22px; font-weight: bold; text-align: center; color: #333;">E-COMMERCE</h4>
+                                <ul style="padding-left: 20px; margin-top: 15px;">
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Shopify development</li>
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">BigCommerce Developer</li>
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">3Dcart Developer</li>
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Opencart Developer</li>
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">E-Commerce Data Migration</li>
+                                </ul>
                             </div>
                         </div>
-                       <div class="col-xl-3 col-lg-6 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;  ">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Data Analysis</h4>
-                                   
-                                </div>
+                    </div>
+
+                    <!-- Enterprise Box -->
+                    <div class="col-xl-6 col-lg-6 col-md-6 mt-30">
+                        <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+                            <div class="icon" style="text-align: center; margin-bottom: 15px;">
+                                <img src="assets/img/about/service-4.jpeg" alt="" style="max-width: 280px; height: 250px; border-radius: 10px;">
+                            </div>
+                            <div class="content mt-25" style="padding: 0 15px;">
+                                <h4 class="titles" style="font-size: 22px; font-weight: bold; text-align: center; color: #333;">ENTERPRISE</h4>
+                                <ul style="padding-left: 20px; margin-top: 15px;">
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Java Development</li>
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Oracle Services and Consulting</li>
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Mobile App Development</li>
+                                    <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Testing and QA</li>
+                                     <li class="text-start" style="font-size: 19px; font-weight: bold; color: black;">Oracle Services and Consulting</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -335,59 +363,12 @@
         </div>
     </div>
 </div>
+
+
+
     
 
 
-    <div class="sotcox-details-page pt-5 pb-5">
-        <div class="container">
-            <div class="row">
-    <div class="col-xl-12" style="text-align: center;">
-        <div class="details-content">
-            <h2 class="sotcox-title mb-25">MEAN Stack Development Company In India</h2>
-            <p>
-              
-MEAN Stack development is a combination of MongoDB, Express Js, Angular Js and Node Js. If you are looking for MEAN Stack developer in India we have best pool of developer with extensive skills.
-            </p>
-            
-            <!-- 
-            <ul class="list-unstyled portfolio-meta">
-                <li><span class="label">Client :</span> <span class="text">Sotcox</span></li>
-                <li><span class="label">Date :</span> <span class="text">September 27, 2024</span></li>
-                <li><span class="label">Website :</span> <span class="text">Sotcox.com</span></li>
-                <li><span class="label">Category :</span> <span class="text">Design</span></li>
-            </ul>
-            -->
-        </div>
-    </div>
-</div>
-</div>
-
-    <div class="sotcox-details-page pt-5 pb-0">
-        <div class="container">
-            <div class="row">
-    <div class="col-xl-12" style="text-align: center;">
-        <div class="details-content">
-            <h2 class="sotcox-title mb-25">Best AngularJS Development Companies in the INDIA</h2>
-            <p>
-
-Hire SIT team of AngularJS Developers in the INDIA, holds the background of developing rich elements in web application and Mobile apps and we are proficient in using core knowledge and advanced technologies of AngularJS to build robust web application.
-As we are the expert AngularJS Development Company in the INDIA, we have started our journey on developing web and mobile application since 2019.
-We have rich experienced expert in developing and deploying web applications by using AngularJS and Angular 7 JavaScript technologies.
-            </p>
-       
-           <ul><li class="text-start" style="font-size: 20px; ">AngularJS App Design and Development</li>
-
-<li class="text-start" style="font-size: 20px; ">AngularJS Cross-platform Development</li>
-
-<li class="text-start" style="font-size: 20px; ">Angular Quality Testing and Assurance</li></ul>
-     
-        </div>
-    </div>
-</div>
-</div>
-</div>
-</div>
-</div>
 
 
   <!--====== FOOTER START ======-->
@@ -398,7 +379,7 @@ We have rich experienced expert in developing and deploying web applications by 
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
                     <div class="widget">
                         <div class="about-widget">
-                            <a href="index.html" class="sotcox-footer-logo mb-20">
+                            <a href="index.php" class="sotcox-footer-logo mb-20">
                                 <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
                             </a>
                           <div class="container mt-0">
@@ -433,11 +414,11 @@ We have rich experienced expert in developing and deploying web applications by 
                     <div class="widget">
                         <h3 class="widget-title" >Services</h3>
                         <ul >
-                            <li ><a href="mobile.html" >App Development</a></li>
-                            <li><a href="software.html" >Software Development</a></li>
-                            <li><a href="app.html" >Web Development</a></li>
-                            <li><a href="marketing.html" >Digital Marketing</a></li>
-                            <li><a href="portfolio.html" >Portfolio</a></li>
+                            <li ><a href="mobile-development.php" >App Development</a></li>
+                            <li><a href="software-development.php" >Software Development</a></li>
+                            <li><a href="web-development.php" >Web Development</a></li>
+                            <li><a href="digital-marketing.php" >Digital Marketing</a></li>
+                            <li><a href="portfolio.php" >Portfolio</a></li>
                         </ul>
                     </div>
                     <div class="sotcox-social-links mt-40">
@@ -451,11 +432,11 @@ We have rich experienced expert in developing and deploying web applications by 
                     <div class="widget">
                         <h3 class="widget-title">Information</h3>
                          <ul>
-                            <li><a href="career.html">Career</a></li>
-                            <li><a href="about.html">Our Team</a></li>
-                            <li><a href="contact.html">Contact us</a></li>
-                            <li><a href="services.html">Services</a></li>
-                            <li><a href="product.html">Our Products
+                            <li><a href="career.php">Career</a></li>
+                            <li><a href="about.php">Our Team</a></li>
+                            <li><a href="contact.php">Contact us</a></li>
+                            <li><a href="services.php">Services</a></li>
+                            <li><a href="product.php">Our Products
                             </a></li>
                         </ul> 
                        
@@ -501,5 +482,5 @@ We have rich experienced expert in developing and deploying web applications by 
 </body>
 
 
-<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
 </html>

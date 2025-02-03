@@ -2,7 +2,7 @@
 <html class="no-js" lang="zxx">
 
 
-<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:52 GMT -->
+<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:52 GMT -->
 <head>
 
     <!--========= Required meta tags =========-->
@@ -48,50 +48,50 @@
     <!--====== HEADER END ======-->
 
     <!--====== HEADER START ======-->
-         <header class="sotcox-header pt-3 pb-50" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
+         <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
         <div class="container-fluid sotcox-container__fluid">
             <div class="row">
                 <div class="col-xl-10 col-lg-4 col-sm-6 col-7 align-self-center">
                     <div class="sotcox-logo-menu-wrapper">
-                        <a href="index.html" class="sotcox-logo">
+                        <a href="index.php" class="sotcox-logo">
                             <img src="assets/img/logo/logo.png" alt="LOGO">
                         </a>
                         <div class="sotcox-menu-wrapper">
                             <div class="sotcox-main-menu">
                                 <nav id="sotcox-navbar">
                                     <ul>
-                                        <li><a href="index.html">Home</a>
+                                        <li><a href="index.php">Home</a>
                                            
                                         </li>
-                                        <li><a href="about.html">About Us</a></li>
-                                         <li ><a href="services.html">Services</a>
+                                        <li><a href="about.php">About Us</a></li>
+                                         <li ><a href="services.php">Services</a>
                                            <!--  <ul class="sub-menu" >
-                                                <li><a href="app.html">Web Development</a>
+                                                <li><a href="web-development.php">Web Development</a>
                                                 <ul class="sub-menu" style="width: 300px;">
-                                                <li ><a href="php.html">PHP Development</a></li>
-                                                <li><a href="angularjs.html">AngularJS Development</a></li>
-                                                <li><a href="uiux.html">UI & UX Design Development</a></li>
+                                                <li ><a href="php-development.php">PHP Development</a></li>
+                                                <li><a href="angularjs-development.php">AngularJS Development</a></li>
+                                                <li><a href="uiux-development.php">UI & UX Design Development</a></li>
                                                 
-                                                <li><a href="laravel.html">Laravel Development</a></li>
-                                                 <li><a href="codeigniter.html">Codeigniter Development</a></li>
-                                                <li><a href="research.html">Content Management System</a></li>
+                                                <li><a href="laravel-development.php">Laravel Development</a></li>
+                                                 <li><a href="codeigniter-development.php">Codeigniter Development</a></li>
+                                                <li><a href="content-management-system.php">Content Management System</a></li>
                                                
                                             </ul> </li>
-                                                <li><a href="software.html">Software Development</a></li>
-                                                <li><a href="marketing.html">Digital Marketing</a></li>
-                                                <li><a href="mobile.html">App Development</a></li>
+                                                <li><a href="software-development.php">Software Development</a></li>
+                                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                                <li><a href="mobile-development.php">App Development</a></li>
                                                
                                             </ul>
                                         </li> -->
-                                        <li><a href="product.html">Products</a>
-                                        <li><a href="portfolio.html">Portfolio</a>
+                                        <li><a href="product.php">Products</a>
+                                        <li><a href="portfolio.php">Portfolio</a>
                                         
                                         </li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
-                            <!-- <a href="contact.html" class="sotcox-btn">free quote <span></span></a> -->
+                            <!-- <a href="contact.php" class="sotcox-btn">free quote <span></span></a> -->
                         </div>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
     <div class="search-popup">
         <div class="color-layer"></div>
         <button class="close-search"><span class="far fa-arrow-up"></span></button>
-        <form method="post" action="https://techsometimes.com/products/html/sotcox/blog.html">
+        <form method="post" action="https://techsometimes.com/products/html/sotcox/blog.php">
             <div class="form-group">
                 <input type="search" name="search-field" value="" placeholder="Search Here" required="">
                 <button type="submit"><i class="far fa-search"></i></button>
@@ -150,7 +150,7 @@
         </nav>
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
             <div class="side-info__logo">
-                <a href="index-2.html">
+                <a href="index-2.php">
                     <img src="assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
@@ -162,7 +162,7 @@
             <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel"
                 aria-labelledby="menu-tab-1-tab">
                 <div class="search-box">
-                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.html" method="get">
+                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
                         <div>
                             <input type="search" value="" required="" name="s" placeholder="Search...">
                             <button type="submit"><i class="far fa-search"></i></button>
@@ -177,7 +177,7 @@
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-10">About us</h4>
                         <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
-                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.html">Contact us <span></span></a>
+                        <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
                         <h4 class="title mb-15">Contact us</h4>
@@ -211,7 +211,7 @@
   <aside class="side-info-wrapper show-all">
         <div class="side-info__wrapper d-flex align-items-center justify-content-between pb-0">
             <div class="side-info__logo">
-                <a href="index.html">
+                <a href="index.php">
                     <img src="assets/img/logo/logo.png" alt="logo">
                 </a>
             </div>
@@ -223,7 +223,7 @@
             <div class="side-info__content mb-35">
                 <h4 class="title mb-10">About us</h4>
                 <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
-                <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.html">Contact us <span></span></a>
+                <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
             </div>
             <div class="contact__info--wrapper mt-15">
                 <h4 class="title mb-15">Contact us</h4>
@@ -265,7 +265,7 @@
                         <div class="sotcox-breadcrumb breadcrumbs">
                             <ul class="list-unstyled d-flex align-items-center">
                                 <li class="sotcox-item duxinbcrumb-begin">
-                                    <a href="index.html"><span>Home</span></a>
+                                    <a href="index.php"><span>Home</span></a>
                                 </li>
                                 <li class="sotcox-item duxinbcrumb-end">
                                     <span>Web
@@ -292,9 +292,9 @@
 
                         <div class="details-content mt-60">
                             <h2 class="sotcox-title mb-25">Best software to build a data warehouse </h2>
-                            <p>Your website design is your image, and your image is in safe hands with us. Give us your requirements and we will handle the entire web design process for you. We give you an eye-catching, custom website design that gives your business an advantage over your competitors. We design your website exactly to your specifications, from scratch, until you love how it looks. We will stay in touch with you throughout the design and development process. You will get plenty of opportunities to tell us what you think. We want to work with you in the long term. Our expertise includes HTML, CSS, Flash/Flex Designing, 2D-3D Animation, Web 2.0, Layouts in Photoshop (PSD), Ajax, Dreamweaver, CorelDraw, Illustrator, PageMaker and more. While we are proficient in the latest website design and technology, we use them appropriately, to set up a perfect website according to your instructions and add essential functionality to your website.</p>
+                            <p style="text-align:justify;">Your website design is your image, and your image is in safe hands with us. Give us your requirements and we will handle the entire web design process for you. We give you an eye-catching, custom website design that gives your business an advantage over your competitors. We design your website exactly to your specifications, from scratch, until you love how it looks. We will stay in touch with you throughout the design and development process. You will get plenty of opportunities to tell us what you think. We want to work with you in the long term. Our expertise includes HTML, CSS, Flash/Flex Designing, 2D-3D Animation, Web 2.0, Layouts in Photoshop (PSD), Ajax, Dreamweaver, CorelDraw, Illustrator, PageMaker and more. While we are proficient in the latest website design and technology, we use them appropriately, to set up a perfect website according to your instructions and add essential functionality to your website.</p>
                             <h2 class="sotcox-title mt-10 mb-25">Website Development</h2>
-                            <p>Our award winning graphic artists and designers have been creating websites exactly to your specifications, from scratch, until you love how it looks using HTML, CSS, 2D-3D Animation, Photoshop CorelDraw.</p>
+                            <p style="text-align:justify;">Our award winning graphic artists and designers have been creating websites exactly to your specifications, from scratch, until you love how it looks using HTML, CSS, 2D-3D Animation, Photoshop CorelDraw.</p>
                            
                         </div>
                     </div>
@@ -304,19 +304,19 @@
                         <div class="blog_widget widget mt-60 widget_categories">
                             <h2 class="blog-widget-title">Services</h2>
                             <ul class="list-unstyled">
-                                <li class="cat-item"><a href="php.html">PHP Development</a></li>
-                                <li class="cat-item"><a href="angularjs.html">AngularJS Development</a></li>
-                                <li class="cat-item"><a href="uiux.html">UI & UX Design Development</a></li>
-                                <li class="cat-item"><a href="laravel.html">Laravel Development </a></li>
-                                <li class="cat-item"><a href="codeigniter.html">Codeigniter Development</a></li>
-                                <li class="cat-item"><a href="research.html">Content Management System</a></li>
+                                <li class="cat-item"><a href="php-development.php">PHP Development</a></li>
+                                <li class="cat-item"><a href="angularjs-development.php">AngularJS Development</a></li>
+                                <li class="cat-item"><a href="uiux-development.php">UI & UX Design Development</a></li>
+                                <li class="cat-item"><a href="laravel-development.php">Laravel Development </a></li>
+                                <li class="cat-item"><a href="codeigniter-development.php">Codeigniter Development</a></li>
+                                <li class="cat-item"><a href="content-management-system.php">Content Management System</a></li>
                                
                             </ul>
                         </div>
                         <!-- <div class="blog_widget widget mt-40">
                             <h2 class="blog-widget-title">Get a Quote</h2>
                             <div class="sotcox-input-field">
-                                <form action="https://techsometimes.com/products/html/sotcox/index.html" method="get">
+                                <form action="https://techsometimes.com/products/html/sotcox/index.php" method="get">
                                     <input type="text" name="name" id="name" placeholder="Enter name*">
                                     <input type="email" name="mail" id="mail" placeholder="Enter your mail*">
                                     <textarea name="message" id="message" placeholder="Massage*"></textarea>
@@ -431,7 +431,7 @@
     </nav>
     <div class="side-info__wrapper d-flex align-items-center justify-content-between">
         <div class="side-info__logo">
-            <a href="index-2.html">
+            <a href="index-2.php">
                 <img src="assets/img/logo/logo.png" alt="logo">
             </a>
         </div>
@@ -443,7 +443,7 @@
         <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel"
             aria-labelledby="menu-tab-1-tab">
             <div class="search-box">
-                <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.html" method="get">
+                <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
                     <div>
                         <input type="search" value="" required="" name="s" placeholder="Search...">
                         <button type="submit"><i class="far fa-search"></i></button>
@@ -458,7 +458,7 @@
                 <div class="side-info__content mb-35">
                     <h4 class="title mb-10">About us</h4>
                     <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
-                    <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.html">Contact us <span></span></a>
+                    <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
                 </div>
                 <div class="contact__info--wrapper mt-15">
                     <h4 class="title mb-15">Contact us</h4>
@@ -497,7 +497,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
                     <div class="widget">
                         <div class="about-widget">
-                            <a href="index.html" class="sotcox-footer-logo mb-20">
+                            <a href="index.php" class="sotcox-footer-logo mb-20">
                                 <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
                             </a>
                           <div class="container mt-0">
@@ -532,11 +532,11 @@
                     <div class="widget">
                         <h3 class="widget-title" >Services</h3>
                         <ul >
-                            <li ><a href="mobile.html" >App Development</a></li>
-                            <li><a href="software.html" >Software Development</a></li>
-                            <li><a href="app.html" >Web Development</a></li>
-                            <li><a href="marketing.html" >Digital Marketing</a></li>
-                            <li><a href="portfolio.html" >Portfolio</a></li>
+                            <li ><a href="mobile-development.php" >App Development</a></li>
+                            <li><a href="software-development.mobil-development.php" >Software Development</a></li>
+                            <li><a href="web-development.mobil-development.php" >Web Development</a></li>
+                            <li><a href="digital-marketing.php" >Digital Marketing</a></li>
+                            <li><a href="portfolio.mobi-development.php" >Portfolio</a></li>
                         </ul>
                     </div>
                     <div class="sotcox-social-links mt-40">
@@ -550,11 +550,11 @@
                     <div class="widget">
                         <h3 class="widget-title">Information</h3>
                          <ul>
-                            <li><a href="career.html">Career</a></li>
-                            <li><a href="about.html">Our Team</a></li>
-                            <li><a href="contact.html">Contact us</a></li>
-                            <li><a href="services.html">Services</a></li>
-                            <li><a href="product.html">Our Products
+                            <li><a href="career.mob-development.php">Career</a></li>
+                            <li><a href="about.mo-development.php">Our Team</a></li>
+                            <li><a href="contact.m-development.php">Contact us</a></li>
+                            <li><a href="services.-development.php">Services</a></li>
+                            <li><a href="product.php-development.php">Our Products
                             </a></li>
                         </ul> 
                        
@@ -600,5 +600,5 @@
 </body>
 
 
-<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+<!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
 </html>
