@@ -259,7 +259,7 @@
             <div class="row">
     <div class="col-xl-12" style="text-align: center;">
         <div class="details-content">
-            <h2 class="sotcox-title mb-25"> UI & UX DESIGN</h2>
+            <h2 class="sotcox-title mb-25 pt-3"> UI & UX DESIGN</h2>
             <p style="text-align:justify;">
                 SIT is also a UX &amp; UI design company having UX design &amp; UI Design, expert. We know about User Experience Design is a more noteworthy and more extensive term when contrasted with outlining just the visuals. We are fairly pleased to be one of its sorts UI Designing Service in Pune and extraordinary compared to other UX Research and Design experts in India.
             </p>
@@ -271,14 +271,14 @@
 </div>
  
 
-                        <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-2 pb-5">
+                        <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-2 pb-3">
                               <div class="container">
                                      <div class="row">
                                       <div class="row mt-20">
             
                 <div class="col-xl-12 col-lg-12">
                     <div class="row">
-                        <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
+                        <div class="col-xl-4 col-lg-6 col-md-6 mt-0">
                             <div class="stocox-support-box wow fadeInUp" data-wow-delay="00ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; ">
                                 <div class="icon">
                                     <img src="assets/img/icons/service-details-icon-1.png" alt="">
@@ -290,7 +290,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
+                        <div class="col-xl-4 col-lg-6 col-md-6 mt-0">
                             <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; ">
                                 <div class="icon">
                                     <img src="assets/img/icons/service-details-icon-2.png" alt="">
@@ -303,7 +303,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
+                        <div class="col-xl-4 col-lg-6 col-md-6 mt-0">
                             <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; ">
                                 <div class="icon">
                                     <img src="assets/img/icons/service-details-icon-3.png" alt="">
@@ -325,7 +325,7 @@
 </div>
     
 
-    <div class="container py-2 pb-5">
+    <div class="container py-0 pb-5">
     <div class="row align-items-center">
         <!-- Image Section -->
         <div class="col-12 col-md-6 text-center">
@@ -335,8 +335,8 @@
 
         <!-- Content Section -->
         <div class="col-12 col-md-6">
-            <h3 class="mb-3" style="font-weight:bold; text-align:center; font-size: 40px; padding-top: 25px;">UI & UX Design company
-            </h3>
+            <h5 class="mb-3" style="font-weight:bold; text-align:center; font-size: 30px; padding-top: 25px;">UI & UX Design company
+            </h5>
             <p class="text-dark" style="font-size: 17px; color:black; text-align: justify;line-height:25px;">
               As a UX &amp; UI design company or User Interface designing service in Pune, we offer proficient help to associations in designing their Web UI services and mobile interface design services. We will likely create a User-friendly mobile and web application. In the event that you are in a scan for the best interface for your product, at that point we are ones whom you have to approach. At AppTech, we know exceptionally well that giving “Originator User Experience” to somebody who might utilize the outline created by you isn’t too simple as you won’t be there to control or run with them constantly. This by itself is the reason we truly feel that a plan ought not exclusively to be anything but difficult to utilize yet in addition simple alongside being natural. if you are looking for UX &amp; UI design company in Pune then we are the best choice for you.
             </p>
@@ -351,94 +351,99 @@
        
 
   <!--====== FOOTER START ======-->
-  <footer class="sotcox-footer theme-light-bg pt-0" >
-    <div class="sotcox-footer-widgets" >
-        <div class="container">
-            <div class="row mt-none-30">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
-                    <div class="widget">
-                        <div class="about-widget">
-                            <a href="index.php" class="sotcox-footer-logo mb-20">
-                                <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
-                            </a>
-                          <div class="container mt-0">
-<!-- Address Section -->
-<div class="d-flex align-items-start mb-3">
-<div>
-  <i class="far fa-map-marker-alt fa-lg text-primary" style="position: relative; top: 5px;"></i>
-</div>
-<div class="ms-3">
-  <p class="mb-0">
-    SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road, Hadapsar 411028
-  </p>
-</div>
-</div>
+  <!--====== FOOTER START ======-->
+  <footer class="sotcox-footer theme-light-bg pt-2">
+        <div class="sotcox-footer-widgets">
+            <div class="container">
+                <div class="row mt-none-30">
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
+                        <div class="widget">
+                            <div class="about-widget">
+                                <a href="index.php" class="sotcox-footer-logo mb-20">
+                                    <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
+                                </a>
+                                <div class="container mt-0">
+                                    <!-- Address Section -->
+                                    <div class="d-flex align-items-start mb-3">
+                                        <div>
+                                            <i class="far fa-map-marker-alt fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">
+                                                SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega
+                                                Center, Magarpatta Road, Hadapsar 411028
+                                            </p>
+                                        </div>
+                                    </div>
 
-<!-- Email Section -->
-<div class="d-flex align-items-start">
-<div>
-  <i class="far fa-envelope fa-lg text-primary" style="position: relative; top: 5px;"></i>
-</div>
-<div class="ms-3">
-  <p class="mb-0">info@sitsolutions.co.in</p>
-</div>
-</div>
-</div>
+                                    <!-- Email Section -->
+                                    <div class="d-flex align-items-start">
+                                        <div>
+                                            <i class="far fa-envelope fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">info@sitsolutions.co.in</p>
+                                        </div>
+                                    </div>
+                                </div>
 
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
+                        <div class="widget">
+                            <h3 class="widget-title ms-3">Services</h3>
+                            <ul class="ms-3">
+                                <li><a href="mobile-development.php">App Development</a></li>
+                                <li><a href="software-development.php">Software Development</a></li>
+                                <li><a href="web-development.php">Web Development</a></li>
+                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                <li><a href="portfolio.php">Portfolio</a></li>
+                            </ul>
+                        </div>
+                        <div class="sotcox-social-links mt-40 ms-3">
+                            <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
+                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
+                        <div class="widget">
+                            <h3 class="widget-title ms-3">Information</h3>
+                            <ul class="ms-3">
+                                <li><a href="career.php">Career</a></li>
+                                <li><a href="about.php">Our Team</a></li>
+                                <li><a href="contact.php">Contact us</a></li>
+                                <li><a href="services.php">Services</a></li>
+                                <li><a href="product.php">Our Products
+                                    </a></li>
+                            </ul>
 
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
-                    <div class="widget">
-                        <h3 class="widget-title" >Services</h3>
-                        <ul >
-                            <li ><a href="mobile-development.php" >App Development</a></li>
-                            <li><a href="software-development.php" >Software Development</a></li>
-                            <li><a href="web-development.php" >Web Development</a></li>
-                            <li><a href="digital-marketing.php" >Digital Marketing</a></li>
-                            <li><a href="portfolio.php" >Portfolio</a></li>
-                        </ul>
+            </div>
+        </div>
+        <div class="sotcox-copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <p>Copyright &copy; <span id="copyright-date"></span> SIT Solutions Pvt Ltd, All Rights
+                            Reserved.</p>
                     </div>
-                    <div class="sotcox-social-links mt-40">
-                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                        <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
-                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
-                    <div class="widget">
-                        <h3 class="widget-title">Information</h3>
-                         <ul>
-                            <li><a href="career.php">Career</a></li>
-                            <li><a href="about.php">Our Team</a></li>
-                            <li><a href="contact.php">Contact us</a></li>
-                            <li><a href="services.php">Services</a></li>
-                            <li><a href="product.php">Our Products
-                            </a></li>
-                        </ul> 
-                       
+                    <div class="col-md-4">
+                        <div class="sotcox-backtotop">
+                            <button data-sotcox-backtotop><i class="far fa-angle-up"></i> Go On Top</button>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="sotcox-copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8">
-                    <p >Copyright &copy; <span id="copyright-date" ></span> SIT Solutions Pvt Ltd, All Rights Reserved.</p>
-                </div>
-                <div class="col-md-4">
-                    <div class="sotcox-backtotop">
-                        <button data-sotcox-backtotop><i class="far fa-angle-up"></i> Go On Top</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
+    </footer>
     <!--====== FOOTER END ======-->
 
     <!--========= JS Here =========-->
@@ -462,4 +467,5 @@
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+
 </html>

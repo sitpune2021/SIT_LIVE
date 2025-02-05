@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:52 GMT -->
+
 <head>
 
     <!--========= Required meta tags =========-->
@@ -48,7 +49,7 @@
     <!--====== HEADER END ======-->
 
     <!--====== HEADER START ======-->
-           <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
+    <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
         <div class="container-fluid sotcox-container__fluid">
             <div class="row">
                 <div class="col-xl-10 col-lg-4 col-sm-6 col-7 align-self-center">
@@ -61,11 +62,11 @@
                                 <nav id="sotcox-navbar">
                                     <ul>
                                         <li><a href="index.php">Home</a>
-                                           
+
                                         </li>
                                         <li><a href="about.php">About Us</a></li>
-                                         <li ><a href="services.php">Services</a>
-                                      <!--     <ul class="sub-menu" >
+                                        <li><a href="services.php">Services</a>
+                                            <!--     <ul class="sub-menu" >
                                                 <li><a href="web-development.php">Web Development</a>
                                                 <ul class="sub-menu" style="width: 300px;">
                                                 <li ><a href="php-development.php">PHP Development</a></li>
@@ -85,7 +86,7 @@
                                         </li>
                                         <li><a href="product.php">Products</a>
                                         <li><a href="portfolio.php">Portfolio</a>
-                                        
+
                                         </li>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
@@ -137,15 +138,14 @@
     </div>
     <!--====== SEARCH POPUP END ======-->
 
-     <!--====== SIDE INFO FOR MOBILE START ======-->
+    <!--====== SIDE INFO FOR MOBILE START ======-->
     <aside class="side-info-wrapper mm-only">
         <nav>
             <div class="nav" id="nav-tab" role="tablist">
-                <a class="nav-link active" id="menu-tab-1-tab" data-bs-toggle="tab"
-                    href="#menu-tab-1" role="tab" aria-controls="menu-tab-1"
-                    aria-selected="true">Menu</a>
-                <a class="nav-link" id="menu-tab-2-tab" data-bs-toggle="tab" href="#menu-tab-2"
-                    role="tab" aria-controls="menu-tab-2" aria-selected="false">Info</a>
+                <a class="nav-link active" id="menu-tab-1-tab" data-bs-toggle="tab" href="#menu-tab-1" role="tab"
+                    aria-controls="menu-tab-1" aria-selected="true">Menu</a>
+                <a class="nav-link" id="menu-tab-2-tab" data-bs-toggle="tab" href="#menu-tab-2" role="tab"
+                    aria-controls="menu-tab-2" aria-selected="false">Info</a>
             </div>
         </nav>
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
@@ -159,10 +159,10 @@
             </div>
         </div>
         <div class="tab-content" id="nav-tabContent">
-            <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel"
-                aria-labelledby="menu-tab-1-tab">
+            <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel" aria-labelledby="menu-tab-1-tab">
                 <div class="search-box">
-                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
+                    <form class="search-widget sotcox-input-field position-relative"
+                        action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
                         <div>
                             <input type="search" value="" required="" name="s" placeholder="Search...">
                             <button type="submit"><i class="far fa-search"></i></button>
@@ -171,12 +171,14 @@
                 </div>
                 <div class="sotcox-mobile-menu"></div>
             </div>
-            <div class="tab-pane fade" id="menu-tab-2" role="tabpanel"
-                aria-labelledby="menu-tab-2-tab">
+            <div class="tab-pane fade" id="menu-tab-2" role="tabpanel" aria-labelledby="menu-tab-2-tab">
                 <div class="side-info">
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-10">About us</h4>
-                        <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
+                        <p>We at SIT are a team of IT experts, who came with a promise of delivering
+                            technology-empowered business solutions. We provide world-class software and web development
+                            services that focus on playing a supportive role to your business and its holistic growth.
+                        </p>
                         <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
@@ -184,7 +186,8 @@
                         <ul class="contact__info list-unstyled">
                             <li>
                                 <span><i class="fas fa-map-marker-alt"></i></span>
-                                <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road , Hadapsar 411028</p>
+                                <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta
+                                    Road , Hadapsar 411028</p>
                             </li>
                             <li>
                                 <span><i class="fas fa-phone"></i></span>
@@ -208,7 +211,7 @@
     </aside>
     <!--====== SIDE INFO FOR MOBILE END ======-->
 
-  <aside class="side-info-wrapper show-all">
+    <aside class="side-info-wrapper show-all">
         <div class="side-info__wrapper d-flex align-items-center justify-content-between pb-0">
             <div class="side-info__logo">
                 <a href="index.php">
@@ -222,7 +225,9 @@
         <div class="side-info">
             <div class="side-info__content mb-35">
                 <h4 class="title mb-10">About us</h4>
-                <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
+                <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered
+                    business solutions. We provide world-class software and web development services that focus on
+                    playing a supportive role to your business and its holistic growth. </p>
                 <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
             </div>
             <div class="contact__info--wrapper mt-15">
@@ -230,7 +235,8 @@
                 <ul class="contact__info list-unstyled">
                     <li>
                         <span><i class="fas fa-map-marker-alt"></i></span>
-                        <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road , Hadapsar 411028</p>
+                        <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road ,
+                            Hadapsar 411028</p>
                     </li>
                     <li>
                         <span><i class="fas fa-phone"></i></span>
@@ -263,7 +269,8 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="sotcox-breadcrumb-wrapper position-relative pt-190 pb-190">
-                        <h2 class="page-title" style="font-size: 25px;">Your Brand, Our Expertise, Unmatched Results</h2>
+                        <h2 class="page-title" style="font-size: 25px;">Your Brand, Our Expertise, Unmatched Results
+                        </h2>
                         <div class="sotcox-breadcrumb breadcrumbs">
                             <ul class="list-unstyled d-flex align-items-center">
                                 <li class="sotcox-item duxinbcrumb-begin">
@@ -284,162 +291,199 @@
     </section>
     <!--====== BREADCRUMB SECTION END ======-->
 
-    <div class="container py-5 pb-5">
-    <div class="row align-items-center">
-        <!-- Image Section -->
-        <div class="col-12 col-md-6 text-center">
-            <img src="assets/img/about/dm.jpeg" alt="Our Story" class="img-fluid" style="height: 300px; width: 500px;" 
-               >
-        </div>
+    <div class="container py-3 pb-0">
+        <div class="row align-items-center">
+            <!-- Image Section -->
+            <div class="col-12 col-md-6 text-center">
+                <img src="assets/img/about/dm.jpeg" alt="Our Story" class="img-fluid"
+                    style="height: 300px; width: 500px;">
+            </div>
 
-        <!-- Content Section -->
-        <div class="col-12 col-md-6">
-            <h3 class="mb-3" style="font-weight:bold; text-align:center; font-size: 48px; padding-top: 25px;">Digital Marketing
-            </h3>
-            <p class="text-dark" style="font-size: 17px; color:black; text-align: justify;line-height:25px;">
-                In the event that you are searching for a digital marketing company in Pune-India which encourages you with your SEO (search engine optimization), SEM (search engine marketing), SMM (Social Media Marketing), SMO(social media optimization) at that point you are at an ideal spot. We are a standout amongst the best digital marketing company in Pune which gives benefits all around .
-            </p>
-        </div>
-    </div>
-</div>
-
-
- <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-2 pb-5">
-        <div class="container">
-            <div class="row">
- <div class="row mt-20">
-                
-                <div class="col-xl-12 col-lg-12">
-                    <div class="row">
-                       
-                        <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height:400px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-2.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Search Engine Optimization</h4>
-                                    <p  style="text-align:justify;">SIT will give a full SEO keyword rankings report, a link building profile report and indexed page data. Our client-centered group will improve your traffic flow and increment deals for your electronic tasks.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 400px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-2.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Social Media Marketing</h4>
-                                    <p style="text-align:justify;">Are You Looking For Social media marketing Agency? SIT Pune is an Expert in it. Social media is one of the largest platforms for business execution.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 400px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Search Engine Marketing</h4>
-                                    <p  style="text-align:justify;">SEM stands for Search Engine Marketing. This may seem very broad. But the term has actually come to mean a very specific type of marketing on search engines. That’s Paid Search The most commonly known as Google AdWords.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
+            <!-- Content Section -->
+            <div class="col-12 col-md-6">
+                <h3 class="mb-3" style="font-weight:bold; text-align:center; font-size: 48px; padding-top: 25px;">
+                    Digital Marketing
+                </h3>
+                <p class="text-dark" style="font-size: 17px; color:black; text-align: justify;line-height:25px;">
+                    In the event that you are searching for a digital marketing company in Pune-India which encourages
+                    you with your SEO (search engine optimization), SEM (search engine marketing), SMM (Social Media
+                    Marketing), SMO(social media optimization) at that point you are at an ideal spot. We are a standout
+                    amongst the best digital marketing company in Pune which gives benefits all around .
+                </p>
             </div>
         </div>
     </div>
 
-    <!--====== PORTFOLIO-DETAILS SECTION START ======-->
-    <div class="sotcox-details-page pt-5 pb-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    
-                    <div class="details-content">
-                        <h2 class="sotcox-title mb-25">Paid Search</h2>
-                        <p  style="text-align:justify;">
-On the major search engines, Google, Yahoo, and Bing Pay per click (PPC) or cost per click is the best solution to promote your company and get traffic towards the company in a savvy path in restricted time, which is used to focus on your clients and getting traffic to your destinations. </p>
-                        <p  style="text-align:justify;">It is seen as the simplest way to deal with explicitly center around your clients online wherein you have to pay just when somebody clicks on your advertisements webpage owner or merchant when the advancement is clicked.</p>
-                        <div class="navigation-border pb-25"></div>
-                       <!--  <ul class="list-unstyled portfolio-meta">
+
+    <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-4 pb-0">
+        <div class="container mt-0">
+            <div class="row g-4">
+                <!-- First Service Box -->
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
+                    <div class="stocox-support-box"
+                        style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 400px; padding: 20px; text-align: center;">
+                        <div class="icon">
+                            <img src="assets/img/icons/service-details-icon-2.png" alt="SEO"
+                                style="max-width: 80px; height: auto;">
+                        </div>
+                        <div class="content mt-3">
+                            <h4 class="titles mb-2" style="font-size: 1.25rem;">Search Engine Optimization</h4>
+                            <p style="text-align: justify; font-size: 0.95rem;">SIT will give a full SEO keyword
+                                rankings report, a link building profile report and indexed page data. Our
+                                client-centered group will improve your traffic flow and increment deals for your
+                                electronic tasks.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Second Service Box -->
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
+                    <div class="stocox-support-box"
+                        style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 400px; padding: 20px; text-align: center;">
+                        <div class="icon">
+                            <img src="assets/img/icons/service-details-icon-2.png" alt="SMM"
+                                style="max-width: 80px; height: auto;">
+                        </div>
+                        <div class="content mt-3">
+                            <h4 class="titles mb-2" style="font-size: 1.25rem;">Social Media Marketing</h4>
+                            <p style="text-align: justify; font-size: 0.95rem;">Are You Looking For Social media
+                                marketing Agency? SIT Pune is an Expert in it. Social media is one of the largest
+                                platforms for business execution.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Third Service Box -->
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
+                    <div class="stocox-support-box"
+                        style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 400px; padding: 20px; text-align: center;">
+                        <div class="icon">
+                            <img src="assets/img/icons/service-details-icon-3.png" alt="SEM"
+                                style="max-width: 80px; height: auto;">
+                        </div>
+                        <div class="content mt-3">
+                            <h4 class="titles  mb-2" style="font-size: 1.25rem;">Search Engine Marketing</h4>
+                            <p style="text-align: justify; font-size: 0.95rem;">SEM stands for Search Engine Marketing.
+                                This may seem very broad. But the term has actually come to mean a very specific type of
+                                marketing on search engines. That’s Paid Search, commonly known as Google AdWords.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!--====== PORTFOLIO-DETAILS SECTION START ======-->
+        <div class="sotcox-details-page pt-5 pb-0">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+
+                        <div class="details-content">
+                            <h2 class="sotcox-title mb-25">Paid Search</h2>
+                            <p style="text-align:justify;">
+                                On the major search engines, Google, Yahoo, and Bing Pay per click (PPC) or cost per
+                                click is the best solution to promote your company and get traffic towards the company
+                                in a savvy path in restricted time, which is used to focus on your clients and getting
+                                traffic to your destinations. </p>
+                            <p style="text-align:justify;">It is seen as the simplest way to deal with explicitly center
+                                around your clients online wherein you have to pay just when somebody clicks on your
+                                advertisements webpage owner or merchant when the advancement is clicked.</p>
+                            <div class="navigation-border pb-25"></div>
+                            <!--  <ul class="list-unstyled portfolio-meta">
                             <li><span class="label">Client :</span> <span class="text">Sotcox</span></li>
                             <li><span class="label">Date :</span> <span class="text">September 27,2024</span></li>
                             <li><span class="label">Website :</span> <span class="text">Sotcox.com</span></li>
                             <li><span class="label">Category :</span> <span class="text">Design</span></li>
                         </ul> -->
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-0 pb-5">
+                    <div class="container">
+                        <div class="container mt-0">
+                            <div class="row g-4">
+                                <!-- First Service Box -->
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                    <div class="stocox-support-box"
+                                        style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 400px; padding: 20px; text-align: center;">
+                                        <div class="icon">
+                                            <img src="assets/img/icons/service-details-icon-1.png" alt="Social Media"
+                                                style="max-width: 80px; height: auto;">
+                                        </div>
+                                        <div class="content mt-3">
+                                            <h4 class="titles mb-2" style="font-size: 1.25rem;">Social Media</h4>
+                                            <p style="text-align: justify; font-size: 0.95rem;">Social media is one of
+                                                the biggest stages of business execution. Social media helps to make
+                                                brand awareness, promote your image and in particular assistance for
+                                                notoriety the board as well.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Second Service Box -->
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                    <div class="stocox-support-box"
+                                        style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 400px; padding: 20px; text-align: center;">
+                                        <div class="icon">
+                                            <img src="assets/img/icons/service-details-icon-2.png" alt="Ad Campaigns"
+                                                style="max-width: 80px; height: auto;">
+                                        </div>
+                                        <div class="content mt-3">
+                                            <h4 class="titles mb-2" style="font-size: 1.25rem;">Ad Campaigns</h4>
+                                            <p style="text-align: justify; font-size: 0.95rem;">Reaching your audience
+                                                on social is no longer organic. We are experts at amplifying ROI,
+                                                achieving the precise people wanted with the most up-to-date and
+                                                consistently changing social media and tools.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Third Service Box -->
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                    <div class="stocox-support-box"
+                                        style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 400px; padding: 20px; text-align: center;">
+                                        <div class="icon">
+                                            <img src="assets/img/icons/service-details-icon-3.png" alt="Social Strategy"
+                                                style="max-width: 80px; height: auto;">
+                                        </div>
+                                        <div class="content mt-3">
+                                            <h4 class="titles mb-2" style="font-size: 1.25rem;">Social Strategy</h4>
+                                            <p style="text-align: justify; font-size: 0.95rem;">Social strategy isn’t
+                                                just about posting and submissions. It’s tied in with making a vision
+                                                first, then understanding that vision through key media and content that
+                                                drives new opportunities.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Fourth Service Box -->
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                    <div class="stocox-support-box"
+                                        style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 400px; padding: 20px; text-align: center;">
+                                        <div class="icon">
+                                            <img src="assets/img/icons/service-details-icon-3.png" alt="Data Reports"
+                                                style="max-width: 80px; height: auto;">
+                                        </div>
+                                        <div class="content mt-3">
+                                            <h4 class="titles mb-2" style="font-size: 1.25rem;">Data Reports and Analysis
+                                            </h4>
+                                            <p style="text-align: justify; font-size: 0.95rem;">How important is it to
+                                                spend money on the right investment and time to make success unless
+                                                there is the ability to measure that success?</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 
-            </div>
-
-                        <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-2 pb-5">
-                              <div class="container">
-                                     <div class="row">
-                                      <div class="row mt-20">
-            
-                <div class="col-xl-12 col-lg-12">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="00ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 400px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-1.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Social Media</h4>
-                                    <p  style="text-align:justify;">
-
-Social media is one of the biggest stages of business execution. Social media helps to make brand awareness, promote your image and in particular assistance for notoriety the board as well.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;  height: 400px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-2.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Ad Campaigns</h4>
-                                    <p  style="text-align:justify;">
-Reaching your audience on social is no longer organic. We are experts at amplifying ROI, achieving the precise people wanted with the most up to date and consistently changing social media and tools.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;  height: 400px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Social Strategy</h4>
-                                    <p  style="text-align:justify;">
-Social strategy isn’t just about posting and submissions. It’s tied in with making a dream first, at that point understanding that vision through key media and substance that changes over and drives new chance..</p>
-                                </div>
-                            </div>
-                        </div>
-                       <div class="col-xl-6 col-lg-6 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;  height: 400px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles">Data Reports and Analysis</h4>
-                                    <p  style="text-align:justify;">
-
-How imperative to burn through cash on the correct speculation and time to making achievement except if there is the capacity to gauge that achievement?</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-    
-               <!--  <div class="col-xl-12 mt-90">
+                <!--  <div class="col-xl-12 mt-90">
                     <h2 class="sotcox-title mb-25">Project requirement</h2>
                     <div class="row mt-none-15">
                         <div class="col-xl-6 mt-15">
@@ -522,7 +566,7 @@ How imperative to burn through cash on the correct speculation and time to makin
                         </a>
                     </div>
                 </div> -->
-               <!--  <div class="col-xl-12 mt-90">
+                <!--  <div class="col-xl-12 mt-90">
                     <h2 class="sotcox-title mb-40">Our similar projects</h2>
                     <div class="sotcox-project-carousel owl-carousel sotcox-slide-nav sotcox-slide-nav__style-3"
                         data-project-carousel>
@@ -566,24 +610,31 @@ How imperative to burn through cash on the correct speculation and time to makin
     </div>
     <!--====== PORTFOLIO-DETAILS SECTION END ======-->
 
-<div class="container py-2 pb-5">
-    <div class="row align-items-center">
-        <!-- Image Section -->
-        <div class="col-12 col-md-6 text-center">
-            <img src="assets/img/about/dm-1.jpg" alt="Our Story" class="img-fluid"
-                style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; border-radius: 20px; height: 300px; width: 500px;">
-        </div>
+    <div class="container py-0 pb-5">
+        <div class="row align-items-center">
+            <!-- Image Section -->
+            <div class="col-12 col-md-6 text-center">
+                <img src="assets/img/about/dm-1.jpg" alt="Our Story" class="img-fluid"
+                    style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; border-radius: 20px; height: 300px; width: 500px;">
+            </div>
 
-        <!-- Content Section -->
-        <div class="col-12 col-md-6">
-            <h3 class="mb-3" style="font-weight:bold; text-align:center; font-size: 48px; padding-top: 25px;">Consulting
-            </h3>
-            <p class="text-dark" style="font-size: 17px; color:black; text-align: justify;line-height:25px;">
-                we have a group of a specialist having hands-on experience in the digital marketing field.As being a standout amongst the best digital marketing companies in Pune, it is our obligation to give an upgraded answer for your digital marketing queries. The best possible optimization strategies and techniques are required to guarantee greater visibility, more conversion, top positioning, and above all, more income or profit generation. Focusing on more traffic, expanding sales, site conversions and substantially more on social stages can be accomplished with our assistance. You can hire us as a consultant or let us work with you on everything.
-            </p>
+            <!-- Content Section -->
+            <div class="col-12 col-md-6">
+                <h3 class="mb-3" style="font-weight:bold; text-align:center; font-size: 48px; padding-top: 25px;">
+                    Consulting
+                </h3>
+                <p class="text-dark" style="font-size: 17px; color:black; text-align: justify;line-height:25px;">
+                    we have a group of a specialist having hands-on experience in the digital marketing field.As being a
+                    standout amongst the best digital marketing companies in Pune, it is our obligation to give an
+                    upgraded answer for your digital marketing queries. The best possible optimization strategies and
+                    techniques are required to guarantee greater visibility, more conversion, top positioning, and above
+                    all, more income or profit generation. Focusing on more traffic, expanding sales, site conversions
+                    and substantially more on social stages can be accomplished with our assistance. You can hire us as
+                    a consultant or let us work with you on everything.
+                </p>
+            </div>
         </div>
     </div>
-</div>
 
 
 
@@ -592,7 +643,7 @@ How imperative to burn through cash on the correct speculation and time to makin
 
 
     <!--====== NEWSLETTER SECTION START ======-->
-   <!--  <div class="sotcox-newsletter-section">
+    <!--  <div class="sotcox-newsletter-section">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -626,7 +677,7 @@ How imperative to burn through cash on the correct speculation and time to makin
     <!--====== NEWSLETTER SECTION END ======-->
 
     <!--====== CONTACT INFO SECTION START ======-->
-   <!--  <div class="sotcox-contact-info theme-light-bg pt-130">
+    <!--  <div class="sotcox-contact-info theme-light-bg pt-130">
         <div class="container">
             <div class="row mt-none-30">
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
@@ -676,95 +727,99 @@ How imperative to burn through cash on the correct speculation and time to makin
     </div> -->
     <!--====== CONTACT INFO SECTION END ======-->
 
-   <!--====== FOOTER START ======-->
-   <footer class="sotcox-footer theme-light-bg pt-0" >
-    <div class="sotcox-footer-widgets" >
-        <div class="container">
-            <div class="row mt-none-30">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
-                    <div class="widget">
-                        <div class="about-widget">
-                            <a href="index.php" class="sotcox-footer-logo mb-20">
-                                <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
-                            </a>
-                          <div class="container mt-0">
-<!-- Address Section -->
-<div class="d-flex align-items-start mb-3">
-<div>
-  <i class="far fa-map-marker-alt fa-lg text-primary" style="position: relative; top: 5px;"></i>
-</div>
-<div class="ms-3">
-  <p class="mb-0">
-    SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road, Hadapsar 411028
-  </p>
-</div>
-</div>
+    <!--====== FOOTER START ======-->
+    <footer class="sotcox-footer theme-light-bg pt-0">
+        <div class="sotcox-footer-widgets">
+            <div class="container">
+                <div class="row mt-none-30">
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
+                        <div class="widget">
+                            <div class="about-widget">
+                                <a href="index.php" class="sotcox-footer-logo mb-20">
+                                    <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
+                                </a>
+                                <div class="container mt-0">
+                                    <!-- Address Section -->
+                                    <div class="d-flex align-items-start mb-3">
+                                        <div>
+                                            <i class="far fa-map-marker-alt fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">
+                                                SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega
+                                                Center, Magarpatta Road, Hadapsar 411028
+                                            </p>
+                                        </div>
+                                    </div>
 
-<!-- Email Section -->
-<div class="d-flex align-items-start">
-<div>
-  <i class="far fa-envelope fa-lg text-primary" style="position: relative; top: 5px;"></i>
-</div>
-<div class="ms-3">
-  <p class="mb-0">info@sitsolutions.co.in</p>
-</div>
-</div>
-</div>
+                                    <!-- Email Section -->
+                                    <div class="d-flex align-items-start">
+                                        <div>
+                                            <i class="far fa-envelope fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">info@sitsolutions.co.in</p>
+                                        </div>
+                                    </div>
+                                </div>
 
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
+                        <div class="widget">
+                            <h3 class="widget-title ms-3">Services</h3>
+                            <ul class="ms-3">
+                                <li><a href="mobile-development.php">App Development</a></li>
+                                <li><a href="software-development.php">Software Development</a></li>
+                                <li><a href="web-development.php">Web Development</a></li>
+                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                <li><a href="portfolio.php">Portfolio</a></li>
+                            </ul>
+                        </div>
+                        <div class="sotcox-social-links mt-40 ms-3">
+                            <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
+                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
+                        <div class="widget">
+                            <h3 class="widget-title ms-3">Information</h3>
+                            <ul class="ms-3">
+                                <li><a href="career.php">Career</a></li>
+                                <li><a href="about.php">Our Team</a></li>
+                                <li><a href="contact.php">Contact us</a></li>
+                                <li><a href="services.php">Services</a></li>
+                                <li><a href="product.php">Our Products
+                                    </a></li>
+                            </ul>
 
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
-                    <div class="widget">
-                        <h3 class="widget-title" >Services</h3>
-                        <ul >
-                            <li ><a href="mobile-development.php" >App Development</a></li>
-                            <li><a href="software-development.php" >Software Development</a></li>
-                            <li><a href="web-development.php" >Web Development</a></li>
-                            <li><a href="digital-marketing.php" >Digital Marketing</a></li>
-                            <li><a href="portfolio.php" >Portfolio</a></li>
-                        </ul>
+            </div>
+        </div>
+        <div class="sotcox-copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <p>Copyright &copy; <span id="copyright-date"></span> SIT Solutions Pvt Ltd, All Rights
+                            Reserved.</p>
                     </div>
-                    <div class="sotcox-social-links mt-40">
-                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                        <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
-                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
-                    <div class="widget">
-                        <h3 class="widget-title">Information</h3>
-                         <ul>
-                            <li><a href="career.php">Career</a></li>
-                            <li><a href="about.php">Our Team</a></li>
-                            <li><a href="contact.php">Contact us</a></li>
-                            <li><a href="services.php">Services</a></li>
-                            <li><a href="product.php">Our Products
-                            </a></li>
-                        </ul> 
-                       
+                    <div class="col-md-4">
+                        <div class="sotcox-backtotop">
+                            <button data-sotcox-backtotop><i class="far fa-angle-up"></i> Go On Top</button>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="sotcox-copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8">
-                    <p >Copyright &copy; <span id="copyright-date" ></span> SIT Solutions Pvt Ltd, All Rights Reserved.</p>
-                </div>
-                <div class="col-md-4">
-                    <div class="sotcox-backtotop">
-                        <button data-sotcox-backtotop><i class="far fa-angle-up"></i> Go On Top</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
+    </footer>
     <!--====== FOOTER END ======-->
 
     <!--========= JS Here =========-->
@@ -788,4 +843,5 @@ How imperative to burn through cash on the correct speculation and time to makin
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+
 </html>

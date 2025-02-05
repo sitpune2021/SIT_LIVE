@@ -475,9 +475,8 @@
     </div> -->
     <!--====== CONTACT INFO SECTION END ======-->
 
-     <!--====== FOOTER START ======-->
-     <footer class="sotcox-footer theme-light-bg pt-0" >
-        <div class="sotcox-footer-widgets" >
+    <footer class="sotcox-footer theme-light-bg pt-0">
+        <div class="sotcox-footer-widgets">
             <div class="container">
                 <div class="row mt-none-30">
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
@@ -486,29 +485,32 @@
                                 <a href="index.php" class="sotcox-footer-logo mb-20">
                                     <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
                                 </a>
-                              <div class="container mt-0">
-  <!-- Address Section -->
-  <div class="d-flex align-items-start mb-3">
-    <div>
-      <i class="far fa-map-marker-alt fa-lg text-primary" style="position: relative; top: 5px;"></i>
-    </div>
-    <div class="ms-3">
-      <p class="mb-0">
-        SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road, Hadapsar 411028
-      </p>
-    </div>
-  </div>
+                                <div class="container mt-0">
+                                    <!-- Address Section -->
+                                    <div class="d-flex align-items-start mb-3">
+                                        <div>
+                                            <i class="far fa-map-marker-alt fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">
+                                                SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega
+                                                Center, Magarpatta Road, Hadapsar 411028
+                                            </p>
+                                        </div>
+                                    </div>
 
-  <!-- Email Section -->
-  <div class="d-flex align-items-start">
-    <div>
-      <i class="far fa-envelope fa-lg text-primary" style="position: relative; top: 5px;"></i>
-    </div>
-    <div class="ms-3">
-      <p class="mb-0">info@sitsolutions.co.in</p>
-    </div>
-  </div>
-</div>
+                                    <!-- Email Section -->
+                                    <div class="d-flex align-items-start">
+                                        <div>
+                                            <i class="far fa-envelope fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">info@sitsolutions.co.in</p>
+                                        </div>
+                                    </div>
+                                </div>
 
 
                             </div>
@@ -516,16 +518,16 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
                         <div class="widget">
-                            <h3 class="widget-title" >Services</h3>
-                            <ul >
-                                <li ><a href="mobile-development.php" >App Development</a></li>
-                                <li><a href="software-development.php" >Software Development</a></li>
-                                <li><a href="web-development.php" >Web Development</a></li>
-                                <li><a href="digital-marketing.php" >Digital Marketing</a></li>
-                                <li><a href="portfolio.php" >Portfolio</a></li>
+                            <h3 class="widget-title ms-3">Services</h3>
+                            <ul class="ms-3">
+                                <li><a href="mobile-development.php">App Development</a></li>
+                                <li><a href="software-development.php">Software Development</a></li>
+                                <li><a href="web-development.php">Web Development</a></li>
+                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                <li><a href="portfolio.php">Portfolio</a></li>
                             </ul>
                         </div>
-                        <div class="sotcox-social-links mt-40">
+                        <div class="sotcox-social-links mt-40 ms-3">
                             <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
                             <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
@@ -534,16 +536,16 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
                         <div class="widget">
-                            <h3 class="widget-title">Information</h3>
-                             <ul>
+                            <h3 class="widget-title ms-3">Information</h3>
+                            <ul class="ms-3">
                                 <li><a href="career.php">Career</a></li>
                                 <li><a href="about.php">Our Team</a></li>
                                 <li><a href="contact.php">Contact us</a></li>
                                 <li><a href="services.php">Services</a></li>
                                 <li><a href="product.php">Our Products
-                                </a></li>
-                            </ul> 
-                           
+                                    </a></li>
+                            </ul>
+
                         </div>
                     </div>
                 </div>
@@ -553,7 +555,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <p >Copyright &copy; <span id="copyright-date" ></span> SIT Solutions Pvt Ltd, All Rights Reserved.</p>
+                        <p>Copyright &copy; <span id="copyright-date"></span> SIT Solutions Pvt Ltd, All Rights
+                            Reserved.</p>
                     </div>
                     <div class="col-md-4">
                         <div class="sotcox-backtotop">
@@ -587,4 +590,5 @@
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+
 </html>

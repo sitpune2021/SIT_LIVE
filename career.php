@@ -289,9 +289,9 @@
 
 
     <!-- Category Start -->
-<div class="container-xxl py-5" style="background-color: #f8f9fa;">
+<div class="container-xxl py-3" style="background-color: #f8f9fa;">
     <div class="container">
-        <h1 class="text-center mb-5 wow fadeInUp" style="font-weight: bold; color: #333;" data-wow-delay="0.1s">
+        <h1 class="text-center mb-3 wow fadeInUp" style="font-weight: bold; color: #333;" data-wow-delay="0.1s">
             Explore By Category
         </h1>
         <div class="row g-4">
@@ -379,7 +379,7 @@
 
         <!-- Content Section -->
         <div class="col-12 col-md-6">
-            <h1 class="mb-4" style="font-size: 30px;">We Help To Get The Best Job And Find A Talent</h1>
+            <h1 class="mb-1 mt-3" style="font-size: 30px;">We Help To Get The Best Job And Find A Talent</h1>
                     <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Tempor erat elitr rebum at clita</p>
                     <p><i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam et eos</p>
@@ -396,9 +396,9 @@
 
 
     <!-- Jobs Start -->
-<div class="container-xxl py-5">
+<div class="container-xxl py-0">
     <div class="container">
-        <h1 class="text-center mb-5" style="animation: fadeInUp 0.3s;">Join Our Team</h1>
+        <h1 class="text-center mb-3" style="animation: fadeInUp 0.3s;">Join Our Team</h1>
         <div class="text-center">
             <!-- Tabs Navigation -->
             <ul class="nav nav-tabs justify-content-center" id="jobTabs" role="tablist">
@@ -410,7 +410,7 @@
         </div>
 
         <!-- Tabs Content -->
-        <div class="tab-content" id="jobTabsContent">
+        <div class="tab-content mb-5" id="jobTabsContent">
             <!-- Featured Tab -->
             <div class="tab-pane fade show active" id="featured" role="tabpanel" aria-labelledby="featured-tab">
                 <div class="job-item p-4 mb-4" style="border: 1px solid #ddd; border-radius: 8px;">
@@ -422,7 +422,7 @@
                                 <p class="mb-1">
                                     <i class="fa fa-map-marker-alt text-primary me-2"></i>Pune
                                     <i class="far fa-clock text-primary mx-2"></i>Full Time
-                                    <i class="far fa-money-bill-alt text-primary mx-2"></i><i class="fa-solid fa-indian-rupee-sign"></i>123 - <i class="fa-solid fa-indian-rupee-sign"></i>456
+                                    <i class="far fa-money-bill-alt text-primary mx-2"></i><i class="fa-solid fa-rupee-sign"></i>123 - <i class="fa-solid fa-rupee-sign"></i>456
                                 </p>
                                 <small><i class="far fa-calendar-alt text-primary me-2"></i>Date Line: 01 Jan, 2025</small>
                             </div>
@@ -487,95 +487,99 @@
 </div>
 <!-- Jobs End -->
 
-  <!--====== FOOTER START ======-->
-  <footer class="sotcox-footer theme-light-bg pt-0" >
-    <div class="sotcox-footer-widgets" >
-        <div class="container">
-            <div class="row mt-none-30">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
-                    <div class="widget">
-                        <div class="about-widget">
-                            <a href="index.php" class="sotcox-footer-logo mb-20">
-                                <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
-                            </a>
-                          <div class="container mt-0">
-<!-- Address Section -->
-<div class="d-flex align-items-start mb-3">
-<div>
-  <i class="far fa-map-marker-alt fa-lg text-primary" style="position: relative; top: 5px;"></i>
-</div>
-<div class="ms-3">
-  <p class="mb-0">
-    SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road, Hadapsar 411028
-  </p>
-</div>
-</div>
+   <!--====== FOOTER START ======-->
+   <footer class="sotcox-footer theme-light-bg pt-0">
+        <div class="sotcox-footer-widgets">
+            <div class="container">
+                <div class="row mt-none-30">
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
+                        <div class="widget">
+                            <div class="about-widget">
+                                <a href="index.php" class="sotcox-footer-logo mb-20">
+                                    <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
+                                </a>
+                                <div class="container mt-0">
+                                    <!-- Address Section -->
+                                    <div class="d-flex align-items-start mb-3">
+                                        <div>
+                                            <i class="far fa-map-marker-alt fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">
+                                                SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega
+                                                Center, Magarpatta Road, Hadapsar 411028
+                                            </p>
+                                        </div>
+                                    </div>
 
-<!-- Email Section -->
-<div class="d-flex align-items-start">
-<div>
-  <i class="far fa-envelope fa-lg text-primary" style="position: relative; top: 5px;"></i>
-</div>
-<div class="ms-3">
-  <p class="mb-0">info@sitsolutions.co.in</p>
-</div>
-</div>
-</div>
+                                    <!-- Email Section -->
+                                    <div class="d-flex align-items-start">
+                                        <div>
+                                            <i class="far fa-envelope fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">info@sitsolutions.co.in</p>
+                                        </div>
+                                    </div>
+                                </div>
 
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
+                        <div class="widget">
+                            <h3 class="widget-title ms-3">Services</h3>
+                            <ul class="ms-3">
+                                <li><a href="mobile-development.php">App Development</a></li>
+                                <li><a href="software-development.php">Software Development</a></li>
+                                <li><a href="web-development.php">Web Development</a></li>
+                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                <li><a href="portfolio.php">Portfolio</a></li>
+                            </ul>
+                        </div>
+                        <div class="sotcox-social-links mt-40 ms-3">
+                            <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
+                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
+                        <div class="widget">
+                            <h3 class="widget-title ms-3">Information</h3>
+                            <ul class="ms-3">
+                                <li><a href="career.php">Career</a></li>
+                                <li><a href="about.php">Our Team</a></li>
+                                <li><a href="contact.php">Contact us</a></li>
+                                <li><a href="services.php">Services</a></li>
+                                <li><a href="product.php">Our Products
+                                    </a></li>
+                            </ul>
 
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
-                    <div class="widget">
-                        <h3 class="widget-title" >Services</h3>
-                        <ul >
-                            <li ><a href="mobile-development.php" >App Development</a></li>
-                            <li><a href="software-development.php" >Software Development</a></li>
-                            <li><a href="web-development.php" >Web Development</a></li>
-                            <li><a href="digital-marketing.php" >Digital Marketing</a></li>
-                            <li><a href="portfolio.php" >Portfolio</a></li>
-                        </ul>
+            </div>
+        </div>
+        <div class="sotcox-copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <p>Copyright &copy; <span id="copyright-date"></span> SIT Solutions Pvt Ltd, All Rights
+                            Reserved.</p>
                     </div>
-                    <div class="sotcox-social-links mt-40">
-                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                        <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
-                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
-                    <div class="widget">
-                        <h3 class="widget-title">Information</h3>
-                         <ul>
-                            <li><a href="career.php">Career</a></li>
-                            <li><a href="about.php">Our Team</a></li>
-                            <li><a href="contact.php">Contact us</a></li>
-                            <li><a href="services.php">Services</a></li>
-                            <li><a href="product.php">Our Products
-                            </a></li>
-                        </ul> 
-                       
+                    <div class="col-md-4">
+                        <div class="sotcox-backtotop">
+                            <button data-sotcox-backtotop><i class="far fa-angle-up"></i> Go On Top</button>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="sotcox-copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8">
-                    <p >Copyright &copy; <span id="copyright-date" ></span> SIT Solutions Pvt Ltd, All Rights Reserved.</p>
-                </div>
-                <div class="col-md-4">
-                    <div class="sotcox-backtotop">
-                        <button data-sotcox-backtotop><i class="far fa-angle-up"></i> Go On Top</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
+    </footer>
     <!--====== FOOTER END ======-->
 
     <!--========= JS Here =========-->
@@ -599,4 +603,5 @@
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+
 </html>

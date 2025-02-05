@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:43 GMT -->
+
 <head>
 
     <!--========= Required meta tags =========-->
@@ -29,7 +30,11 @@
     <link rel="stylesheet" href="assets/css/ukit.css">
     <link rel="stylesheet" href="assets/css/odometer.min.css">
     <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+        
 
 </head>
 
@@ -41,12 +46,12 @@
     <!--====== HEADER START ======-->
     <div id="sotcox-loadding" class="sotcox-loader">
         <div class="sotcox-spinner">
-          <div class="bounce1"></div>
-          <div class="bounce2"></div>
-          <div class="bounce3"></div>
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
         </div>
-      </div>
-     <!--====== HEADER END ======-->
+    </div>
+    <!--====== HEADER END ======-->
 
     <!--====== HEADER START ======-->
     <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
@@ -62,11 +67,11 @@
                                 <nav id="sotcox-navbar">
                                     <ul>
                                         <li><a href="index.php">Home</a>
-                                           
+
                                         </li>
                                         <li><a href="about.php">About Us</a></li>
-                                         <li ><a href="service.php">Services</a>
-                                      <!--     <ul class="sub-menu" >
+                                        <li><a href="service.php">Services</a>
+                                            <!--     <ul class="sub-menu" >
                                                 <li><a href="web-development.php">Web Development</a>
                                                 <ul class="sub-menu" style="width: 300px;">
                                                 <li ><a href="php-development.php">PHP Development</a></li>
@@ -86,7 +91,7 @@
                                         </li>
                                         <li><a href="product.php">Products</a>
                                         <li><a href="portfolio.php">Portfolio</a>
-                                        
+
                                         </li>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
@@ -141,11 +146,10 @@
     <aside class="side-info-wrapper mm-only">
         <nav>
             <div class="nav" id="nav-tab" role="tablist">
-                <a class="nav-link active" id="menu-tab-1-tab" data-bs-toggle="tab"
-                    href="#menu-tab-1" role="tab" aria-controls="menu-tab-1"
-                    aria-selected="true">Menu</a>
-                <a class="nav-link" id="menu-tab-2-tab" data-bs-toggle="tab" href="#menu-tab-2"
-                    role="tab" aria-controls="menu-tab-2" aria-selected="false">Info</a>
+                <a class="nav-link active" id="menu-tab-1-tab" data-bs-toggle="tab" href="#menu-tab-1" role="tab"
+                    aria-controls="menu-tab-1" aria-selected="true">Menu</a>
+                <a class="nav-link" id="menu-tab-2-tab" data-bs-toggle="tab" href="#menu-tab-2" role="tab"
+                    aria-controls="menu-tab-2" aria-selected="false">Info</a>
             </div>
         </nav>
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
@@ -159,10 +163,10 @@
             </div>
         </div>
         <div class="tab-content" id="nav-tabContent">
-            <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel"
-                aria-labelledby="menu-tab-1-tab">
+            <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel" aria-labelledby="menu-tab-1-tab">
                 <div class="search-box">
-                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
+                    <form class="search-widget sotcox-input-field position-relative"
+                        action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
                         <div>
                             <input type="search" value="" required="" name="s" placeholder="Search...">
                             <button type="submit"><i class="far fa-search"></i></button>
@@ -171,12 +175,14 @@
                 </div>
                 <div class="sotcox-mobile-menu"></div>
             </div>
-            <div class="tab-pane fade" id="menu-tab-2" role="tabpanel"
-                aria-labelledby="menu-tab-2-tab">
+            <div class="tab-pane fade" id="menu-tab-2" role="tabpanel" aria-labelledby="menu-tab-2-tab">
                 <div class="side-info">
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-10">About us</h4>
-                        <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
+                        <p>We at SIT are a team of IT experts, who came with a promise of delivering
+                            technology-empowered business solutions. We provide world-class software and web development
+                            services that focus on playing a supportive role to your business and its holistic growth.
+                        </p>
                         <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
@@ -184,7 +190,8 @@
                         <ul class="contact__info list-unstyled">
                             <li>
                                 <span><i class="fas fa-map-marker-alt"></i></span>
-                                <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road , Hadapsar 411028</p>
+                                <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta
+                                    Road , Hadapsar 411028</p>
                             </li>
                             <li>
                                 <span><i class="fas fa-phone"></i></span>
@@ -208,8 +215,8 @@
     </aside>
     <!--====== SIDE INFO FOR MOBILE END ======-->
 
-      <!--====== SIDE INFO FOR MOBILE START ======-->
- <aside class="side-info-wrapper show-all">
+    <!--====== SIDE INFO FOR MOBILE START ======-->
+    <aside class="side-info-wrapper show-all">
         <div class="side-info__wrapper d-flex align-items-center justify-content-between pb-0">
             <div class="side-info__logo">
                 <a href="index.php">
@@ -223,16 +230,19 @@
         <div class="side-info">
             <div class="side-info__content mb-35">
                 <h4 class="title mb-10">About us</h4>
-                <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
+                <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered
+                    business solutions. We provide world-class software and web development services that focus on
+                    playing a supportive role to your business and its holistic growth. </p>
                 <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
             </div>
             <div class="contact__info--wrapper mt-15">
                 <h4 class="title mb-15">Contact us</h4>
-                    </li>
+                </li>
                 <ul class="contact__info list-unstyled">
                     <li>
                         <span><i class="fas fa-map-marker-alt"></i></span>
-                        <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road , Hadapsar 411028</p>
+                        <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road ,
+                            Hadapsar 411028</p>
                     </li>
                     <li>
                         <span><i class="fas fa-phone"></i></span>
@@ -253,7 +263,7 @@
     </aside>
     <!--====== SIDE INFO FOR MOBILE END ======-->
 
-   
+
 
     <!--====== BREADCRUMB SECTION START ======-->
     <!-- <section class="breadcrumb-area fix theme-dark-bg  bg_img">
@@ -287,98 +297,123 @@
     <!--====== BREADCRUMB SECTION END ======-->
 
 
- <!-- Job Detail Start -->
- <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
-    <div class="container">
-        <div class="row gy-5 gx-4">
-            <div class="col-lg-8">
-                <div class="d-flex align-items-center mb-5">
-                    <img class="flex-shrink-0 img-fluid border rounded" src="assets/img/about/marketing-manager.jpg" alt="" style="width: 80px; height: 80px;">
-                    <div class="text-start ps-4">
-                        <h3 class="mb-3">Marketing Manager</h3>
-                        <span class="text-truncate me-3"><i class="fa fa-map-marker-alt text-primary me-2"></i> Pune</span>
-                        <span class="text-truncate me-3"><i class="far fa-clock text-primary me-2"></i>Full Time</span>
-                        <span class="text-truncate me-0"><i class="far fa-money-bill-alt text-primary me-2"></i>$123 - $456</span>
+    <!-- Job Detail Start -->
+    <div class="container-xxl py-3 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row gy-5 gx-4">
+                <div class="col-lg-8">
+                    <div class="d-flex align-items-center mb-4">
+                        <img class="flex-shrink-0 img-fluid border rounded" src="assets/img/about/marketing-manager.jpg"
+                            alt="" style="width: 80px; height: 80px;">
+                        <div class="text-start ps-4">
+                            <h3 class="mb-3">Marketing Manager</h3>
+                            <span class="text-truncate me-3"><i
+                                    class="fa fa-map-marker-alt text-primary me-2"></i>Pune</span>
+                            <span class="text-truncate me-3"><i class="far fa-clock text-primary me-2"></i>Full
+                                Time</span>
+                            <span class="text-truncate me-0"><i class="far fa-money-bill-alt text-primary me-2"></i><i
+                                    class="fa-solid fa-indian-rupee-sign"></i>123 - <i
+                                    class="fa-solid fa-indian-rupee-sign"></i>456</span>
+                        </div>
                     </div>
+
+                    <div class="mb-5">
+                        <h4 class="mb-2">Job description</h4>
+                        <p>Dolor justo tempor duo ipsum accusam rebum gubergren erat. Elitr stet dolor vero clita labore
+                            gubergren. Kasd sed ipsum elitr clita rebum ut sea diam tempor. Sadipscing nonumy vero
+                            labore invidunt dolor sed, eirmod dolore amet aliquyam consetetur lorem, amet elitr clita et
+                            sed consetetur dolore accusam. Vero kasd nonumy justo rebum stet. Ipsum amet sed lorem sea
+                            magna. Rebum vero dolores dolores elitr vero dolores magna, stet sea sadipscing stet et. Est
+                            voluptua et sanctus at sanctus erat vero sed sed, amet duo no diam clita rebum duo, accusam
+                            tempor takimata clita stet nonumy rebum est invidunt stet, dolor.</p>
+                        <h4 class="mb-2 pt-4">Responsibility</h4>
+                        <p>Magna et elitr diam sed lorem. Diam diam stet erat no est est. Accusam sed lorem stet
+                            voluptua sit sit at stet consetetur, takimata at diam kasd gubergren elitr dolor</p>
+                        <ul class="list-unstyled">
+                            <li><i class="fa fa-angle-right text-primary me-2"></i>Dolor justo tempor duo ipsum accusam
+                            </li>
+                            <li><i class="fa fa-angle-right text-primary me-2"></i>Elitr stet dolor vero clita labore
+                                gubergren</li>
+                            <li><i class="fa fa-angle-right text-primary me-2"></i>Rebum vero dolores dolores elitr</li>
+                            <li><i class="fa fa-angle-right text-primary me-2"></i>Est voluptua et sanctus at sanctus
+                                erat</li>
+                            <li><i class="fa fa-angle-right text-primary me-2"></i>Diam diam stet erat no est est</li>
+                        </ul>
+                        <h4 class="mb-2 pt-4">Qualifications</h4>
+                        <p>Magna et elitr diam sed lorem. Diam diam stet erat no est est. Accusam sed lorem stet
+                            voluptua sit sit at stet consetetur, takimata at diam kasd gubergren elitr dolor</p>
+                        <ul class="list-unstyled">
+                            <li><i class="fa fa-angle-right text-primary me-2"></i>Dolor justo tempor duo ipsum accusam
+                            </li>
+                            <li><i class="fa fa-angle-right text-primary me-2"></i>Elitr stet dolor vero clita labore
+                                gubergren</li>
+                            <li><i class="fa fa-angle-right text-primary me-2"></i>Rebum vero dolores dolores elitr</li>
+                            <li><i class="fa fa-angle-right text-primary me-2"></i>Est voluptua et sanctus at sanctus
+                                erat</li>
+                            <li><i class="fa fa-angle-right text-primary me-2"></i>Diam diam stet erat no est est</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <div class="card p-4 mb-4" style="max-width: 600px; width: 100%;">
+                            <h4 class="mb-4 text-center">Apply For The Job</h4>
+                            <form>
+                                <div class="row g-3">
+                                    <div class="col-12 col-sm-6">
+                                        <input type="text" class="form-control" placeholder="Your Name" required>
+                                    </div>
+                                    <div class="col-12 col-sm-6">
+                                        <input type="email" class="form-control" placeholder="Your Email" required>
+                                    </div>
+                                    <div class="col-12 col-sm-6">
+                                        <input type="text" class="form-control" placeholder="Portfolio Website"
+                                            required>
+                                    </div>
+                                    <div class="col-12 col-sm-6">
+                                        <input type="file" class="form-control bg-white" required>
+                                    </div>
+                                    <div class="col-12">
+                                        <textarea class="form-control" rows="5" placeholder="Your Message"></textarea>
+                                    </div>
+                                    <div class="col-12">
+                                        <button class="btn btn-primary w-100" type="submit">Apply Now</button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+
                 </div>
 
-                <div class="mb-5">
-                    <h4 class="mb-3">Job description</h4>
-                    <p>Dolor justo tempor duo ipsum accusam rebum gubergren erat. Elitr stet dolor vero clita labore gubergren. Kasd sed ipsum elitr clita rebum ut sea diam tempor. Sadipscing nonumy vero labore invidunt dolor sed, eirmod dolore amet aliquyam consetetur lorem, amet elitr clita et sed consetetur dolore accusam. Vero kasd nonumy justo rebum stet. Ipsum amet sed lorem sea magna. Rebum vero dolores dolores elitr vero dolores magna, stet sea sadipscing stet et. Est voluptua et sanctus at sanctus erat vero sed sed, amet duo no diam clita rebum duo, accusam tempor takimata clita stet nonumy rebum est invidunt stet, dolor.</p>
-                    <h4 class="mb-3">Responsibility</h4>
-                    <p>Magna et elitr diam sed lorem. Diam diam stet erat no est est. Accusam sed lorem stet voluptua sit sit at stet consetetur, takimata at diam kasd gubergren elitr dolor</p>
-                    <ul class="list-unstyled">
-                        <li><i class="fa fa-angle-right text-primary me-2"></i>Dolor justo tempor duo ipsum accusam</li>
-                        <li><i class="fa fa-angle-right text-primary me-2"></i>Elitr stet dolor vero clita labore gubergren</li>
-                        <li><i class="fa fa-angle-right text-primary me-2"></i>Rebum vero dolores dolores elitr</li>
-                        <li><i class="fa fa-angle-right text-primary me-2"></i>Est voluptua et sanctus at sanctus erat</li>
-                        <li><i class="fa fa-angle-right text-primary me-2"></i>Diam diam stet erat no est est</li>
-                    </ul>
-                    <h4 class="mb-3">Qualifications</h4>
-                    <p>Magna et elitr diam sed lorem. Diam diam stet erat no est est. Accusam sed lorem stet voluptua sit sit at stet consetetur, takimata at diam kasd gubergren elitr dolor</p>
-                    <ul class="list-unstyled">
-                        <li><i class="fa fa-angle-right text-primary me-2"></i>Dolor justo tempor duo ipsum accusam</li>
-                        <li><i class="fa fa-angle-right text-primary me-2"></i>Elitr stet dolor vero clita labore gubergren</li>
-                        <li><i class="fa fa-angle-right text-primary me-2"></i>Rebum vero dolores dolores elitr</li>
-                        <li><i class="fa fa-angle-right text-primary me-2"></i>Est voluptua et sanctus at sanctus erat</li>
-                        <li><i class="fa fa-angle-right text-primary me-2"></i>Diam diam stet erat no est est</li>
-                    </ul>
-                </div>
-
-               <div>
-    <div class="card p-4" style="max-width: 600px; width: 100%;">
-        <h4 class="mb-4 text-center">Apply For The Job</h4>
-        <form>
-            <div class="row g-3">
-                <div class="col-12 col-sm-6">
-                    <input type="text" class="form-control" placeholder="Your Name" required>
-                </div>
-                <div class="col-12 col-sm-6">
-                    <input type="email" class="form-control" placeholder="Your Email" required>
-                </div>
-                <div class="col-12 col-sm-6">
-                    <input type="text" class="form-control" placeholder="Portfolio Website" required>
-                </div>
-                <div class="col-12 col-sm-6">
-                    <input type="file" class="form-control bg-white" required>
-                </div>
-                <div class="col-12">
-                    <textarea class="form-control" rows="5" placeholder="Your Message"></textarea>
-                </div>
-                <div class="col-12">
-                    <button class="btn btn-primary w-100" type="submit">Apply Now</button>
-                </div>
-            </div>
-        </form>
-    </div>
-</div>
-
-            </div>
-
-            <div class="col-lg-4">
-                <div class="bg-light rounded p-5 mb-4 wow slideInUp" data-wow-delay="0.1s">
-                    <h4 class="mb-4">Job Summery</h4>
-                    <p><i class="fa fa-angle-right text-primary me-2"></i>Published On: 01 Jan, 2025</p>
-                    <p><i class="fa fa-angle-right text-primary me-2"></i>Vacancy: 123 Position</p>
-                    <p><i class="fa fa-angle-right text-primary me-2"></i>Job Nature: Full Time</p>
-                    <p><i class="fa fa-angle-right text-primary me-2"></i>Salary: <i class="fa-solid fa-indian-rupee-sign"></i>123 - <i class="fa-solid fa-indian-rupee-sign"></i>456</p>
-                    <p><i class="fa fa-angle-right text-primary me-2"></i>Location: Pune</p>
-                    <p class="m-0"><i class="fa fa-angle-right text-primary me-2"></i>Date Line: 01 Jan, 2025</p>
-                </div>
-                <div class="bg-light rounded p-5 wow slideInUp" data-wow-delay="0.1s">
-                    <h4 class="mb-4">Company Detail</h4>
-                    <p class="m-0">Ipsum dolor ipsum accusam stet et et diam dolores, sed rebum sadipscing elitr vero dolores. Lorem dolore elitr justo et no gubergren sadipscing, ipsum et takimata aliquyam et rebum est ipsum lorem diam. Et lorem magna eirmod est et et sanctus et, kasd clita labore.</p>
+                <div class="col-lg-4 mb-5 mb-0">
+                    <div class="bg-light rounded p-5 mb-4 wow slideInUp" data-wow-delay="0.1s">
+                        <h4 class="mb-4">Job Summery</h4>
+                        <p><i class="fa fa-angle-right text-primary me-2"></i>Published On: 01 Jan, 2025</p>
+                        <p><i class="fa fa-angle-right text-primary me-2"></i>Vacancy: 123 Position</p>
+                        <p><i class="fa fa-angle-right text-primary me-2"></i>Job Nature: Full Time</p>
+                        <p><i class="fa fa-angle-right text-primary me-2"></i>Salary: <i
+                                class="fa-solid fa-indian-rupee-sign"></i>123 - <i
+                                class="fa-solid fa-indian-rupee-sign"></i>456</p>
+                        <p><i class="fa fa-angle-right text-primary me-2"></i>Location: Pune</p>
+                        <p class="m-0"><i class="fa fa-angle-right text-primary me-2"></i>Date Line: 01 Jan, 2025</p>
+                    </div>
+                    <div class="bg-light rounded p-5 wow slideInUp" data-wow-delay="0.1s">
+                        <h4 class="mb-4">Company Detail</h4>
+                        <p class="m-0">Ipsum dolor ipsum accusam stet et et diam dolores, sed rebum sadipscing elitr
+                            vero dolores. Lorem dolore elitr justo et no gubergren sadipscing, ipsum et takimata
+                            aliquyam et rebum est ipsum lorem diam. Et lorem magna eirmod est et et sanctus et, kasd
+                            clita labore.</p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-<!-- Job Detail End -->
+    <!-- Job Detail End -->
 
 
-    <!--====== FOOTER START ======-->
-    <footer class="sotcox-footer theme-light-bg pt-0" >
-        <div class="sotcox-footer-widgets" >
+   <!--====== FOOTER START ======-->
+   <footer class="sotcox-footer theme-light-bg pt-0">
+        <div class="sotcox-footer-widgets">
             <div class="container">
                 <div class="row mt-none-30">
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
@@ -387,29 +422,32 @@
                                 <a href="index.php" class="sotcox-footer-logo mb-20">
                                     <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
                                 </a>
-                              <div class="container mt-0">
-  <!-- Address Section -->
-  <div class="d-flex align-items-start mb-3">
-    <div>
-      <i class="far fa-map-marker-alt fa-lg text-primary" style="position: relative; top: 5px;"></i>
-    </div>
-    <div class="ms-3">
-      <p class="mb-0">
-        SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road, Hadapsar 411028
-      </p>
-    </div>
-  </div>
+                                <div class="container mt-0">
+                                    <!-- Address Section -->
+                                    <div class="d-flex align-items-start mb-3">
+                                        <div>
+                                            <i class="far fa-map-marker-alt fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">
+                                                SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega
+                                                Center, Magarpatta Road, Hadapsar 411028
+                                            </p>
+                                        </div>
+                                    </div>
 
-  <!-- Email Section -->
-  <div class="d-flex align-items-start">
-    <div>
-      <i class="far fa-envelope fa-lg text-primary" style="position: relative; top: 5px;"></i>
-    </div>
-    <div class="ms-3">
-      <p class="mb-0">info@sitsolutions.co.in</p>
-    </div>
-  </div>
-</div>
+                                    <!-- Email Section -->
+                                    <div class="d-flex align-items-start">
+                                        <div>
+                                            <i class="far fa-envelope fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">info@sitsolutions.co.in</p>
+                                        </div>
+                                    </div>
+                                </div>
 
 
                             </div>
@@ -417,16 +455,16 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
                         <div class="widget">
-                            <h3 class="widget-title" >Services</h3>
-                            <ul >
-                                <li ><a href="mobile-development.php" >App Development</a></li>
-                                <li><a href="software-development.php" >Software Development</a></li>
-                                <li><a href="web-development.php" >Web Development</a></li>
-                                <li><a href="digital-marketing.php" >Digital Marketing</a></li>
-                                <li><a href="portfolio.php" >Portfolio</a></li>
+                            <h3 class="widget-title ms-3">Services</h3>
+                            <ul class="ms-3">
+                                <li><a href="mobile-development.php">App Development</a></li>
+                                <li><a href="software-development.php">Software Development</a></li>
+                                <li><a href="web-development.php">Web Development</a></li>
+                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                <li><a href="portfolio.php">Portfolio</a></li>
                             </ul>
                         </div>
-                        <div class="sotcox-social-links mt-40">
+                        <div class="sotcox-social-links mt-40 ms-3">
                             <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
                             <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
@@ -435,16 +473,16 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
                         <div class="widget">
-                            <h3 class="widget-title">Information</h3>
-                             <ul>
+                            <h3 class="widget-title ms-3">Information</h3>
+                            <ul class="ms-3">
                                 <li><a href="career.php">Career</a></li>
                                 <li><a href="about.php">Our Team</a></li>
                                 <li><a href="contact.php">Contact us</a></li>
                                 <li><a href="services.php">Services</a></li>
                                 <li><a href="product.php">Our Products
-                                </a></li>
-                            </ul> 
-                           
+                                    </a></li>
+                            </ul>
+
                         </div>
                     </div>
                 </div>
@@ -454,7 +492,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <p >Copyright &copy; <span id="copyright-date" ></span> SIT Solutions Pvt Ltd, All Rights Reserved.</p>
+                        <p>Copyright &copy; <span id="copyright-date"></span> SIT Solutions Pvt Ltd, All Rights
+                            Reserved.</p>
                     </div>
                     <div class="col-md-4">
                         <div class="sotcox-backtotop">
@@ -488,4 +527,5 @@
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+
 </html>

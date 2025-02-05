@@ -1,11 +1,9 @@
-
-
-
 <!doctype html>
 <html class="no-js" lang="zxx">
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:54:00 GMT -->
+
 <head>
 
     <!--========= Required meta tags =========-->
@@ -33,6 +31,19 @@
     <link rel="stylesheet" href="assets/css/odometer.min.css">
     <link rel="stylesheet" href="assets/css/main.css">
 
+    <style>
+        /* Custom styling for invalid inputs */
+        .is-invalid {
+            border-color: #dc3545;
+        }
+
+        .invalid-feedback {
+            display: block;
+            font-size: 0.875em;
+            color: #dc3545;
+        }
+    </style>
+
 </head>
 
 <body>
@@ -43,15 +54,15 @@
     <!--====== HEADER START ======-->
     <div id="sotcox-loadding" class="sotcox-loader">
         <div class="sotcox-spinner">
-          <div class="bounce1"></div>
-          <div class="bounce2"></div>
-          <div class="bounce3"></div>
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
         </div>
-      </div>
-     <!--====== HEADER END ======-->
+    </div>
+    <!--====== HEADER END ======-->
 
     <!--====== HEADER START ======-->
-      <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
+    <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
         <div class="container-fluid sotcox-container__fluid">
             <div class="row">
                 <div class="col-xl-10 col-lg-4 col-sm-6 col-7 align-self-center">
@@ -64,11 +75,11 @@
                                 <nav id="sotcox-navbar">
                                     <ul>
                                         <li><a href="index.php">Home</a>
-                                           
+
                                         </li>
                                         <li><a href="about.php">About Us</a></li>
-                                         <li ><a href="services.php">Services</a>
-                                      <!--     <ul class="sub-menu" >
+                                        <li><a href="services.php">Services</a>
+                                            <!--     <ul class="sub-menu" >
                                                 <li><a href="web-development.php">Web Development</a>
                                                 <ul class="sub-menu" style="width: 300px;">
                                                 <li ><a href="php-development.php">PHP Development</a></li>
@@ -88,7 +99,7 @@
                                         </li>
                                         <li><a href="product.php">Products</a>
                                         <li><a href="portfolio.php">Portfolio</a>
-                                        
+
                                         </li>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
@@ -143,11 +154,10 @@
     <aside class="side-info-wrapper mm-only">
         <nav>
             <div class="nav" id="nav-tab" role="tablist">
-                <a class="nav-link active" id="menu-tab-1-tab" data-bs-toggle="tab"
-                    href="#menu-tab-1" role="tab" aria-controls="menu-tab-1"
-                    aria-selected="true">Menu</a>
-                <a class="nav-link" id="menu-tab-2-tab" data-bs-toggle="tab" href="#menu-tab-2"
-                    role="tab" aria-controls="menu-tab-2" aria-selected="false">Info</a>
+                <a class="nav-link active" id="menu-tab-1-tab" data-bs-toggle="tab" href="#menu-tab-1" role="tab"
+                    aria-controls="menu-tab-1" aria-selected="true">Menu</a>
+                <a class="nav-link" id="menu-tab-2-tab" data-bs-toggle="tab" href="#menu-tab-2" role="tab"
+                    aria-controls="menu-tab-2" aria-selected="false">Info</a>
             </div>
         </nav>
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
@@ -161,10 +171,10 @@
             </div>
         </div>
         <div class="tab-content" id="nav-tabContent">
-            <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel"
-                aria-labelledby="menu-tab-1-tab">
+            <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel" aria-labelledby="menu-tab-1-tab">
                 <div class="search-box">
-                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
+                    <form class="search-widget sotcox-input-field position-relative"
+                        action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
                         <div>
                             <input type="search" value="" required="" name="s" placeholder="Search...">
                             <button type="submit"><i class="far fa-search"></i></button>
@@ -173,12 +183,14 @@
                 </div>
                 <div class="sotcox-mobile-menu"></div>
             </div>
-            <div class="tab-pane fade" id="menu-tab-2" role="tabpanel"
-                aria-labelledby="menu-tab-2-tab">
+            <div class="tab-pane fade" id="menu-tab-2" role="tabpanel" aria-labelledby="menu-tab-2-tab">
                 <div class="side-info">
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-10">About us</h4>
-                        <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
+                        <p>We at SIT are a team of IT experts, who came with a promise of delivering
+                            technology-empowered business solutions. We provide world-class software and web development
+                            services that focus on playing a supportive role to your business and its holistic growth.
+                        </p>
                         <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
@@ -186,7 +198,8 @@
                         <ul class="contact__info list-unstyled">
                             <li>
                                 <span><i class="fas fa-map-marker-alt"></i></span>
-                                <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road , Hadapsar 411028</p>
+                                <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta
+                                    Road , Hadapsar 411028</p>
                             </li>
                             <li>
                                 <span><i class="fas fa-phone"></i></span>
@@ -225,7 +238,9 @@
         <div class="side-info">
             <div class="side-info__content mb-35">
                 <h4 class="title mb-10">About us</h4>
-                <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
+                <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered
+                    business solutions. We provide world-class software and web development services that focus on
+                    playing a supportive role to your business and its holistic growth. </p>
                 <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
             </div>
             <div class="contact__info--wrapper mt-15">
@@ -233,7 +248,8 @@
                 <ul class="contact__info list-unstyled">
                     <li>
                         <span><i class="fas fa-map-marker-alt"></i></span>
-                        <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road , Hadapsar 411028</p>
+                        <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road ,
+                            Hadapsar 411028</p>
                     </li>
                     <li>
                         <span><i class="fas fa-phone"></i></span>
@@ -286,50 +302,76 @@
     </section> -->
     <!--====== BREADCRUMB SECTION END ======-->
 
-     <!--====== GET QUOTE SECTION START ======-->
-     <section class="sotcox-getquote-section pb-2 pt-5">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-xl-8">
-                    <div class="sotcox-section-heading sotcox-section-heading__style-2 text-center mb-60">
-                        <span class="sub-heading">get free quote</span>
-                        <h2 class="heading">Just have a quick any questions?</h2>
-                    </div>
+    <!--====== GET QUOTE SECTION START ======-->
+    <section class="container py-1">
+    <div class="container">
+    <div class="row">
+        <div class="col-xl-12" style="text-align:center;">
+
+
+            <div class="sotcox-section-heading sotcox-section-heading__style-2">
+                <span class="sub-heading" style="font-size: 15px;">Contact Us</span>
+                <h2 class="heading" style="font-size: 48px; line-height: 60px;">Just have any quick questions?
+                </h2>
+            </div>
+        </div>
+
+        <div class="row pt-4">
+            <div class="col-xl-6 mb-4 mb-xl-0">
+                <div class="img-wrapper">
+                    <img src="assets/img/about/contact.jpg" alt="Contact Us Image" class="img-fluid">
                 </div>
             </div>
-            <div class="row g-0">
-                <div class="col-xl-6">
-                    <div class="img-wrapper">
-                        <img src="assets/img/about/contact.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="sotcox-getquote-form-wrapper">
-                        <form action="#" method="post" id="contact-form">
-                            <div class="sotcox-input-field mt-30">
-                                <label for="name">Name *</label>
-                                <input type="text" name="nm" id="name" placeholder="Enter Your Name" required>
-                            </div>
-                            <div class="sotcox-input-field mt-30">
-                                <label for="company">Company *</label>
-                                <input type="text" name="cm" id="company" placeholder="Enter Company Name" required>
-                            </div>
-                            <div class="sotcox-input-field mt-30">
-                                <label for="email">Email *</label>
-                                <input type="email" name="em" id="email" placeholder="Enter Your Email" required>
-                            </div>
-                            <div class="sotcox-input-field mt-30">
-                                <label for="subject">Subject *</label>
-                                <input type="text" name="subject" id="subject" placeholder="Enter Subject" required>
-                            </div>
-                            <div class="sotcox-input-field mt-30">
-                                <label for="message">Message *</label>
-                                <textarea name="msg" id="message" placeholder="Enter Your Message" required></textarea>
-                            </div>
-                            <button type="submit" class="sotcox-btn sotcox-btn__round mt-20">Submit Now <span></span></button>
-                          </form>
 
-                    </div>
+            <!-- Form Section with Blue Background -->
+            <div class="col-xl-6">
+                <div class="contact-form-wrapper" style="background-color: #77aee9;
+    padding: 15px;
+    border-radius: 8px;
+    color: white;">
+                    <form action="#" method="post" id="formId" onsubmit="return validation();">
+                        <div class="mb-3">
+                            <label for="full_name" class="form-label">Name *</label>
+                            <input type="text" id="full_name" name="full_name" class="form-control"
+                                placeholder="Enter Your Name" required>
+                            <div id="nameError" class="invalid-feedback"></div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="company" class="form-label">Company</label>
+                            <input type="text" id="company" name="company_name" class="form-control"
+                                placeholder="Enter Company Name">
+                            <div id="companyError" class="invalid-feedback"></div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="email" class="form-label">Email *</label>
+                            <input type="email" id="email" name="email" class="form-control"
+                                placeholder="Enter Your Email" required>
+                            <div id="emailError" class="invalid-feedback"></div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="subject" class="form-label">Subject</label>
+                            <input type="text" name="subject" id="subject" class="form-control"
+                                placeholder="Enter Subject">
+                            <div id="subjectError" class="invalid-feedback"></div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="message" class="form-label">Message *</label>
+                            <textarea name="message" id="message" class="form-control" placeholder="Enter Your Message"
+                                required></textarea>
+                            <div id="messageError" class="invalid-feedback"></div>
+                        </div>
+
+                        <button type="submit" id="submitButton" class="btn btn-light w-100"
+                            style="background-color: #f37c04; border : 1px solid #f37c04">
+                            Submit Now
+                        </button>
+                    </form>
+</div>
+</div>
                 </div>
             </div>
         </div>
@@ -338,7 +380,7 @@
 
 
     <!--====== SUPPORT SECTION START ======-->
-    <div class="stocox-support-secttion pt-5 pb-5">
+    <div class="stocox-support-secttion pt-3 pb-3">
         <div class="container">
             <div class="row mt-none-30">
                 <div class="col-lg-4 col-md-6 mt-30">
@@ -349,11 +391,11 @@
                         <div class="content mt-25" style="height: 150px;">
                             <h4 class="title">Visit Us Daily</h4>
                             <p>SIT Solutions Pvt. Ltd.
-                                        Office no. 509/510, C Wing 4th Floor,
-                                        Mega Center,
-                                        Magarpatta Road ,
-                                        Hadapsar 411028
-                                        </p>
+                                Office no. 509/510, C Wing 4th Floor,
+                                Mega Center,
+                                Magarpatta Road ,
+                                Hadapsar 411028
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -366,11 +408,11 @@
                             <h4 class="title">Contact Us</h4>
                             <p>
                                 <a href="tel:9325993982">
-                                        +91-9325993982
-                                    </a>
+                                    +91-9325993982
+                                </a>
                                 <a href="tel:7798113344">
-                                       +91-7798113344
-                                    </a>
+                                    +91-7798113344
+                                </a>
                             </p>
                         </div>
                     </div>
@@ -394,15 +436,18 @@
     </div>
     <!--====== SUPPORT SECTION END ======-->
 
-   
+
     <!--====== MAP SECTION END ======-->
     <div class="sotcox-map-section mb-none-120">
-       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.5486046547326!2d73.9231395733507!3d18.504094869680962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2e9e3bc445ddb%3A0xf9c04ee695691ef2!2sS-IT%20Solutions%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1737693260350!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.5486046547326!2d73.9231395733507!3d18.504094869680962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2e9e3bc445ddb%3A0xf9c04ee695691ef2!2sS-IT%20Solutions%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1737693260350!5m2!1sen!2sin"
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     <!--====== MAP SECTION END ======-->
 
     <!--====== NEWSLETTER SECTION START ======-->
-  <!--   <div class="sotcox-newsletter-section">
+    <!--   <div class="sotcox-newsletter-section">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -437,49 +482,52 @@
         <div class="container">
             <div class="row mt-none-30">
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <div class="sotcox-contact-info-box sotcox-contact-info-box__1 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="800ms">
+                    <div class="sotcox-contact-info-box sotcox-contact-info-box__1 wow fadeInUp" data-wow-delay="0ms"
+                        data-wow-duration="800ms">
                         <div class="icon">
                             <img src="assets/img/icons/phone.png" alt="">
                         </div>
                         <div class="content">
                             <span>free consultation</span>
-                           <p>Schedule a Free <br> Consultation With Our <br> Specialist</p>
-                           <a href="contact.php" class="sotcox-btn">schedule now <span></span></a>
+                            <p>Schedule a Free <br> Consultation With Our <br> Specialist</p>
+                            <a href="contact.php" class="sotcox-btn">schedule now <span></span></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <div class="sotcox-contact-info-box sotcox-contact-info-box__2 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms">
+                    <div class="sotcox-contact-info-box sotcox-contact-info-box__2 wow fadeInUp" data-wow-delay="200ms"
+                        data-wow-duration="800ms">
                         <div class="icon">
                             <img src="assets/img/icons/envelope.png" alt="">
                         </div>
                         <div class="content">
                             <span>request</span>
-                           <p>Begin Your Adventure <br> With Experienced <br> Professionals</p>
-                           <a href="contact.php" class="sotcox-btn">send request <span></span></a>
+                            <p>Begin Your Adventure <br> With Experienced <br> Professionals</p>
+                            <a href="contact.php" class="sotcox-btn">send request <span></span></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <div class="sotcox-contact-info-box sotcox-contact-info-box__3 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms">
+                    <div class="sotcox-contact-info-box sotcox-contact-info-box__3 wow fadeInUp" data-wow-delay="200ms"
+                        data-wow-duration="800ms">
                         <div class="icon">
                             <img src="assets/img/icons/desk.png" alt="">
                         </div>
                         <div class="content">
                             <span>hellp desk</span>
-                           <p>Do You Have Questions or <br> Want More Information? <br> Call Now.</p>
-                          
-                                <div class="info-call">
-                                    <span class="icon">
-                                      <img src="assets/img/icons/phone-2.png" alt="">
-                                    </span>
-                                    <span class="number" style="font-size: 20px;">
-                                      <a href="tel:+919325993982" style="text-decoration: none; color: inherit;">
+                            <p>Do You Have Questions or <br> Want More Information? <br> Call Now.</p>
+
+                            <div class="info-call">
+                                <span class="icon">
+                                    <img src="assets/img/icons/phone-2.png" alt="">
+                                </span>
+                                <span class="number" style="font-size: 20px;">
+                                    <a href="tel:+919325993982" style="text-decoration: none; color: inherit;">
                                         +91-9325993982
-                                      </a>
-                                    </span>
-                                  
-                           </div>
+                                    </a>
+                                </span>
+
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -489,8 +537,8 @@
     <!--====== CONTACT INFO SECTION END ======-->
 
     <!--====== FOOTER START ======-->
-    <footer class="sotcox-footer theme-light-bg pt-0" >
-        <div class="sotcox-footer-widgets" >
+    <footer class="sotcox-footer theme-light-bg pt-0">
+        <div class="sotcox-footer-widgets">
             <div class="container">
                 <div class="row mt-none-30">
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
@@ -499,29 +547,32 @@
                                 <a href="index.php" class="sotcox-footer-logo mb-20">
                                     <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
                                 </a>
-                              <div class="container mt-0">
-  <!-- Address Section -->
-  <div class="d-flex align-items-start mb-3">
-    <div>
-      <i class="far fa-map-marker-alt fa-lg text-primary" style="position: relative; top: 5px;"></i>
-    </div>
-    <div class="ms-3">
-      <p class="mb-0">
-        SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road, Hadapsar 411028
-      </p>
-    </div>
-  </div>
+                                <div class="container mt-0">
+                                    <!-- Address Section -->
+                                    <div class="d-flex align-items-start mb-3">
+                                        <div>
+                                            <i class="far fa-map-marker-alt fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">
+                                                SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega
+                                                Center, Magarpatta Road, Hadapsar 411028
+                                            </p>
+                                        </div>
+                                    </div>
 
-  <!-- Email Section -->
-  <div class="d-flex align-items-start">
-    <div>
-      <i class="far fa-envelope fa-lg text-primary" style="position: relative; top: 5px;"></i>
-    </div>
-    <div class="ms-3">
-      <p class="mb-0">info@sitsolutions.co.in</p>
-    </div>
-  </div>
-</div>
+                                    <!-- Email Section -->
+                                    <div class="d-flex align-items-start">
+                                        <div>
+                                            <i class="far fa-envelope fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">info@sitsolutions.co.in</p>
+                                        </div>
+                                    </div>
+                                </div>
 
 
                             </div>
@@ -529,16 +580,16 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
                         <div class="widget">
-                            <h3 class="widget-title" >Services</h3>
-                            <ul >
-                                <li ><a href="mobile-development.php" >App Development</a></li>
-                                <li><a href="software-development.php" >Software Development</a></li>
-                                <li><a href="web-development.php" >Web Development</a></li>
-                                <li><a href="digital-marketing.php" >Digital Marketing</a></li>
-                                <li><a href="portfolio.php" >Portfolio</a></li>
+                            <h3 class="widget-title ms-3">Services</h3>
+                            <ul class="ms-3">
+                                <li><a href="mobile-development.php">App Development</a></li>
+                                <li><a href="software-development.php">Software Development</a></li>
+                                <li><a href="web-development.php">Web Development</a></li>
+                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                <li><a href="portfolio.php">Portfolio</a></li>
                             </ul>
                         </div>
-                        <div class="sotcox-social-links mt-40">
+                        <div class="sotcox-social-links mt-40 ms-3">
                             <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
                             <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
@@ -547,16 +598,16 @@
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
                         <div class="widget">
-                            <h3 class="widget-title">Information</h3>
-                             <ul>
+                            <h3 class="widget-title ms-3">Information</h3>
+                            <ul class="ms-3">
                                 <li><a href="career.php">Career</a></li>
                                 <li><a href="about.php">Our Team</a></li>
                                 <li><a href="contact.php">Contact us</a></li>
                                 <li><a href="services.php">Services</a></li>
                                 <li><a href="product.php">Our Products
-                                </a></li>
-                            </ul> 
-                           
+                                    </a></li>
+                            </ul>
+
                         </div>
                     </div>
                 </div>
@@ -566,7 +617,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <p >Copyright &copy; <span id="copyright-date" ></span> SIT Solutions Pvt Ltd, All Rights Reserved.</p>
+                        <p>Copyright &copy; <span id="copyright-date"></span> SIT Solutions Pvt Ltd, All Rights
+                            Reserved.</p>
                     </div>
                     <div class="col-md-4">
                         <div class="sotcox-backtotop">
@@ -578,6 +630,52 @@
         </div>
     </footer>
     <!--====== FOOTER END ======-->
+
+    <script>
+        // Regular expression for email validation
+        const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+
+        function validation() {
+            // Get form values
+            var full_name = $("#full_name").val();
+            var email = $("#email").val();
+            var message = $("#message").val();
+            var isValid = true;
+
+            // Clear previous error messages and borders
+            $(".invalid-feedback").text("");
+            $(".form-control").removeClass('is-invalid');
+
+            // Validate Full Name
+            if (full_name === "") {
+                $("#full_name").focus();
+                $("#nameError").text("Please enter your full name.");
+                $("#full_name").addClass('is-invalid');
+                isValid = false;
+            }
+
+            // Validate Email
+            if (email === "" || !emailPattern.test(email)) {
+                $("#email").focus();
+                $("#emailError").text("Please enter a valid email address.");
+                $("#email").addClass('is-invalid');
+                isValid = false;
+            }
+
+            // Validate Message
+            if (message === "") {
+                $("#message").focus();
+                $("#messageError").text("Please enter your message.");
+                $("#message").addClass('is-invalid');
+                isValid = false;
+            }
+
+            // If any field is invalid, prevent form submission
+            return isValid;
+        }
+    </script>
+
+
 
     <!--========= JS Here =========-->
     <script src="assets/js/jquery-3.7.0.min.js"></script>
@@ -600,4 +698,5 @@
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+
 </html>

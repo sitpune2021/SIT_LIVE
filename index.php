@@ -254,72 +254,71 @@
     <!--====== SIDE INFO FOR DESKTOP END ======-->
 
     <!--====== HERO SECTION START ======-->
-    <section class="sotcox-hero-section pb-90 pt-80">
-        <div class="shape shape__1 position-absolute wow fadeInUp" data-wow-delay="300ms" data-wow-duration="800ms"><img
-                src="assets/img/shapes/hero-shape-1.png" alt=""></div>
-        <div class="shape shape__2 position-absolute wow fadeInUp" data-wow-delay="600ms" data-wow-duration="800ms"><img
-                src="assets/img/shapes/hero-shape-2.png" alt=""></div>
-        <div class="container">
-            <div class="row flex-lg-row flex-md-column-reverse">
-                <div class="col-xl-5 col-lg-5">
-                    <div class="inner-content">
-                        <h1 class="title wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms">Innovate, Integrate, Elevate: SIT Solution Destination</h1>
-                        <div class="inner-btns mt-50">
-                            <a href="services.php" class="sotcox-btn wow fadeInUp" data-wow-delay="500ms"
-                                data-wow-duration="800ms">Our Service <span></span></a>
-                            <!-- <div class="sotcox-video-wrapper wow fadeInUp" data-wow-delay="700ms"
-                                data-wow-duration="800ms">
-                                <a href="http://youtube.com/embed/4xe72U7mXNg?rel=0&amp;controls=0&amp;showinfo=0"
-                                    data-rel="lightcase" class="sotcox-video-btn">
-                                    <i class="fas fa-play"></i>
-                                </a> -->
-                                <!-- <span>video Presentation</span> -->
-                            <!-- </div> -->
-                        </div>
-                        <div class="sotcox-social-links mt-140">
-                            <a href="https://www.facebook.com/" class="wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms"
-                                target="_blank"><i class="fab fa-facebook-f"></i> <span>Facebook</span></a>
-                            <a href="https://www.youtube.com/" class="wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms"
-                                target="_blank"><i class="fab fa-youtube"></i> <span>Youtube</span></a>
-                            <!-- <a href="#0" class="wow fadeInUp" data-wow-delay="600ms" data-wow-duration="800ms"
-                                target="_blank"><i class="fab fa-twitter"></i> <span>Twitter</span></a> -->
-                            <a href="https://www.linkedin.com/" class="wow fadeInUp" data-wow-delay="800ms" data-wow-duration="800ms"
-                                target="_blank"><i class="fab fa-linkedin"></i> <span>Linkedin</span></a>
-                        </div>
+   <section class="sotcox-hero-section pb-4 pt-5">
+    <div class="shape shape__1 position-absolute wow fadeInUp" data-wow-delay="300ms" data-wow-duration="800ms">
+        <img src="assets/img/shapes/hero-shape-1.png" alt="">
+    </div>
+    <div class="shape shape__2 position-absolute wow fadeInUp" data-wow-delay="600ms" data-wow-duration="800ms">
+        <img src="assets/img/shapes/hero-shape-2.png" alt="">
+    </div>
+    <div class="container">
+        <div class="row flex-lg-row flex-md-column-reverse">
+            <div class="col-xl-5 col-lg-5">
+                <div class="inner-content">
+                    <h1 class="title wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms">
+                        Innovate, Integrate, Elevate: SIT Solution Destination
+                    </h1>
+                    <div class="inner-btns mt-50">
+                        <a href="services.php" class="sotcox-btn wow fadeInUp" data-wow-delay="500ms" data-wow-duration="800ms">
+                            Our Service <span></span>
+                        </a>
+                    </div>
+                    <div class="sotcox-social-links mt-140">
+                        <a href="https://www.facebook.com/" class="wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" target="_blank">
+                            <i class="fab fa-facebook-f"></i> <span>Facebook</span>
+                        </a>
+                        <a href="https://www.youtube.com/" class="wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" target="_blank">
+                            <i class="fab fa-youtube"></i> <span>Youtube</span>
+                        </a>
+                        <a href="https://www.linkedin.com/" class="wow fadeInUp" data-wow-delay="800ms" data-wow-duration="800ms" target="_blank">
+                            <i class="fab fa-linkedin"></i> <span>Linkedin</span>
+                        </a>
                     </div>
                 </div>
-                <div class="col-xl-7 col-lg-7">
-                    <div class="inner-right">
-                        <div class="review-wrapper">
-                            <div class="item">
-                                <div class="icon">
-                                    <img src="assets/img/icons/growth.png" alt="">
-                                </div>
-                                <div class="content">
-                                    <h6>100% Business Growth</h6>
-                                    <p><i class="fas fa-star"></i> <span>4.9</span> (1520 Reviews)</p>
-                                </div>
+            </div>
+            <div class="col-xl-7 col-lg-7">
+                <div class="inner-right">
+                    <div class="review-wrapper">
+                        <div class="item">
+                            <div class="icon">
+                                <img src="assets/img/icons/growth.png" alt="">
                             </div>
-                            <div class="item">
-                                <div class="content">
-                                    <h6>399 Happy Clients</h6>
-                                    <p><i class="fas fa-star"></i> <span>4.9</span> (15k Reviews)</p>
-                                </div>
+                            <div class="content">
+                                <h6>100% Business Growth</h6>
+                                <p><i class="fas fa-star"></i> <span>4.9</span> (1520 Reviews)</p>
                             </div>
                         </div>
-                        <div class="img-wrapper wow zoomIn" data-wow-delay="700ms" data-wow-duration="800ms">
-                            <img src="assets/img/hero/hero-1.png" alt="">
+                        <div class="item">
+                            <div class="content">
+                                <h6>399 Happy Clients</h6>
+                                <p><i class="fas fa-star"></i> <span>4.9</span> (15k Reviews)</p>
+                            </div>
                         </div>
                     </div>
-
+                    <!-- Responsive Image -->
+                    <div class="img-wrapper wow zoomIn" data-wow-delay="700ms" data-wow-duration="800ms">
+                        <img src="assets/img/hero/hero-1.png" alt="" class="img-fluid">
+                    </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
+
     <!--====== HERO SECTION END ======-->
 
     <!--====== CARD WITH ICON SECTION START ======-->
-    <div class="sotcox-card-section theme-light-bg pt-130">
+    <div class="sotcox-card-section theme-light-bg pt-0">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -424,7 +423,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="sotcox-service-wrapper owl-carousel sotcox-slide-nav" data-service-slider>
-                        <div class="sotcox-service-item">
+                        <div class="sotcox-service-item pt-3">
                             <div class="icon">
                                 <img src="assets/img/icons/service-icon-1.png" alt="">
                             </div>
@@ -436,7 +435,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="sotcox-service-item">
+                        <div class="sotcox-service-item pt-3">
                             <div class="icon">
                                 <img src="assets/img/icons/service-icon-2.png" alt="">
                             </div>
@@ -448,7 +447,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="sotcox-service-item">
+                        <div class="sotcox-service-item pt-3">
                             <div class="icon">
                                 <img src="assets/img/icons/service-icon-3.png" alt="">
                             </div>
@@ -460,7 +459,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="sotcox-service-item">
+                        <div class="sotcox-service-item pt-3">
                             <div class="icon">
                                 <img src="assets/img/icons/service-icon-4.png" alt="">
                             </div>
@@ -472,7 +471,7 @@
                                 </a>
                             </div>
                         </div>
-                        <!-- <div class="sotcox-service-item">
+                        <!-- <div class="sotcox-service-item pt-3">
                             <div class="icon">
                                 <img src="assets/img/icons/service-icon-5.png" alt="">
                             </div>
@@ -512,7 +511,7 @@
                     </div>
                 </div>
                 <div class="col-xl-12 text-center">
-                    <a href="services.php" class="sotcox-btn mt-60">view all services <span></span></a>
+                    <a href="services.php" class="sotcox-btn mt-20">view all services <span></span></a>
                 </div>
             </div>
         </div>
@@ -532,7 +531,7 @@
                 </div>
             </div>
             <div class="row g-0 mt-none-40">
-                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-12 mt-40">
+                <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6 col-12 mt-0">
                     <div class="sotcox-workflow-box sotcox-workflow-box__1 text-center wow fadeInUp"
                         data-wow-delay="0ms" data-wow-duration="800ms">
                         <div class="icon">
@@ -701,7 +700,7 @@
    
 
     <!--====== WCU SECTION START ======-->
-    <div class="sotcox-wcu-section theme-light-bg pt-5 pb-5">
+    <div class="sotcox-wcu-section theme-light-bg pt-2 pb-5">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6">
@@ -751,7 +750,7 @@
     
     <div class="row justify-content-center pt-5">
         <div class="col-xl-6">
-          <div class="sotcox-section-heading sotcox-section-heading__style-2 text-center mb-60">
+          <div class="sotcox-section-heading sotcox-section-heading__style-2 text-center mb-0">
             <span class="sub-heading">Our Clients</span>
           </div>
         </div>
@@ -1177,7 +1176,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
+                <div class="col-xl-4 col-lg-6 col-md-6 mt-30 mb-4">
                     <div class="sotcox-contact-info-box sotcox-contact-info-box__3 wow fadeInUp" data-wow-delay="200ms"
                         data-wow-duration="800ms">
                         <div class="icon">
@@ -1205,116 +1204,120 @@
     </div>
     <!--====== CONTACT INFO SECTION END ======-->
 
-   <!--====== FOOTER START ======-->
-   <footer class="sotcox-footer theme-light-bg pt-4" >
-    <div class="sotcox-footer-widgets" >
-        <div class="container">
-            <div class="row mt-none-30">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
-                    <div class="widget">
-                        <div class="about-widget">
-                            <a href="index.php" class="sotcox-footer-logo mb-20">
-                                <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
-                            </a>
-                          <div class="container mt-0">
-<!-- Address Section -->
-<div class="d-flex align-items-start mb-3">
-<div>
-  <i class="far fa-map-marker-alt fa-lg text-primary" style="position: relative; top: 5px;"></i>
-</div>
-<div class="ms-3">
-  <p class="mb-0">
-    SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road, Hadapsar 411028
-  </p>
-</div>
-</div>
+    <footer class="sotcox-footer theme-light-bg pt-0">
+        <div class="sotcox-footer-widgets">
+            <div class="container">
+                <div class="row mt-none-30">
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
+                        <div class="widget">
+                            <div class="about-widget">
+                                <a href="index.php" class="sotcox-footer-logo mb-20">
+                                    <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
+                                </a>
+                                <div class="container mt-0">
+                                    <!-- Address Section -->
+                                    <div class="d-flex align-items-start mb-3">
+                                        <div>
+                                            <i class="far fa-map-marker-alt fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">
+                                                SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega
+                                                Center, Magarpatta Road, Hadapsar 411028
+                                            </p>
+                                        </div>
+                                    </div>
 
-<!-- Email Section -->
-<div class="d-flex align-items-start">
-<div>
-  <i class="far fa-envelope fa-lg text-primary" style="position: relative; top: 5px;"></i>
-</div>
-<div class="ms-3">
-  <p class="mb-0">info@sitsolutions.co.in</p>
-</div>
-</div>
-</div>
+                                    <!-- Email Section -->
+                                    <div class="d-flex align-items-start">
+                                        <div>
+                                            <i class="far fa-envelope fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">info@sitsolutions.co.in</p>
+                                        </div>
+                                    </div>
+                                </div>
 
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
+                        <div class="widget">
+                            <h3 class="widget-title ms-3">Services</h3>
+                            <ul class="ms-3">
+                                <li><a href="mobile-development.php">App Development</a></li>
+                                <li><a href="software-development.php">Software Development</a></li>
+                                <li><a href="web-development.php">Web Development</a></li>
+                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                <li><a href="portfolio.php">Portfolio</a></li>
+                            </ul>
+                        </div>
+                        <div class="sotcox-social-links mt-40 ms-3">
+                            <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
+                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
+                        <div class="widget">
+                            <h3 class="widget-title ms-3">Information</h3>
+                            <ul class="ms-3">
+                                <li><a href="career.php">Career</a></li>
+                                <li><a href="about.php">Our Team</a></li>
+                                <li><a href="contact.php">Contact us</a></li>
+                                <li><a href="services.php">Services</a></li>
+                                <li><a href="product.php">Our Products
+                                    </a></li>
+                            </ul>
 
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
-                    <div class="widget">
-                        <h3 class="widget-title" >Services</h3>
-                        <ul >
-                            <li ><a href="mobile-development.php" >App Development</a></li>
-                            <li><a href="software-development.php" >Software Development</a></li>
-                            <li><a href="web-development.php" >Web Development</a></li>
-                            <li><a href="digital-marketing.php" >Digital Marketing</a></li>
-                            <li><a href="portfolio.php" >Portfolio</a></li>
-                        </ul>
+            </div>
+        </div>
+        <div class="sotcox-copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <p>Copyright &copy; <span id="copyright-date"></span> SIT Solutions Pvt Ltd, All Rights
+                            Reserved.</p>
                     </div>
-                    <div class="sotcox-social-links mt-40">
-                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                        <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
-                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
-                    <div class="widget">
-                        <h3 class="widget-title">Information</h3>
-                         <ul>
-                            <li><a href="career.php">Career</a></li>
-                            <li><a href="about.php">Our Team</a></li>
-                            <li><a href="contact.php">Contact us</a></li>
-                            <li><a href="services.php">Services</a></li>
-                            <li><a href="product.php">Our Products
-                            </a></li>
-                        </ul> 
-                       
+                    <div class="col-md-4">
+                        <div class="sotcox-backtotop">
+                            <button data-sotcox-backtotop><i class="far fa-angle-up"></i> Go On Top</button>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="sotcox-copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8">
-                    <p >Copyright &copy; <span id="copyright-date" ></span> SIT Solutions Pvt Ltd, All Rights Reserved.</p>
-                </div>
-                <div class="col-md-4">
-                    <div class="sotcox-backtotop">
-                        <button data-sotcox-backtotop><i class="far fa-angle-up"></i> Go On Top</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
-<!--====== FOOTER END ======-->
+    </footer>
+    <!--====== FOOTER END ======-->
 
-<!--========= JS Here =========-->
-<script src="assets/js/jquery-3.7.0.min.js"></script>
-<script src="assets/js/bootstrap.bundle.min.js"></script>
-<script src="assets/js/jquery.meanmenu.min.js"></script>
-<script src="assets/js/uikit.js"></script>
-<script src="assets/js/jquery.nice-select.min.js"></script>
-<script src="assets/js/lightcase.js"></script>
-<script src="assets/js/owl.carousel.min.js"></script>
-<script src="assets/js/jquery.easing.min.js"></script>
-<script src="assets/js/waypoint.js"></script>
-<script src="assets/js/imagesloaded.pkgd.min.js"></script>
-<script src="assets/js/isotope.pkgd.min.js"></script>
-<script src="assets/js/js-jquery.knob.js"></script>
-<script src="assets/js/js-jquery.appear.js"></script>
-<script src="assets/js/odometer.min.js"></script>
-<script src="assets/js/wow.min.js"></script>
-<script src="assets/js/main.js"></script>
+    <!--========= JS Here =========-->
+    <script src="assets/js/jquery-3.7.0.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/jquery.meanmenu.min.js"></script>
+    <script src="assets/js/uikit.js"></script>
+    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="assets/js/lightcase.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/jquery.easing.min.js"></script>
+    <script src="assets/js/waypoint.js"></script>
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/js-jquery.knob.js"></script>
+    <script src="assets/js/js-jquery.appear.js"></script>
+    <script src="assets/js/odometer.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+
 </html>

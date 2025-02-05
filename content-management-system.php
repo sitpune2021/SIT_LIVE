@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:52 GMT -->
+
 <head>
 
     <!--========= Required meta tags =========-->
@@ -48,7 +49,7 @@
     <!--====== HEADER END ======-->
 
     <!--====== HEADER START ======-->
-          <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
+    <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
         <div class="container-fluid sotcox-container__fluid">
             <div class="row">
                 <div class="col-xl-10 col-lg-4 col-sm-6 col-7 align-self-center">
@@ -61,11 +62,11 @@
                                 <nav id="sotcox-navbar">
                                     <ul>
                                         <li><a href="index.php">Home</a>
-                                           
+
                                         </li>
                                         <li><a href="about.php">About Us</a></li>
-                                         <li ><a href="services.php">Services</a>
-                                      <!--     <ul class="sub-menu" >
+                                        <li><a href="services.php">Services</a>
+                                            <!--     <ul class="sub-menu" >
                                                 <li><a href="web-development.php">Web Development</a>
                                                 <ul class="sub-menu" style="width: 300px;">
                                                 <li ><a href="php-development.php">PHP Development</a></li>
@@ -85,7 +86,7 @@
                                         </li>
                                         <li><a href="product.php">Products</a>
                                         <li><a href="portfolio.php">Portfolio</a>
-                                        
+
                                         </li>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
@@ -137,15 +138,14 @@
     </div>
     <!--====== SEARCH POPUP END ======-->
 
-     <!--====== SIDE INFO FOR MOBILE START ======-->
+    <!--====== SIDE INFO FOR MOBILE START ======-->
     <aside class="side-info-wrapper mm-only">
         <nav>
             <div class="nav" id="nav-tab" role="tablist">
-                <a class="nav-link active" id="menu-tab-1-tab" data-bs-toggle="tab"
-                    href="#menu-tab-1" role="tab" aria-controls="menu-tab-1"
-                    aria-selected="true">Menu</a>
-                <a class="nav-link" id="menu-tab-2-tab" data-bs-toggle="tab" href="#menu-tab-2"
-                    role="tab" aria-controls="menu-tab-2" aria-selected="false">Info</a>
+                <a class="nav-link active" id="menu-tab-1-tab" data-bs-toggle="tab" href="#menu-tab-1" role="tab"
+                    aria-controls="menu-tab-1" aria-selected="true">Menu</a>
+                <a class="nav-link" id="menu-tab-2-tab" data-bs-toggle="tab" href="#menu-tab-2" role="tab"
+                    aria-controls="menu-tab-2" aria-selected="false">Info</a>
             </div>
         </nav>
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
@@ -159,10 +159,10 @@
             </div>
         </div>
         <div class="tab-content" id="nav-tabContent">
-            <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel"
-                aria-labelledby="menu-tab-1-tab">
+            <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel" aria-labelledby="menu-tab-1-tab">
                 <div class="search-box">
-                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
+                    <form class="search-widget sotcox-input-field position-relative"
+                        action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
                         <div>
                             <input type="search" value="" required="" name="s" placeholder="Search...">
                             <button type="submit"><i class="far fa-search"></i></button>
@@ -171,12 +171,14 @@
                 </div>
                 <div class="sotcox-mobile-menu"></div>
             </div>
-            <div class="tab-pane fade" id="menu-tab-2" role="tabpanel"
-                aria-labelledby="menu-tab-2-tab">
+            <div class="tab-pane fade" id="menu-tab-2" role="tabpanel" aria-labelledby="menu-tab-2-tab">
                 <div class="side-info">
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-10">About us</h4>
-                        <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
+                        <p>We at SIT are a team of IT experts, who came with a promise of delivering
+                            technology-empowered business solutions. We provide world-class software and web development
+                            services that focus on playing a supportive role to your business and its holistic growth.
+                        </p>
                         <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
@@ -184,7 +186,8 @@
                         <ul class="contact__info list-unstyled">
                             <li>
                                 <span><i class="fas fa-map-marker-alt"></i></span>
-                                <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road , Hadapsar 411028</p>
+                                <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta
+                                    Road , Hadapsar 411028</p>
                             </li>
                             <li>
                                 <span><i class="fas fa-phone"></i></span>
@@ -208,7 +211,7 @@
     </aside>
     <!--====== SIDE INFO FOR MOBILE END ======-->
 
-  <aside class="side-info-wrapper show-all">
+    <aside class="side-info-wrapper show-all">
         <div class="side-info__wrapper d-flex align-items-center justify-content-between pb-0">
             <div class="side-info__logo">
                 <a href="index.php">
@@ -222,7 +225,9 @@
         <div class="side-info">
             <div class="side-info__content mb-35">
                 <h4 class="title mb-10">About us</h4>
-                <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
+                <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered
+                    business solutions. We provide world-class software and web development services that focus on
+                    playing a supportive role to your business and its holistic growth. </p>
                 <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
             </div>
             <div class="contact__info--wrapper mt-15">
@@ -230,7 +235,8 @@
                 <ul class="contact__info list-unstyled">
                     <li>
                         <span><i class="fas fa-map-marker-alt"></i></span>
-                        <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road , Hadapsar 411028</p>
+                        <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road ,
+                            Hadapsar 411028</p>
                     </li>
                     <li>
                         <span><i class="fas fa-phone"></i></span>
@@ -253,122 +259,120 @@
 
 
 
-    <div class="container py-2 pb-5">
-    <div class="row align-items-center">
-        <!-- Image Section -->
-        <div class="col-12 col-md-6 text-center">
-            <img src="assets/img/about/cms.avif" alt="Our Story" class="img-fluid"
-                style="height:350px; width: 450px" >
-        </div>
+    <div class="container py-2 pb-0">
+        <div class="row align-items-center">
+            <!-- Image Section -->
+            <div class="col-12 col-md-6 text-center">
+                <img src="assets/img/about/cms.avif" alt="Our Story" class="img-fluid"
+                    style="height:350px; width: 450px">
+            </div>
 
-        <!-- Content Section -->
-        <div class="col-12 col-md-6">
-            <h3 class="mb-3" style="font-weight:bold; text-align:center; font-size: 40px; padding-top: 25px;">Content Management System 
-            </h3>
-            <p class="text-dark" style="font-size: 17px; color:black; text-align: justify;line-height:25px;">
-             
- 
-We are having Content management system (CMS) Website Development experts which make the theme customization using WordPress, Magento, Drupal, Joomla HTML5, PHP, MySql, CSS, JavaScript, and custom cms framework.Content Management System (CMS) website Development gives you a chance to deal with your website.
-            </p>
+            <!-- Content Section -->
+            <div class="col-12 col-md-6">
+                <h3 class="mb-3" style="font-weight:bold; text-align:center; font-size: 35px; padding-top: 25px;">
+                    Content Management System
+                </h3>
+                <p class="text-dark" style="font-size: 17px; color:black; text-align: justify;line-height:25px;">
+
+
+                    We are having Content management system (CMS) Website Development experts which make the theme
+                    customization using WordPress, Magento, Drupal, Joomla HTML5, PHP, MySql, CSS, JavaScript, and
+                    custom cms framework.Content Management System (CMS) website Development gives you a chance to deal
+                    with your website.
+                </p>
+            </div>
         </div>
     </div>
-</div>
 
 
 
 
- <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-2 pb-5">
-        <div class="container">
-            <div class="row">
- <div class="row mt-20">
-                
-                <div class="col-xl-12 col-lg-12 pb-5">
-                    <div class="row">
-                       
-                          <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-2.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles"><h4 class="titles">WordPress Development
-</h4>
-    <p>
-
-
-
-            
-We have excellent experience in website design and development using PHP, WordPress, PSD to WordPress, Theme, Plugin Customization, Big-Commerce...
-
-</p>
-                                </div>
+    <div class="sotcox-details-page sotcox-team-details-page sotcox-service-details-page pt-2 pb-5">
+    <div class="container">
+        <div class="row mt-2">
+            <div class="col-xl-12 col-lg-12 pb-5">
+                <div class="row">
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 mt-3">
+                        <div class="stocox-support-box text-center p-3"
+                            style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 100%;">
+                            <div class="icon">
+                                <img src="assets/img/icons/service-details-icon-2.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="content mt-3">
+                                <h4 class="titles" style="font-size: 22px; font-weight: bold;">WordPress Development</h4>
+                                <p style="font-size: 16px; text-align: justify; line-height: 24px;">
+                                    We have excellent experience in website design and development using PHP, WordPress,
+                                    PSD to WordPress, Theme, Plugin Customization, Big-Commerce...
+                                </p>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-2.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles"> Magento Development</h4>
-                                    <p>         
-Magento gives your ecommerce platform the creative control it needs in order to heighten your user experience while increasing conversions for your business.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 mt-30">
-                            <div class="stocox-support-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 370px;">
-                                <div class="icon">
-                                    <img src="assets/img/icons/service-details-icon-3.png" alt="">
-                                </div>
-                                <div class="content mt-25">
-                                    <h4 class="titles"> Joomla Development </h4>
-                                    <p>
-
-
-           
-Joomla’s advanced capabilities provide you with diverse options to build and customize a unique online platform to fit your business...
-            </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        
-                         
-
-                        
                     </div>
+
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 mt-3">
+                        <div class="stocox-support-box text-center p-3"
+                            style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 100%;">
+                            <div class="icon">
+                                <img src="assets/img/icons/service-details-icon-2.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="content mt-3">
+                                <h4 class="titles" style="font-size: 22px; font-weight: bold;">Magento Development</h4>
+                                <p style="font-size: 16px; text-align: justify; line-height: 24px;">
+                                    Magento gives your ecommerce platform the creative control it needs in order to
+                                    heighten your user experience while increasing conversions for your business.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 mt-3">
+                        <div class="stocox-support-box text-center p-3"
+                            style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; height: 100%;">
+                            <div class="icon">
+                                <img src="assets/img/icons/service-details-icon-3.png" alt="" class="img-fluid">
+                            </div>
+                            <div class="content mt-3">
+                                <h4 class="titles" style="font-size: 22px; font-weight: bold;">Joomla Development</h4>
+                                <p style="font-size: 16px; text-align: justify; line-height: 24px;">
+                                    Joomla’s advanced capabilities provide you with diverse options to build and
+                                    customize a unique online platform to fit your business...
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
     </div>
 
-   
-
-
-  <div class="container py-2 pb-5" style="text-align: center;">
-    <div class="row align-items-center">
-        <!-- Image Section -->
-        <h1>CMS WEBSITE DEVELOPMENT</h1>
-        <!-- Content Section -->
-        <div class="col-12 col-md-12">
-            
-            <p class="text-dark pt-3" style="font-size: 17px; color:black; text-align: justify;line-height:25px;">
-  
-you can manage the content in which you need to deal with your customer interest. The content of your site is something which causes you to enhance your search engine rankings and furthermore, the look feel of the website. Through the inconvenience-free content management given by Content Management System (CMS) website development gives you a chance to deal with the content with no specialized help that is the reason website using CMS development is getting more respect these days. Brisk changes, better, simple and basic control board prompts enhanced profitability. We are a CMS development Company in India which clearly understands the needs of a website owner. We know WordPress, Plugin customization and Theme customization using WordPress, Magento, Drupal, Joomla HTML5, PHP, MySql, CSS, JavaScript, and XSLT. We know that in an information-driven economy the success relies totally on the ability to provide information to the users quickly. Hence, we provide you with a very sophisticated content management system where you have supreme control over the content of your website. We have expert WordPress developer, Magento developer, expert joomla developer and expert drupal developer.
- 
-            </p>
+    <!-- CMS Website Development Section -->
+    <div class="container py-0 pb-3 text-center">
+        <div class="row align-items-center">
+            <div class="col-12">
+                <h3 style="font-size: 20px; font-weight: bold;">CMS WEBSITE DEVELOPMENT</h3>
+            </div>
+            <div class="col-12">
+                <p class="text-dark pt-3"
+                    style="font-size: 16px; text-align: justify; line-height: 25px; padding: 0 10px;">
+                    You can manage the content in which you need to deal with your customer interest. The content of
+                    your site is something which causes you to enhance your search engine rankings and furthermore,
+                    the look feel of the website. Through the inconvenience-free content management given by Content
+                    Management System (CMS) website development gives you a chance to deal with the content with no
+                    specialized help that is the reason website using CMS development is getting more respect these
+                    days. Brisk changes, better, simple and basic control board prompts enhanced profitability. We
+                    are a CMS development Company in India which clearly understands the needs of a website owner.
+                    We know WordPress, Plugin customization and Theme customization using WordPress, Magento,
+                    Drupal, Joomla HTML5, PHP, MySql, CSS, JavaScript, and XSLT.
+                </p>
+            </div>
         </div>
-
-        
-        </div>
-
     </div>
 </div>
 
 
+
     <!--====== NEWSLETTER SECTION START ======-->
-   <!--  <div class="sotcox-newsletter-section">
+    <!--  <div class="sotcox-newsletter-section">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -402,7 +406,7 @@ you can manage the content in which you need to deal with your customer interest
     <!--====== NEWSLETTER SECTION END ======-->
 
     <!--====== CONTACT INFO SECTION START ======-->
-   <!--  <div class="sotcox-contact-info theme-light-bg pt-130">
+    <!--  <div class="sotcox-contact-info theme-light-bg pt-130">
         <div class="container">
             <div class="row mt-none-30">
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
@@ -453,8 +457,8 @@ you can manage the content in which you need to deal with your customer interest
     <!--====== CONTACT INFO SECTION END ======-->
 
     <!--====== FOOTER START ======-->
-    <footer class="sotcox-footer theme-light-bg pt-0" >
-        <div class="sotcox-footer-widgets" >
+    <footer class="sotcox-footer theme-light-bg pt-0">
+        <div class="sotcox-footer-widgets">
             <div class="container">
                 <div class="row mt-none-30">
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
@@ -463,29 +467,32 @@ you can manage the content in which you need to deal with your customer interest
                                 <a href="index.php" class="sotcox-footer-logo mb-20">
                                     <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
                                 </a>
-                              <div class="container mt-0">
-  <!-- Address Section -->
-  <div class="d-flex align-items-start mb-3">
-    <div>
-      <i class="far fa-map-marker-alt fa-lg text-primary" style="position: relative; top: 5px;"></i>
-    </div>
-    <div class="ms-3">
-      <p class="mb-0">
-        SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road, Hadapsar 411028
-      </p>
-    </div>
-  </div>
+                                <div class="container mt-0">
+                                    <!-- Address Section -->
+                                    <div class="d-flex align-items-start mb-3">
+                                        <div>
+                                            <i class="far fa-map-marker-alt fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">
+                                                SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega
+                                                Center, Magarpatta Road, Hadapsar 411028
+                                            </p>
+                                        </div>
+                                    </div>
 
-  <!-- Email Section -->
-  <div class="d-flex align-items-start">
-    <div>
-      <i class="far fa-envelope fa-lg text-primary" style="position: relative; top: 5px;"></i>
-    </div>
-    <div class="ms-3">
-      <p class="mb-0">info@sitsolutions.co.in</p>
-    </div>
-  </div>
-</div>
+                                    <!-- Email Section -->
+                                    <div class="d-flex align-items-start">
+                                        <div>
+                                            <i class="far fa-envelope fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">info@sitsolutions.co.in</p>
+                                        </div>
+                                    </div>
+                                </div>
 
 
                             </div>
@@ -493,16 +500,16 @@ you can manage the content in which you need to deal with your customer interest
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
                         <div class="widget">
-                            <h3 class="widget-title" >Services</h3>
-                            <ul >
-                                <li ><a href="mobile-development.php" >App Development</a></li>
-                                <li><a href="software-development.php" >Software Development</a></li>
-                                <li><a href="web-development.php" >Web Development</a></li>
-                                <li><a href="digital-marketing.php" >Digital Marketing</a></li>
-                                <li><a href="portfolio.php" >Portfolio</a></li>
+                            <h3 class="widget-title ms-3">Services</h3>
+                            <ul class="ms-3">
+                                <li><a href="mobile-development.php">App Development</a></li>
+                                <li><a href="software-development.php">Software Development</a></li>
+                                <li><a href="web-development.php">Web Development</a></li>
+                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                <li><a href="portfolio.php">Portfolio</a></li>
                             </ul>
                         </div>
-                        <div class="sotcox-social-links mt-40">
+                        <div class="sotcox-social-links mt-40 ms-3">
                             <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
                             <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
                             <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
@@ -511,16 +518,16 @@ you can manage the content in which you need to deal with your customer interest
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
                         <div class="widget">
-                            <h3 class="widget-title">Information</h3>
-                             <ul>
+                            <h3 class="widget-title ms-3">Information</h3>
+                            <ul class="ms-3">
                                 <li><a href="career.php">Career</a></li>
                                 <li><a href="about.php">Our Team</a></li>
                                 <li><a href="contact.php">Contact us</a></li>
                                 <li><a href="services.php">Services</a></li>
                                 <li><a href="product.php">Our Products
-                                </a></li>
-                            </ul> 
-                           
+                                    </a></li>
+                            </ul>
+
                         </div>
                     </div>
                 </div>
@@ -530,7 +537,8 @@ you can manage the content in which you need to deal with your customer interest
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <p >Copyright &copy; <span id="copyright-date" ></span> SIT Solutions Pvt Ltd, All Rights Reserved.</p>
+                        <p>Copyright &copy; <span id="copyright-date"></span> SIT Solutions Pvt Ltd, All Rights
+                            Reserved.</p>
                     </div>
                     <div class="col-md-4">
                         <div class="sotcox-backtotop">
@@ -564,4 +572,5 @@ you can manage the content in which you need to deal with your customer interest
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+
 </html>

@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:43 GMT -->
+
 <head>
 
     <!--========= Required meta tags =========-->
@@ -40,15 +41,15 @@
     <!--====== HEADER START ======-->
     <div id="sotcox-loadding" class="sotcox-loader">
         <div class="sotcox-spinner">
-          <div class="bounce1"></div>
-          <div class="bounce2"></div>
-          <div class="bounce3"></div>
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
         </div>
-      </div>
-     <!--====== HEADER END ======-->
+    </div>
+    <!--====== HEADER END ======-->
 
     <!--====== HEADER START ======-->
-    <header class="sotcox-header pt-2 pb-2" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
+    <header class="sotcox-header pt-2 pb-0" data-uk-sticky="top: 250; animation: uk-animation-slide-top;">
         <div class="container-fluid sotcox-container__fluid">
             <div class="row">
                 <div class="col-xl-10 col-lg-4 col-sm-6 col-7 align-self-center">
@@ -61,11 +62,11 @@
                                 <nav id="sotcox-navbar">
                                     <ul>
                                         <li><a href="index.php">Home</a>
-                                           
+
                                         </li>
                                         <li><a href="about.php">About Us</a></li>
-                                         <li ><a href="services.php">Services</a>
-                                      <!--     <ul class="sub-menu" >
+                                        <li><a href="services.php">Services</a>
+                                            <!--     <ul class="sub-menu" >
                                                 <li><a href="web-development.php">Web Development</a>
                                                 <ul class="sub-menu" style="width: 300px;">
                                                 <li ><a href="php-development.php">PHP Development</a></li>
@@ -85,7 +86,7 @@
                                         </li>
                                         <li><a href="product.php">Products</a>
                                         <li><a href="portfolio.php">Portfolio</a>
-                                        
+
                                         </li>
                                         <li><a href="contact.php">Contact</a></li>
                                     </ul>
@@ -136,15 +137,14 @@
     </div>
     <!--====== SEARCH POPUP END ======-->
 
-  <!--====== SIDE INFO FOR MOBILE START ======-->
+    <!--====== SIDE INFO FOR MOBILE START ======-->
     <aside class="side-info-wrapper mm-only">
         <nav>
             <div class="nav" id="nav-tab" role="tablist">
-                <a class="nav-link active" id="menu-tab-1-tab" data-bs-toggle="tab"
-                    href="#menu-tab-1" role="tab" aria-controls="menu-tab-1"
-                    aria-selected="true">Menu</a>
-                <a class="nav-link" id="menu-tab-2-tab" data-bs-toggle="tab" href="#menu-tab-2"
-                    role="tab" aria-controls="menu-tab-2" aria-selected="false">Info</a>
+                <a class="nav-link active" id="menu-tab-1-tab" data-bs-toggle="tab" href="#menu-tab-1" role="tab"
+                    aria-controls="menu-tab-1" aria-selected="true">Menu</a>
+                <a class="nav-link" id="menu-tab-2-tab" data-bs-toggle="tab" href="#menu-tab-2" role="tab"
+                    aria-controls="menu-tab-2" aria-selected="false">Info</a>
             </div>
         </nav>
         <div class="side-info__wrapper d-flex align-items-center justify-content-between">
@@ -158,10 +158,10 @@
             </div>
         </div>
         <div class="tab-content" id="nav-tabContent">
-            <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel"
-                aria-labelledby="menu-tab-1-tab">
+            <div class="tab-pane fade show active" id="menu-tab-1" role="tabpanel" aria-labelledby="menu-tab-1-tab">
                 <div class="search-box">
-                    <form class="search-widget sotcox-input-field position-relative" action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
+                    <form class="search-widget sotcox-input-field position-relative"
+                        action="https://techsometimes.com/products/html/sotcox/blog.php" method="get">
                         <div>
                             <input type="search" value="" required="" name="s" placeholder="Search...">
                             <button type="submit"><i class="far fa-search"></i></button>
@@ -170,12 +170,14 @@
                 </div>
                 <div class="sotcox-mobile-menu"></div>
             </div>
-            <div class="tab-pane fade" id="menu-tab-2" role="tabpanel"
-                aria-labelledby="menu-tab-2-tab">
+            <div class="tab-pane fade" id="menu-tab-2" role="tabpanel" aria-labelledby="menu-tab-2-tab">
                 <div class="side-info">
                     <div class="side-info__content mb-35">
                         <h4 class="title mb-10">About us</h4>
-                        <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
+                        <p>We at SIT are a team of IT experts, who came with a promise of delivering
+                            technology-empowered business solutions. We provide world-class software and web development
+                            services that focus on playing a supportive role to your business and its holistic growth.
+                        </p>
                         <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
                     </div>
                     <div class="contact__info--wrapper mt-15">
@@ -183,7 +185,8 @@
                         <ul class="contact__info list-unstyled">
                             <li>
                                 <span><i class="fas fa-map-marker-alt"></i></span>
-                                <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road , Hadapsar 411028</p>
+                                <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta
+                                    Road , Hadapsar 411028</p>
                             </li>
                             <li>
                                 <span><i class="fas fa-phone"></i></span>
@@ -222,16 +225,19 @@
         <div class="side-info">
             <div class="side-info__content mb-35">
                 <h4 class="title mb-10">About us</h4>
-                <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered business solutions. We provide world-class software and web development services that focus on playing a supportive role to your business and its holistic growth. </p>
+                <p>We at SIT are a team of IT experts, who came with a promise of delivering technology-empowered
+                    business solutions. We provide world-class software and web development services that focus on
+                    playing a supportive role to your business and its holistic growth. </p>
                 <a class="sotcox-btn sotcox-btn__small mt-20" href="contact.php">Contact us <span></span></a>
             </div>
             <div class="contact__info--wrapper mt-15">
                 <h4 class="title mb-15">Contact us</h4>
-                    </li>
+                </li>
                 <ul class="contact__info list-unstyled">
                     <li>
                         <span><i class="fas fa-map-marker-alt"></i></span>
-                        <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road , Hadapsar 411028</p>
+                        <p>SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road ,
+                            Hadapsar 411028</p>
                     </li>
                     <li>
                         <span><i class="fas fa-phone"></i></span>
@@ -284,25 +290,32 @@
     <!--====== BREADCRUMB SECTION END ======-->
 
     <!--====== ABOUT SECTION START ======-->
-    <div class="sotcox-about-section sotcox-about-section__style-2 pt-5 pb-5">
+    <div class="sotcox-about-section sotcox-about-section__style-2 pt-3 pb-3">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6">
                     <div class="sotcox-section-heading sotcox-section-heading__style-2">
                         <span class="sub-heading" style="font-size: 15px;">ABOUT US</span>
-                        <h2 class="heading" style="font-size: 48px; line-height: 60px;">We provide flexible IT services</h2>
+                        <h2 class="heading" style="font-size: 48px; line-height: 60px;">We provide flexible IT services
+                        </h2>
                     </div>
                 </div>
                 <div class="col-xl-6">
                     <div class="abt-desc">
                         <p style="text-align: justify;">
-             
-                            At SIT, we are a team of dedicated IT experts committed to delivering technology-driven business solutions. We specialize in providing world-class software and web development services, designed to support your business and foster holistic growth. With highly skilled professionals and robust global delivery capabilities, we ensure seamless alignment of technology solutions with your business goals. Our comprehensive offerings cover the entire IT lifecycle—from consulting to packaged, custom, and cloud-based applications, along with a wide range of infrastructure services.
-                                        </p>
+
+                            At SIT, we are a team of dedicated IT experts committed to delivering technology-driven
+                            business solutions. We specialize in providing world-class software and web development
+                            services, designed to support your business and foster holistic growth. With highly skilled
+                            professionals and robust global delivery capabilities, we ensure seamless alignment of
+                            technology solutions with your business goals. Our comprehensive offerings cover the entire
+                            IT lifecycle—from consulting to packaged, custom, and cloud-based applications, along with a
+                            wide range of infrastructure services.
+                        </p>
                     </div>
                 </div>
                 <div class="col-xl-12">
-                    <div class="sotcox-video-img mt-75">
+                    <div class="sotcox-video-img mt-5">
                         <div class="thumb">
                             <img src="assets/img/bg/about-bg-1.jpg" alt="">
                         </div>
@@ -316,13 +329,13 @@
     </div>
     <!--====== ABOUT SECTION END ======-->
 
-     <!-- ======= Facts Section ======= -->
-     <!-- ======= Facts Section ======= -->
+    <!-- ======= Facts Section ======= -->
+    <!-- ======= Facts Section ======= -->
 
-<!-- End Facts Section -->
+    <!-- End Facts Section -->
 
-<!-- ======= Client Scroller ======= -->
-<!-- 
+    <!-- ======= Client Scroller ======= -->
+    <!-- 
  <div class="row justify-content-center pt-5">
     <div class="col-xl-6">
         <div class="sotcox-section-heading sotcox-section-heading__style-2 text-center mb-60">
@@ -431,41 +444,50 @@
     <div class="sotcox-mission-section pt-4">
         <div class="container">
             <div class="row mt-none-30">
-                <div class="col-xl-4 col-lg-6 col-md-6 mt-30" >
-                    <div class="sotcox-mission-box wow fadeInUp" data-wow-delay="00ms" data-wow-duration="800ms" style="box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; height: 450px;">
+                <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
+                    <div class="sotcox-mission-box wow fadeInUp" data-wow-delay="00ms" data-wow-duration="800ms"
+                        style="box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; height: 450px;">
                         <div class="icon icon__1">
                             <img src="assets/img/icons/mission-1.png" alt="">
                         </div>
                         <div class="content mt-25">
                             <h2 class="title">Our History</h2>
-                            <p>Since 2017, we have been delivering exceptional Software, App, and Web Development services designed to drive business growth, enhance productivity, and achieve outstanding results.</p>
+                            <p>Since 2017, we have been delivering exceptional Software, App, and Web Development
+                                services designed to drive business growth, enhance productivity, and achieve
+                                outstanding results.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <div class="sotcox-mission-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms" style="box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; height: 450px;">
+                    <div class="sotcox-mission-box wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms"
+                        style="box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; height: 450px;">
                         <div class="icon icon__2">
                             <img src="assets/img/icons/mission-2.png" alt="">
                         </div>
                         <div class="content mt-25">
                             <h2 class="title">Our mission</h2>
-                <p style="text-align: justify;">
-                    Get in tune with the thought process of the customer and make him happy by delivering expected solutions. Follow business ethics and get along with the people who share your passion towards work and dream of a satisfied client.
-                    </p>
+                            <p style="text-align: justify;">
+                                Get in tune with the thought process of the customer and make him happy by delivering
+                                expected solutions. Follow business ethics and get along with the people who share your
+                                passion towards work and dream of a satisfied client.
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <div class="sotcox-mission-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms" style="box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; height: 450px;">
+                    <div class="sotcox-mission-box wow fadeInUp" data-wow-delay="400ms" data-wow-duration="800ms"
+                        style="box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; height: 450px;">
                         <div class="icon icon__3">
                             <img src="assets/img/icons/mission-3.png" alt="">
                         </div>
                         <div class="content mt-25">
                             <h2 class="title">Our vision</h2>
-                        <p style="text-align: justify;">
-                            SIT  Solutions is big enough to address our client needs and cares for client satisfaction by providing quality service. With a progressive attitude of our team combined with the organizational culture, we follow a vision. 
-                
-                              </p>
+                            <p style="text-align: justify;">
+                                SIT Solutions is big enough to address our client needs and cares for client
+                                satisfaction by providing quality service. With a progressive attitude of our team
+                                combined with the organizational culture, we follow a vision.
+
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -475,22 +497,27 @@
     <!--====== MISSION-VISSION SECTION END ======-->
 
     <!--====== WCU SECTION START ======-->
-    <div class="sotcox-about-section sotcox-about-section__style-2 pt-130 pb-4">
+    <div class="sotcox-about-section sotcox-about-section__style-2 pt-5 pb-4">
         <div class="container">
             <div class="row">
                 <div class="col-xl-6">
                     <div class="sotcox-section-heading sotcox-section-heading__style-2">
                         <span class="sub-heading">Our Skills</span>
-                        <h2 class="heading" >Custom IT solutions for your business</h2>
+                        <h2 class="heading">Custom IT solutions for your business</h2>
                     </div>
                 </div>
                 <div class="col-xl-6">
                     <div class="abt-desc">
-                        <p style="text-align: justify;">SIT Solutions employs a talented team of website and digital marketing with eCommerce experts whose main focal point in their web development arsenal is eCommerce. We’ve been working on web development for years and we’ve slowly grown into one of the top website development and digital marketing agencies in the country. Our Web development and eCommerce development skills have propelled us to the top of the talent pool.</p>
+                        <p style="text-align: justify;">SIT Solutions employs a talented team of website and digital
+                            marketing with eCommerce experts whose main focal point in their web development arsenal is
+                            eCommerce. We’ve been working on web development for years and we’ve slowly grown into one
+                            of the top website development and digital marketing agencies in the country. Our Web
+                            development and eCommerce development skills have propelled us to the top of the talent
+                            pool.</p>
                     </div>
                 </div>
                 <div class="col-xl-12">
-                    <div class="sotcox-video-img mt-75">
+                    <div class="sotcox-video-img mt-4">
                         <div class="thumb">
                             <img src="assets/img/bg/about-bg-2.jpg" alt="">
                         </div>
@@ -514,48 +541,60 @@
                             <div class="accordion" id="accordionFaq">
                                 <div class="accordion-item faq__item">
                                     <h2 class="accordion-header title" id="headingOne">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#collapseOne" aria-expanded="true"
+                                            aria-controls="collapseOne">
                                             Requirement
                                         </button>
                                     </h2>
-                                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionFaq">
+                                    <div id="collapseOne" class="accordion-collapse collapse show"
+                                        aria-labelledby="headingOne" data-bs-parent="#accordionFaq">
                                         <div class="accordion-body content">
-                                            <p>Frequent discussions, raw documents, references, immense experience, experts advice help us in finalising exact requirement.</p>
+                                            <p>Frequent discussions, raw documents, references, immense experience,
+                                                experts advice help us in finalising exact requirement.</p>
                                         </div>
                                     </div>
                                 </div>
-                                
+
                                 <div class="accordion-item faq__item">
                                     <h2 class="accordion-header title" id="headingTwo">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        <button class="accordion-button collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                            aria-expanded="false" aria-controls="collapseTwo">
                                             Designing
                                         </button>
                                     </h2>
-                                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionFaq">
+                                    <div id="collapseTwo" class="accordion-collapse collapse"
+                                        aria-labelledby="headingTwo" data-bs-parent="#accordionFaq">
                                         <div class="accordion-body content">
-                                            <p>Simple, User Friendly, Minimalistic coding, Responsive and Super Fast are the lines on which we create designs. </p>
+                                            <p>Simple, User Friendly, Minimalistic coding, Responsive and Super Fast are
+                                                the lines on which we create designs. </p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item faq__item">
                                     <h2 class="accordion-header title" id="headingFour">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        <button class="accordion-button collapsed" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                            aria-expanded="false" aria-controls="collapseThree">
                                             Development
                                         </button>
                                     </h2>
-                                    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionFaq">
+                                    <div id="collapseThree" class="accordion-collapse collapse"
+                                        aria-labelledby="headingThree" data-bs-parent="#accordionFaq">
                                         <div class="accordion-body content">
-                                            <p>Normalised Database, Latest Frameworks, Documented Development are the signs for road to success used by our Architects.</p>
+                                            <p>Normalised Database, Latest Frameworks, Documented Development are the
+                                                signs for road to success used by our Architects.</p>
                                         </div>
                                     </div>
                                 </div>
-                               
+
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-8">
-                    <div class="sotcox-achivement-boxs sotcox-achivement-boxs__style-2 ml-100">
+                    <div class="sotcox-achivement-boxs sotcox-achivement-boxs__style-2 ml-100 mt-0">
                         <div class="box-item box-item__style-2 active">
                             <div class="icon">
                                 <img src="assets/img/icons/achivement-2.png" alt="">
@@ -587,7 +626,7 @@
                             </div>
                             <div class="content">
                                 <h2 class="title d-flex align-items-end justify-content-center mt-30">
-                                    <span class="" >24/7</span>
+                                    <span class="">24/7</span>
                                     <span class="sign"></span>
                                 </h2>
                                 <p>Customer Support</p>
@@ -613,7 +652,7 @@
     <!--====== ACHIVEMENT SECTION END ======-->
 
     <!--====== TEAM SECTION START ======-->
-     <section class="sotcox-team-section fix mt-5">
+    <section class="sotcox-team-section fix mt-5">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6">
@@ -626,16 +665,16 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="sotcox-team-slider owl-carousel sotcox-slide-nav" data-team-slider>
-                        <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0">
                             <div class="thumb">
                                 <img src="assets/img/about/download.jpeg" alt="">
                             </div>
                             <div class="info mt-25">
                                 <h6 class="title">Santosh Kadam
-                            </h6>
+                                </h6>
                                 <span class="sub-title">CEO</span>
                                 <!-- <a href="team-details.php" class="sotcox-btn sotcox-btn__borderd mt-20">View Details <span></span></a> -->
-                               <!--  <div class="sotcox-social-links mt-20">
+                                <!--  <div class="sotcox-social-links mt-20">
                                     <a href="#0"><i class="fab fa-facebook-f"></i></a>
                                     <a href="#0"><i class="fab fa-twitter"></i></a>
                                     <a href="#0"><i class="fab fa-linkedin-in"></i></a>
@@ -643,9 +682,9 @@
                                 </div> -->
                             </div>
                         </div>
-                        <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0">
                             <div class="thumb">
-                               
+
                                 <img src="assets/img/about/download.jpeg" alt="">
                             </div>
                             <div class="info mt-25">
@@ -661,9 +700,9 @@
                                 </div> -->
                             </div>
                         </div>
-                         <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0">
                             <div class="thumb">
-                                
+
                                 <img src="assets/img/about/download.jpeg" alt="">
                             </div>
                             <div class="info mt-25">
@@ -678,7 +717,7 @@
                                 </div> -->
                             </div>
                         </div>
-                         <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0">
                             <div class="thumb">
                                 <img src="assets/img/about/download.png" alt="">
                             </div>
@@ -694,7 +733,7 @@
                                 </div> -->
                             </div>
                         </div>
-                         <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0">
                             <div class="thumb">
                                 <img src="assets/img/about/download.png" alt="">
                             </div>
@@ -710,9 +749,9 @@
                                 </div> -->
                             </div>
                         </div>
-                         <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0">
                             <div class="thumb">
-                                
+
                                 <img src="assets/img/about/download.jpeg" alt="">
                             </div>
                             <div class="info mt-25">
@@ -727,9 +766,9 @@
                                 </div> -->
                             </div>
                         </div>
-                         <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0">
                             <div class="thumb">
-                              
+
                                 <img src="assets/img/about/download.jpeg" alt="">
                             </div>
                             <div class="info mt-25">
@@ -744,7 +783,7 @@
                                 </div> -->
                             </div>
                         </div>
-                         <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0">
                             <div class="thumb">
                                 <img src="assets/img/about/download.png" alt="">
                             </div>
@@ -760,7 +799,7 @@
                                 </div> -->
                             </div>
                         </div>
-                         <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0" >
                             <div class="thumb">
                                 <img src="assets/img/about/download.png" alt="">
                             </div>
@@ -776,7 +815,7 @@
                                 </div> -->
                             </div>
                         </div>
-                         <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0">
                             <div class="thumb">
                                 <img src="assets/img/about/download.png" alt="">
                             </div>
@@ -792,7 +831,7 @@
                                 </div> -->
                             </div>
                         </div>
-                         <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0">
                             <div class="thumb">
                                 <img src="assets/img/about/download.png" alt="">
                             </div>
@@ -808,9 +847,9 @@
                                 </div> -->
                             </div>
                         </div>
-                        <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0">
                             <div class="thumb">
-                              
+
                                 <img src="assets/img/about/download.jpeg" alt="">
                             </div>
                             <div class="info mt-25">
@@ -825,9 +864,9 @@
                                 </div> -->
                             </div>
                         </div>
-                        <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0">
                             <div class="thumb">
-                             
+
                                 <img src="assets/img/about/download.jpeg" alt="">
                             </div>
                             <div class="info mt-25">
@@ -842,9 +881,9 @@
                                 </div> -->
                             </div>
                         </div>
-                        <div class="sotcox-team-item text-center">
+                        <div class="sotcox-team-item text-center pt-0">
                             <div class="thumb">
-                               
+
                                 <img src="assets/img/about/download.jpeg" alt="">
                             </div>
                             <div class="info mt-25">
@@ -859,13 +898,13 @@
                                 </div> -->
                             </div>
                         </div>
-                      
-                       
+
+
                     </div>
                 </div>
             </div>
         </div>
-    </section> 
+    </section>
     <!--====== TEAM SECTION END ======-->
 
     <!--====== ARTICLE SECTION START ======-->
@@ -977,49 +1016,52 @@
         <div class="container">
             <div class="row mt-none-30">
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <div class="sotcox-contact-info-box sotcox-contact-info-box__1 wow fadeInUp" data-wow-delay="0ms" data-wow-duration="800ms">
+                    <div class="sotcox-contact-info-box sotcox-contact-info-box__1 wow fadeInUp" data-wow-delay="0ms"
+                        data-wow-duration="800ms">
                         <div class="icon">
                             <img src="assets/img/icons/phone.png" alt="">
                         </div>
                         <div class="content">
                             <span>free consultation</span>
-                           <p>Schedule a Free <br> Consultation With Our <br> Specialist</p>
-                           <a href="contact.php" class="sotcox-btn">schedule now <span></span></a>
+                            <p>Schedule a Free <br> Consultation With Our <br> Specialist</p>
+                            <a href="contact.php" class="sotcox-btn">schedule now <span></span></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <div class="sotcox-contact-info-box sotcox-contact-info-box__2 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms">
+                    <div class="sotcox-contact-info-box sotcox-contact-info-box__2 wow fadeInUp" data-wow-delay="200ms"
+                        data-wow-duration="800ms">
                         <div class="icon">
                             <img src="assets/img/icons/envelope.png" alt="">
                         </div>
                         <div class="content">
                             <span>request</span>
-                           <p>Begin Your Adventure <br> With Experienced <br> Professionals</p>
-                           <a href="contact.php" class="sotcox-btn">send request <span></span></a>
+                            <p>Begin Your Adventure <br> With Experienced <br> Professionals</p>
+                            <a href="contact.php" class="sotcox-btn">send request <span></span></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-md-6 mt-30">
-                    <div class="sotcox-contact-info-box sotcox-contact-info-box__3 wow fadeInUp" data-wow-delay="200ms" data-wow-duration="800ms">
+                    <div class="sotcox-contact-info-box sotcox-contact-info-box__3 wow fadeInUp" data-wow-delay="200ms"
+                        data-wow-duration="800ms">
                         <div class="icon">
                             <img src="assets/img/icons/desk.png" alt="">
                         </div>
                         <div class="content">
                             <span>hellp desk</span>
-                           <p>Do You Have Questions or <br> Want More Information? <br> Call Now.</p>
-                          
-                                <div class="info-call">
-                                    <span class="icon">
-                                      <img src="assets/img/icons/phone-2.png" alt="">
-                                    </span>
-                                    <span class="number" style="font-size: 20px;">
-                                      <a href="tel:+919325993982" style="text-decoration: none; color: inherit;">
+                            <p>Do You Have Questions or <br> Want More Information? <br> Call Now.</p>
+
+                            <div class="info-call">
+                                <span class="icon">
+                                    <img src="assets/img/icons/phone-2.png" alt="">
+                                </span>
+                                <span class="number" style="font-size: 20px;">
+                                    <a href="tel:+919325993982" style="text-decoration: none; color: inherit;">
                                         +91-9325993982
-                                      </a>
-                                    </span>
-                                 
-                           </div>
+                                    </a>
+                                </span>
+
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -1028,95 +1070,99 @@
     </div>
     <!--====== CONTACT INFO SECTION END ======-->
 
-  <!--====== FOOTER START ======-->
-  <footer class="sotcox-footer theme-light-bg pt-0" >
-    <div class="sotcox-footer-widgets" >
-        <div class="container">
-            <div class="row mt-none-30">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
-                    <div class="widget">
-                        <div class="about-widget">
-                            <a href="index.php" class="sotcox-footer-logo mb-20">
-                                <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
-                            </a>
-                          <div class="container mt-0">
-<!-- Address Section -->
-<div class="d-flex align-items-start mb-3">
-<div>
-  <i class="far fa-map-marker-alt fa-lg text-primary" style="position: relative; top: 5px;"></i>
-</div>
-<div class="ms-3">
-  <p class="mb-0">
-    SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega Center, Magarpatta Road, Hadapsar 411028
-  </p>
-</div>
-</div>
+    <!--====== FOOTER START ======-->
+    <footer class="sotcox-footer theme-light-bg pt-0">
+        <div class="sotcox-footer-widgets">
+            <div class="container">
+                <div class="row mt-none-30">
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-10">
+                        <div class="widget">
+                            <div class="about-widget">
+                                <a href="index.php" class="sotcox-footer-logo mb-20">
+                                    <img src="assets/img/logo/logo.png" alt="" style="height: 150px;">
+                                </a>
+                                <div class="container mt-0">
+                                    <!-- Address Section -->
+                                    <div class="d-flex align-items-start mb-3">
+                                        <div>
+                                            <i class="far fa-map-marker-alt fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">
+                                                SIT Solutions Pvt. Ltd. Office no. 509/510, C Wing 4th Floor, Mega
+                                                Center, Magarpatta Road, Hadapsar 411028
+                                            </p>
+                                        </div>
+                                    </div>
 
-<!-- Email Section -->
-<div class="d-flex align-items-start">
-<div>
-  <i class="far fa-envelope fa-lg text-primary" style="position: relative; top: 5px;"></i>
-</div>
-<div class="ms-3">
-  <p class="mb-0">info@sitsolutions.co.in</p>
-</div>
-</div>
-</div>
+                                    <!-- Email Section -->
+                                    <div class="d-flex align-items-start">
+                                        <div>
+                                            <i class="far fa-envelope fa-lg text-primary"
+                                                style="position: relative; top: 5px;"></i>
+                                        </div>
+                                        <div class="ms-3">
+                                            <p class="mb-0">info@sitsolutions.co.in</p>
+                                        </div>
+                                    </div>
+                                </div>
 
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
+                        <div class="widget">
+                            <h3 class="widget-title ms-3">Services</h3>
+                            <ul class="ms-3">
+                                <li><a href="mobile-development.php">App Development</a></li>
+                                <li><a href="software-development.php">Software Development</a></li>
+                                <li><a href="web-development.php">Web Development</a></li>
+                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                <li><a href="portfolio.php">Portfolio</a></li>
+                            </ul>
+                        </div>
+                        <div class="sotcox-social-links mt-40 ms-3">
+                            <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
+                            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
+                        <div class="widget">
+                            <h3 class="widget-title ms-3">Information</h3>
+                            <ul class="ms-3">
+                                <li><a href="career.php">Career</a></li>
+                                <li><a href="about.php">Our Team</a></li>
+                                <li><a href="contact.php">Contact us</a></li>
+                                <li><a href="services.php">Services</a></li>
+                                <li><a href="product.php">Our Products
+                                    </a></li>
+                            </ul>
 
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
-                    <div class="widget">
-                        <h3 class="widget-title" >Services</h3>
-                        <ul >
-                            <li ><a href="mobile-development.php" >App Development</a></li>
-                            <li><a href="software-development.php" >Software Development</a></li>
-                            <li><a href="web-development.php" >Web Development</a></li>
-                            <li><a href="digital-marketing.php" >Digital Marketing</a></li>
-                            <li><a href="portfolio.php" >Portfolio</a></li>
-                        </ul>
+            </div>
+        </div>
+        <div class="sotcox-copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <p>Copyright &copy; <span id="copyright-date"></span> SIT Solutions Pvt Ltd, All Rights
+                            Reserved.</p>
                     </div>
-                    <div class="sotcox-social-links mt-40">
-                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                        <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
-                        <a href="https://www.google.com/"><i class="fab fa-google-plus-g"></i></a>
-                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 sotcox-custom-col mt-30">
-                    <div class="widget">
-                        <h3 class="widget-title">Information</h3>
-                         <ul>
-                            <li><a href="career.php">Career</a></li>
-                            <li><a href="about.php">Our Team</a></li>
-                            <li><a href="contact.php">Contact us</a></li>
-                            <li><a href="services.php">Services</a></li>
-                            <li><a href="product.php">Our Products
-                            </a></li>
-                        </ul> 
-                       
+                    <div class="col-md-4">
+                        <div class="sotcox-backtotop">
+                            <button data-sotcox-backtotop><i class="far fa-angle-up"></i> Go On Top</button>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="sotcox-copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8">
-                    <p >Copyright &copy; <span id="copyright-date" ></span> SIT Solutions Pvt Ltd, All Rights Reserved.</p>
-                </div>
-                <div class="col-md-4">
-                    <div class="sotcox-backtotop">
-                        <button data-sotcox-backtotop><i class="far fa-angle-up"></i> Go On Top</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
+    </footer>
     <!--====== FOOTER END ======-->
 
     <!--========= JS Here =========-->
@@ -1140,4 +1186,5 @@
 
 
 <!-- Mirrored from techsometimes.com/products/html/sotcox/portfolio-details.php by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 15 Jan 2025 05:53:53 GMT -->
+
 </html>
