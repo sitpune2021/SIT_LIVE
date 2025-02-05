@@ -307,7 +307,7 @@
                 <div class="col-xl-12">
                     <div class="sotcox-project-wrapper mt-50">
                         <div class="row sotcox-project-grid mt-none-30">
-                            <div class="col-xl-6 col-lg-4 cat-1 cat-4 cat-3 mt-30 grid">
+                            <div class="col-xl-6 col-lg-4 cat-1 cat-4 cat-3 mt-0 grid">
                                 <div class="sotcox-project-item sotcox-project-item__style-2">
                                     <div class="content">
                                         <h4 class="title"><a href="#">Backup Blockchain & Crypto..</a></h4>
